@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni272F" format="2">
+  <advance width="256"/>
+  <unicode hex="272F"/>
+  <outline>
+    <contour>
+      <point x="115" y="157" type="line"/>
+      <point x="128" y="193" type="line"/>
+      <point x="153" y="122" type="line"/>
+      <point x="226" y="122" type="line"/>
+      <point x="167" y="79" type="line"/>
+      <point x="190" y="8" type="line"/>
+      <point x="128" y="52" type="line"/>
+      <point x="65" y="8" type="line"/>
+      <point x="89" y="79" type="line"/>
+      <point x="30" y="122" type="line"/>
+      <point x="103" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="114" type="line"/>
+      <point x="127" y="179" type="line"/>
+      <point x="107" y="118" type="line"/>
+      <point x="127" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="113" type="line"/>
+      <point x="44" y="117" type="line"/>
+      <point x="95" y="81" type="line"/>
+      <point x="127" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="117" type="line"/>
+      <point x="149" y="117" type="line"/>
+      <point x="128" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="86" type="line"/>
+      <point x="128" y="91" type="line"/>
+      <point x="180" y="25" type="line"/>
+      <point x="162" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="57" type="line"/>
+      <point x="127" y="90" type="line"/>
+      <point x="72" y="18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

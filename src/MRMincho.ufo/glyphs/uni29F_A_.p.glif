@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni29FA.p" format="2">
+  <advance width="141"/>
+  <outline>
+    <contour>
+      <point x="41" y="142" type="line"/>
+      <point x="41" y="187" type="line"/>
+      <point x="50" y="187" type="line"/>
+      <point x="50" y="97" type="line"/>
+      <point x="89" y="97" type="line"/>
+      <point x="89" y="187" type="line"/>
+      <point x="98" y="187" type="line"/>
+      <point x="98" y="97" type="line"/>
+      <point x="131" y="97" type="line"/>
+      <point x="131" y="88" type="line"/>
+      <point x="98" y="88" type="line"/>
+      <point x="98" y="-2" type="line"/>
+      <point x="89" y="-2" type="line"/>
+      <point x="89" y="88" type="line"/>
+      <point x="50" y="88" type="line"/>
+      <point x="50" y="-2" type="line"/>
+      <point x="41" y="-2" type="line"/>
+      <point x="41" y="88" type="line"/>
+      <point x="8" y="88" type="line"/>
+      <point x="8" y="97" type="line"/>
+      <point x="41" y="97" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFFEA" format="2">
+  <advance width="128"/>
+  <unicode hex="FFEA"/>
+  <outline>
+    <contour>
+      <point x="64" y="206" type="line"/>
+      <point x="109" y="150" type="line"/>
+      <point x="109" y="149" type="line"/>
+      <point x="110" y="147"/>
+      <point x="110" y="146" type="qcurve" smooth="yes"/>
+      <point x="110" y="145" type="line"/>
+      <point x="108" y="145"/>
+      <point x="106" y="147" type="qcurve"/>
+      <point x="68" y="180" type="line"/>
+      <point x="68" y="-27" type="line"/>
+      <point x="59" y="-27" type="line"/>
+      <point x="59" y="180" type="line"/>
+      <point x="20" y="146" type="line"/>
+      <point x="19" y="146" type="line"/>
+      <point x="19" y="148" type="line"/>
+      <point x="19" y="149" type="line"/>
+      <point x="19" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.25</real>
+        <key>line_tol</key>
+        <real>0.25</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

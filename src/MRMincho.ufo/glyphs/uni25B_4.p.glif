@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25B4.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="64" y="147" type="line"/>
+      <point x="113" y="56" type="line"/>
+      <point x="16" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

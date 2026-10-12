@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF5A.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="26" y="115" type="line"/>
+      <point x="113" y="115" type="line"/>
+      <point x="113" y="112" type="line"/>
+      <point x="34" y="9" type="line"/>
+      <point x="55" y="9" type="line" smooth="yes"/>
+      <point x="59" y="9"/>
+      <point x="64" y="9"/>
+      <point x="66" y="9" type="qcurve" smooth="yes"/>
+      <point x="77" y="9"/>
+      <point x="81" y="9"/>
+      <point x="83" y="10" type="qcurve"/>
+      <point x="89" y="12"/>
+      <point x="95" y="18" type="qcurve" smooth="yes"/>
+      <point x="104" y="27"/>
+      <point x="108" y="38" type="qcurve" smooth="yes"/>
+      <point x="109" y="41" type="line"/>
+      <point x="115" y="39" type="line"/>
+      <point x="106" y="3" type="line"/>
+      <point x="12" y="3" type="line"/>
+      <point x="12" y="6" type="line"/>
+      <point x="91" y="109" type="line"/>
+      <point x="52" y="109" type="line"/>
+      <point x="41" y="107"/>
+      <point x="29" y="96"/>
+      <point x="22" y="82" type="qcurve"/>
+      <point x="22" y="81" type="line"/>
+      <point x="15" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

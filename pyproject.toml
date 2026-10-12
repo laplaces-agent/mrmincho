@@ -1,0 +1,22 @@
+[project]
+name = "mrmincho"
+version = "0.0.0"
+description = "MR Mincho: metric-compatible MS Mincho / MS PMincho (Latin and symbols); build, trace and check tools"
+license = "GPL-3.0-or-later"
+requires-python = ">=3.12"
+dependencies = [
+    "fonttools[ufo]",
+    "ufoLib2",
+    "ufo2ft",
+    "freetype-py",
+    "uharfbuzz",
+    "skia-pathops",
+    "numpy",
+    "pillow",
+    "typing-extensions>=4.16.0",
+    "scipy>=1.18.1",
+    "ttfautohint-py>=0.6.1",
+]
+
+[tool.uv]
+package = false

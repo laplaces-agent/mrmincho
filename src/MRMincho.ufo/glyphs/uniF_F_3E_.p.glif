@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF3E.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="51" y="205" type="line"/>
+      <point x="52" y="207" type="line"/>
+      <point x="76" y="207" type="line"/>
+      <point x="97" y="180" type="line"/>
+      <point x="95" y="178" type="line"/>
+      <point x="64" y="198" type="line"/>
+      <point x="32" y="178" type="line"/>
+      <point x="30" y="180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

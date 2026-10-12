@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF07" format="2">
+  <advance width="256"/>
+  <unicode hex="FF07"/>
+  <outline>
+    <contour>
+      <point x="112" y="200" type="line"/>
+      <point x="144" y="200" type="line"/>
+      <point x="128" y="137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2739" format="2">
+  <advance width="256"/>
+  <unicode hex="2739"/>
+  <outline>
+    <contour>
+      <point x="122" y="161" type="line"/>
+      <point x="128" y="185" type="line"/>
+      <point x="140" y="137" type="line"/>
+      <point x="175" y="173" type="line"/>
+      <point x="161" y="125" type="line"/>
+      <point x="208" y="139" type="line"/>
+      <point x="173" y="104" type="line"/>
+      <point x="221" y="92" type="line"/>
+      <point x="173" y="80" type="line"/>
+      <point x="208" y="46" type="line"/>
+      <point x="161" y="59" type="line"/>
+      <point x="175" y="12" type="line"/>
+      <point x="140" y="47" type="line"/>
+      <point x="128" y="-1" type="line"/>
+      <point x="116" y="47" type="line"/>
+      <point x="82" y="12" type="line"/>
+      <point x="95" y="59" type="line"/>
+      <point x="49" y="46" type="line"/>
+      <point x="83" y="80" type="line"/>
+      <point x="35" y="92" type="line"/>
+      <point x="83" y="104" type="line"/>
+      <point x="48" y="139" type="line"/>
+      <point x="95" y="125" type="line"/>
+      <point x="82" y="172" type="line"/>
+      <point x="116" y="137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

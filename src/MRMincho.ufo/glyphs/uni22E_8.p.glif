@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22E8.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="113" y="170" type="line"/>
+      <point x="114" y="171" type="line"/>
+      <point x="120" y="164" type="line"/>
+      <point x="119" y="163" type="line" smooth="yes"/>
+      <point x="114" y="158"/>
+      <point x="102" y="148"/>
+      <point x="96" y="143" type="qcurve"/>
+      <point x="66" y="121"/>
+      <point x="29" y="110" type="qcurve" smooth="yes"/>
+      <point x="26" y="109" type="line"/>
+      <point x="34" y="107" type="line"/>
+      <point x="77" y="92"/>
+      <point x="111" y="63" type="qcurve" smooth="yes"/>
+      <point x="120" y="55" type="line"/>
+      <point x="114" y="48" type="line"/>
+      <point x="112" y="50" type="line" smooth="yes"/>
+      <point x="98" y="63"/>
+      <point x="80" y="75" type="qcurve" smooth="yes"/>
+      <point x="48" y="96"/>
+      <point x="4" y="109" type="qcurve"/>
+      <point x="3" y="109" type="line"/>
+      <point x="5" y="110" type="line"/>
+      <point x="17" y="113"/>
+      <point x="28" y="117" type="qcurve" smooth="yes"/>
+      <point x="76" y="135"/>
+      <point x="108" y="165" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="66" y="46" type="line"/>
+      <point x="70" y="54" type="line"/>
+      <point x="80" y="54" type="line"/>
+      <point x="69" y="33" type="line"/>
+      <point x="72" y="31" type="line"/>
+      <point x="79" y="25"/>
+      <point x="88" y="25" type="qcurve" smooth="yes"/>
+      <point x="89" y="25" type="line" smooth="yes"/>
+      <point x="92" y="25"/>
+      <point x="96" y="26" type="qcurve"/>
+      <point x="104" y="29"/>
+      <point x="111" y="39" type="qcurve"/>
+      <point x="112" y="40" type="line"/>
+      <point x="117" y="38" type="line"/>
+      <point x="114" y="34" type="line"/>
+      <point x="111" y="29"/>
+      <point x="107" y="26" type="qcurve"/>
+      <point x="104" y="22"/>
+      <point x="100" y="20" type="qcurve"/>
+      <point x="95" y="17"/>
+      <point x="90" y="16" type="qcurve"/>
+      <point x="89" y="16"/>
+      <point x="87" y="16" type="qcurve" smooth="yes"/>
+      <point x="85" y="16"/>
+      <point x="84" y="16" type="qcurve"/>
+      <point x="77" y="17"/>
+      <point x="71" y="20" type="qcurve"/>
+      <point x="67" y="21"/>
+      <point x="64" y="24" type="qcurve"/>
+      <point x="54" y="5" type="line"/>
+      <point x="44" y="5" type="line"/>
+      <point x="57" y="29" type="line"/>
+      <point x="54" y="31" type="line" smooth="yes"/>
+      <point x="47" y="36"/>
+      <point x="39" y="36" type="qcurve" smooth="yes"/>
+      <point x="33" y="36"/>
+      <point x="28" y="33" type="qcurve" smooth="yes"/>
+      <point x="21" y="29"/>
+      <point x="15" y="21" type="qcurve"/>
+      <point x="15" y="20" type="line"/>
+      <point x="10" y="22" type="line"/>
+      <point x="11" y="24"/>
+      <point x="13" y="27"/>
+      <point x="14" y="28" type="qcurve"/>
+      <point x="24" y="41"/>
+      <point x="36" y="43" type="qcurve"/>
+      <point x="38" y="44"/>
+      <point x="41" y="44" type="qcurve" smooth="yes"/>
+      <point x="42" y="44" type="line" smooth="yes"/>
+      <point x="52" y="44"/>
+      <point x="61" y="39" type="qcurve"/>
+      <point x="62" y="38" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.1</real>
+        <key>line_tol</key>
+        <real>0.1</real>
+        <key>opttolerance</key>
+        <real>0.2</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

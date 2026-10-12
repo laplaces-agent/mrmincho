@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF5A.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="91" y="203" type="line"/>
+      <point x="178" y="203" type="line"/>
+      <point x="178" y="200" type="line"/>
+      <point x="99" y="97" type="line"/>
+      <point x="120" y="97" type="line" smooth="yes"/>
+      <point x="124" y="97"/>
+      <point x="129" y="97"/>
+      <point x="131" y="97" type="qcurve" smooth="yes"/>
+      <point x="142" y="97"/>
+      <point x="146" y="97"/>
+      <point x="148" y="98" type="qcurve"/>
+      <point x="154" y="100"/>
+      <point x="160" y="106" type="qcurve" smooth="yes"/>
+      <point x="169" y="115"/>
+      <point x="173" y="126" type="qcurve" smooth="yes"/>
+      <point x="174" y="129" type="line"/>
+      <point x="180" y="127" type="line"/>
+      <point x="171" y="91" type="line"/>
+      <point x="77" y="91" type="line"/>
+      <point x="77" y="94" type="line"/>
+      <point x="156" y="197" type="line"/>
+      <point x="117" y="197" type="line"/>
+      <point x="106" y="195"/>
+      <point x="94" y="184"/>
+      <point x="87" y="170" type="qcurve"/>
+      <point x="87" y="169" type="line"/>
+      <point x="80" y="171" type="line"/>
+    </contour>
+  </outline>
+</glyph>

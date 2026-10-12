@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni27AC.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="122" y="146" type="line"/>
+      <point x="122" y="158" type="line"/>
+      <point x="236" y="106" type="line"/>
+      <point x="236" y="77" type="line"/>
+      <point x="193" y="31" type="line"/>
+      <point x="175" y="53" type="line"/>
+      <point x="77" y="53" type="line"/>
+      <point x="32" y="102" type="line"/>
+      <point x="32" y="134" type="line"/>
+      <point x="122" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="101" type="line"/>
+      <point x="128" y="124" type="line"/>
+      <point x="143" y="105" type="line"/>
+      <point x="38" y="105" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="179" y="60" type="line"/>
+      <point x="194" y="40" type="line"/>
+      <point x="229" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

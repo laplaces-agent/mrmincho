@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AE.p" format="2">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="2" y="171" type="line"/>
+      <point x="2" y="174" type="line"/>
+      <point x="46" y="174" type="line"/>
+      <point x="46" y="168" type="line"/>
+      <point x="37" y="168" type="line"/>
+      <point x="33" y="167"/>
+      <point x="32" y="164" type="qcurve"/>
+      <point x="32" y="161" type="line"/>
+      <point x="80" y="80" type="line"/>
+      <point x="82" y="80" type="line"/>
+      <point x="107" y="118" type="line" smooth="yes"/>
+      <point x="120" y="139"/>
+      <point x="130" y="155"/>
+      <point x="132" y="158"/>
+      <point x="132" y="159" type="qcurve"/>
+      <point x="133" y="161" type="line"/>
+      <point x="133" y="163"/>
+      <point x="131" y="165" type="qcurve"/>
+      <point x="129" y="166" type="line"/>
+      <point x="127" y="168"/>
+      <point x="120" y="168" type="qcurve" smooth="yes"/>
+      <point x="118" y="168" type="line"/>
+      <point x="118" y="174" type="line"/>
+      <point x="157" y="174" type="line"/>
+      <point x="157" y="168" type="line"/>
+      <point x="151" y="168" type="line"/>
+      <point x="145" y="166"/>
+      <point x="139" y="156" type="qcurve" smooth="yes"/>
+      <point x="87" y="75" type="line"/>
+      <point x="87" y="14" type="line"/>
+      <point x="88" y="11"/>
+      <point x="93" y="9" type="qcurve"/>
+      <point x="105" y="9" type="line"/>
+      <point x="105" y="3" type="line"/>
+      <point x="53" y="3" type="line"/>
+      <point x="53" y="9" type="line"/>
+      <point x="58" y="9" type="line" smooth="yes"/>
+      <point x="65" y="9"/>
+      <point x="70" y="11"/>
+      <point x="71" y="14" type="qcurve"/>
+      <point x="71" y="69" type="line"/>
+      <point x="17" y="158" type="line"/>
+      <point x="11" y="165" type="line"/>
+      <point x="8" y="168"/>
+      <point x="3" y="168" type="qcurve" smooth="yes"/>
+      <point x="2" y="168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>220</integer>
+    <key>capHeight</key>
+    <integer>175</integer>
+    <key>descender</key>
+    <integer>-36</integer>
+    <key>familyName</key>
+    <string>MR Mincho</string>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-24</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>12</integer>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>256</integer>
+    <key>xHeight</key>
+    <integer>116</integer>
+  </dict>
+</plist>

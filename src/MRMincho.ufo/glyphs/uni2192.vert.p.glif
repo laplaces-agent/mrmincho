@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2192.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="123" y="107" type="line"/>
+      <point x="123" y="210" type="line"/>
+      <point x="132" y="210" type="line"/>
+      <point x="132" y="4" type="line"/>
+      <point x="169" y="36" type="line"/>
+      <point x="170" y="36" type="line"/>
+      <point x="170" y="37"/>
+      <point x="171" y="37" type="qcurve" smooth="yes"/>
+      <point x="172" y="37"/>
+      <point x="172" y="35" type="qcurve" smooth="yes"/>
+      <point x="172" y="34" type="line"/>
+      <point x="172" y="33" type="line"/>
+      <point x="127" y="-23" type="line"/>
+      <point x="82" y="33" type="line"/>
+      <point x="81" y="34" type="line"/>
+      <point x="81" y="36" type="line"/>
+      <point x="81" y="37" type="line"/>
+      <point x="82" y="38" type="line"/>
+      <point x="85" y="36" type="line"/>
+      <point x="123" y="4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.25</real>
+        <key>line_tol</key>
+        <real>0.25</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

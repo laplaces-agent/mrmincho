@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3017.vert" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="8" y="159" type="line"/>
+      <point x="8" y="192" type="line"/>
+      <point x="10" y="191" type="line"/>
+      <point x="32" y="175"/>
+      <point x="50" y="168" type="qcurve" smooth="yes"/>
+      <point x="80" y="157"/>
+      <point x="117" y="155" type="qcurve"/>
+      <point x="121" y="155"/>
+      <point x="127" y="155" type="qcurve" smooth="yes"/>
+      <point x="133" y="155"/>
+      <point x="139" y="155" type="qcurve"/>
+      <point x="172" y="157"/>
+      <point x="200" y="167" type="qcurve"/>
+      <point x="205" y="168"/>
+      <point x="212" y="171"/>
+      <point x="215" y="173" type="qcurve"/>
+      <point x="229" y="179"/>
+      <point x="244" y="191" type="qcurve"/>
+      <point x="246" y="192" type="line"/>
+      <point x="246" y="126" type="line"/>
+      <point x="8" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="172" type="qcurve"/>
+      <point x="17" y="174" type="line"/>
+      <point x="17" y="135" type="line"/>
+      <point x="237" y="135" type="line"/>
+      <point x="237" y="174" type="line"/>
+      <point x="236" y="173" type="line"/>
+      <point x="227" y="168"/>
+      <point x="217" y="164" type="qcurve" smooth="yes"/>
+      <point x="186" y="150"/>
+      <point x="149" y="147" type="qcurve" smooth="yes"/>
+      <point x="138" y="146"/>
+      <point x="127" y="146" type="qcurve" smooth="yes"/>
+      <point x="120" y="146"/>
+      <point x="113" y="146" type="qcurve"/>
+      <point x="83" y="148"/>
+      <point x="58" y="156" type="qcurve" smooth="yes"/>
+      <point x="38" y="162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.1</real>
+        <key>line_tol</key>
+        <real>0.1</real>
+        <key>opttolerance</key>
+        <real>0.2</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

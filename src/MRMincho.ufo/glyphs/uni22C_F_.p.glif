@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22CF.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="62" y="145" type="line"/>
+      <point x="62" y="146" type="line"/>
+      <point x="63" y="141" type="line"/>
+      <point x="71" y="70"/>
+      <point x="119" y="43" type="qcurve"/>
+      <point x="120" y="42" type="line"/>
+      <point x="115" y="36" type="line"/>
+      <point x="114" y="36" type="line"/>
+      <point x="101" y="45"/>
+      <point x="91" y="55" type="qcurve" smooth="yes"/>
+      <point x="67" y="79"/>
+      <point x="62" y="111" type="qcurve"/>
+      <point x="62" y="112" type="line"/>
+      <point x="62" y="111" type="line"/>
+      <point x="57" y="66"/>
+      <point x="10" y="37" type="qcurve"/>
+      <point x="9" y="36" type="line"/>
+      <point x="4" y="42" type="line"/>
+      <point x="6" y="43" type="line"/>
+      <point x="52" y="69"/>
+      <point x="60" y="131" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

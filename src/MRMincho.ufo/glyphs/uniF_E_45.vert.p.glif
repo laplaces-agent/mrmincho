@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE45.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="101" y="189" type="qcurve"/>
+      <point x="106" y="188" type="line"/>
+      <point x="125" y="181"/>
+      <point x="154" y="158"/>
+      <point x="157" y="147" type="qcurve"/>
+      <point x="157" y="143" type="line" smooth="yes"/>
+      <point x="157" y="131"/>
+      <point x="148" y="130" type="qcurve"/>
+      <point x="147" y="130" type="line" smooth="yes"/>
+      <point x="142" y="130"/>
+      <point x="138" y="138" type="qcurve" smooth="yes"/>
+      <point x="122" y="168"/>
+      <point x="102" y="185" type="qcurve"/>
+      <point x="100" y="187"/>
+      <point x="100" y="188" type="qcurve" smooth="yes"/>
+      <point x="100" y="189"/>
+    </contour>
+  </outline>
+</glyph>

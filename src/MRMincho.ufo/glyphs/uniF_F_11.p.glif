@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF11.p" format="2">
+  <advance width="159"/>
+  <outline>
+    <contour>
+      <point x="89" y="176" type="qcurve"/>
+      <point x="89" y="177" type="line"/>
+      <point x="92" y="177" type="line"/>
+      <point x="92" y="21" type="line"/>
+      <point x="94" y="13"/>
+      <point x="102" y="10" type="qcurve"/>
+      <point x="104" y="9"/>
+      <point x="109" y="9"/>
+      <point x="118" y="9" type="qcurve" smooth="yes"/>
+      <point x="129" y="9" type="line"/>
+      <point x="129" y="3" type="line"/>
+      <point x="36" y="3" type="line"/>
+      <point x="36" y="9" type="line"/>
+      <point x="61" y="9" type="line"/>
+      <point x="71" y="11"/>
+      <point x="73" y="22" type="qcurve"/>
+      <point x="73" y="138" type="line"/>
+      <point x="70" y="150"/>
+      <point x="62" y="152" type="qcurve"/>
+      <point x="32" y="152" type="line"/>
+      <point x="32" y="158" type="line"/>
+      <point x="38" y="158" type="line" smooth="yes"/>
+      <point x="57" y="158"/>
+      <point x="83" y="168"/>
+    </contour>
+  </outline>
+</glyph>

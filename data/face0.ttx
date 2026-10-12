@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.66">
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="5.11"/>
+    <checkSumAdjustment value="0x39651f10"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="256"/>
+    <created value="Sun Jul  2 17:54:52 2006"/>
+    <modified value="Mon Apr 17 11:57:10 2017"/>
+    <xMin value="-250"/>
+    <yMin value="-35"/>
+    <xMax value="255"/>
+    <yMax value="220"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="25"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="1"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="220"/>
+    <descent value="-36"/>
+    <lineGap value="0"/>
+    <advanceWidthMax value="256"/>
+    <minLeftSideBearing value="-250"/>
+    <minRightSideBearing value="-25"/>
+    <xMaxExtent value="255"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="19397"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="19398"/>
+    <maxPoints value="488"/>
+    <maxContours value="77"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="1"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="10"/>
+    <maxFunctionDefs value="36"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="1024"/>
+    <maxSizeOfInstructions value="433"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="3"/>
+    <xAvgCharWidth value="128"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00001000"/>
+    <ySubscriptXSize value="128"/>
+    <ySubscriptYSize value="128"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="92"/>
+    <ySuperscriptXSize value="128"/>
+    <ySuperscriptYSize value="128"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="220"/>
+    <yStrikeoutSize value="13"/>
+    <yStrikeoutPosition value="66"/>
+    <sFamilyClass value="261"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="2"/>
+      <bWeight value="6"/>
+      <bProportion value="9"/>
+      <bContrast value="4"/>
+      <bStrokeVariation value="2"/>
+      <bArmStyle value="5"/>
+      <bLetterForm value="8"/>
+      <bMidline value="3"/>
+      <bXHeight value="4"/>
+    </panose>
+    <ulUnicodeRange1 value="11100000 00000000 00000010 11111111"/>
+    <ulUnicodeRange2 value="01101010 11000111 11111101 11111011"/>
+    <ulUnicodeRange3 value="00001000 00000000 00000000 00010010"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="RICO"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="0"/>
+    <usLastCharIndex value="65518"/>
+    <sTypoAscender value="220"/>
+    <sTypoDescender value="-36"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="220"/>
+    <usWinDescent value="36"/>
+    <ulCodePageRange1 value="01000000 00000010 00000000 10011111"/>
+    <ulCodePageRange2 value="11011111 11010111 00000000 00000000"/>
+    <sxHeight value="115"/>
+    <sCapHeight value="174"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="2"/>
+  </OS_2>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-24"/>
+    <underlineThickness value="12"/>
+    <isFixedPitch value="1"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+  <gasp>
+    <gaspRange rangeMaxPPEM="48" rangeGaspBehavior="1"/>
+    <gaspRange rangeMaxPPEM="65535" rangeGaspBehavior="3"/>
+  </gasp>
+
+  <vhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="220"/>
+    <descent value="36"/>
+    <lineGap value="0"/>
+    <advanceHeightMax value="256"/>
+    <minTopSideBearing value="0"/>
+    <minBottomSideBearing value="-87"/>
+    <yMaxExtent value="255"/>
+    <caretSlopeRise value="0"/>
+    <caretSlopeRun value="1"/>
+    <caretOffset value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <reserved4 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfVMetrics value="19398"/>
+  </vhea>
+
+</ttFont>

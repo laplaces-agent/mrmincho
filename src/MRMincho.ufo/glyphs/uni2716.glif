@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2716" format="2">
+  <advance width="256"/>
+  <unicode hex="2716"/>
+  <outline>
+    <contour>
+      <point x="60" y="160" type="line"/>
+      <point x="83" y="182" type="line"/>
+      <point x="128" y="138" type="line"/>
+      <point x="172" y="182" type="line"/>
+      <point x="217" y="137" type="line"/>
+      <point x="173" y="93" type="line"/>
+      <point x="218" y="47" type="line"/>
+      <point x="173" y="2" type="line"/>
+      <point x="128" y="48" type="line"/>
+      <point x="82" y="2" type="line"/>
+      <point x="37" y="47" type="line"/>
+      <point x="82" y="93" type="line"/>
+      <point x="38" y="137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

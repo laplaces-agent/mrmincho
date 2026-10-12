@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2507.p" format="2">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="74" y="189" type="line"/>
+      <point x="74" y="220" type="line"/>
+      <point x="95" y="220" type="line"/>
+      <point x="95" y="157" type="line"/>
+      <point x="74" y="157" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="93" type="line"/>
+      <point x="74" y="125" type="line"/>
+      <point x="95" y="125" type="line"/>
+      <point x="95" y="61" type="line"/>
+      <point x="74" y="61" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="-3" type="line"/>
+      <point x="74" y="29" type="line"/>
+      <point x="95" y="29" type="line"/>
+      <point x="95" y="-35" type="line"/>
+      <point x="74" y="-35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

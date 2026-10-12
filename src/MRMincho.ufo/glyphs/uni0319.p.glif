@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0319.p" format="2">
+  <advance width="64"/>
+  <outline>
+    <contour>
+      <point x="15" y="-18" type="line"/>
+      <point x="15" y="-2" type="line"/>
+      <point x="24" y="-2" type="line"/>
+      <point x="24" y="-14" type="line"/>
+      <point x="55" y="-14" type="line"/>
+      <point x="55" y="-23" type="line"/>
+      <point x="24" y="-23" type="line"/>
+      <point x="24" y="-35" type="line"/>
+      <point x="15" y="-35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

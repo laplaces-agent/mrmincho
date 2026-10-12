@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2423.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="24" type="line"/>
+      <point x="54" y="24" type="line"/>
+      <point x="54" y="-16" type="line"/>
+      <point x="202" y="-16" type="line"/>
+      <point x="202" y="24" type="line"/>
+      <point x="211" y="24" type="line"/>
+      <point x="211" y="-25" type="line"/>
+      <point x="45" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

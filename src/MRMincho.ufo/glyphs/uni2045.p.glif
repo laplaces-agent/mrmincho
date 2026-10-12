@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2045.p" format="2">
+  <advance width="100"/>
+  <outline>
+    <contour>
+      <point x="55" y="197" type="line"/>
+      <point x="85" y="202" type="line"/>
+      <point x="85" y="192" type="line"/>
+      <point x="35" y="183" type="line"/>
+      <point x="35" y="96" type="line"/>
+      <point x="85" y="96" type="line"/>
+      <point x="85" y="86" type="line"/>
+      <point x="35" y="86" type="line"/>
+      <point x="35" y="-1" type="line"/>
+      <point x="85" y="-10" type="line"/>
+      <point x="85" y="-20" type="line"/>
+      <point x="25" y="-10" type="line"/>
+      <point x="25" y="192" type="line"/>
+    </contour>
+  </outline>
+</glyph>

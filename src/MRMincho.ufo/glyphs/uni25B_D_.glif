@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25BD" format="2">
+  <advance width="256"/>
+  <unicode hex="25BD"/>
+  <outline>
+    <contour>
+      <point x="20" y="183" type="line"/>
+      <point x="236" y="183" type="line"/>
+      <point x="128" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="174" type="line"/>
+      <point x="36" y="174" type="line"/>
+      <point x="128" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

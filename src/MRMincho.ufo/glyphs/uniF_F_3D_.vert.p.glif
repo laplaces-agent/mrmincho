@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF3D.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="15" y="170" type="line"/>
+      <point x="15" y="204" type="line"/>
+      <point x="24" y="204" type="line"/>
+      <point x="24" y="144" type="line"/>
+      <point x="232" y="144" type="line"/>
+      <point x="232" y="204" type="line"/>
+      <point x="241" y="204" type="line"/>
+      <point x="241" y="135" type="line"/>
+      <point x="15" y="135" type="line"/>
+    </contour>
+  </outline>
+</glyph>

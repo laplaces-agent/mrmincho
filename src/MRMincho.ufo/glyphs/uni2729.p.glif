@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2729.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="115" y="158" type="line"/>
+      <point x="128" y="188" type="line"/>
+      <point x="155" y="127" type="line"/>
+      <point x="224" y="118" type="line"/>
+      <point x="172" y="71" type="line"/>
+      <point x="185" y="4" type="line"/>
+      <point x="128" y="38" type="line"/>
+      <point x="70" y="4" type="line"/>
+      <point x="83" y="71" type="line"/>
+      <point x="32" y="118" type="line"/>
+      <point x="101" y="127" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="144" type="line"/>
+      <point x="128" y="177" type="line"/>
+      <point x="111" y="112" type="line"/>
+      <point x="42" y="115" type="line"/>
+      <point x="99" y="76" type="line"/>
+      <point x="77" y="12" type="line"/>
+      <point x="128" y="54" type="line"/>
+      <point x="179" y="12" type="line"/>
+      <point x="157" y="76" type="line"/>
+      <point x="214" y="115" type="line"/>
+      <point x="144" y="112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>cu2qu_err</key>
+        <real>0.25</real>
+        <key>line_tol</key>
+        <real>0.25</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

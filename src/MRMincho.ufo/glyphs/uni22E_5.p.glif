@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22E5.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="7" y="175" type="line"/>
+      <point x="7" y="179" type="line"/>
+      <point x="114" y="179" type="line"/>
+      <point x="114" y="48" type="line"/>
+      <point x="7" y="48" type="line"/>
+      <point x="7" y="57" type="line"/>
+      <point x="104" y="57" type="line"/>
+      <point x="104" y="170" type="line"/>
+      <point x="7" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="27" type="line"/>
+      <point x="74" y="37" type="line"/>
+      <point x="85" y="37" type="line"/>
+      <point x="75" y="17" type="line"/>
+      <point x="121" y="17" type="line"/>
+      <point x="121" y="8" type="line"/>
+      <point x="72" y="8" type="line"/>
+      <point x="62" y="-12" type="line"/>
+      <point x="51" y="-12" type="line"/>
+      <point x="61" y="8" type="line"/>
+      <point x="7" y="8" type="line"/>
+      <point x="7" y="17" type="line"/>
+      <point x="64" y="17" type="line"/>
+    </contour>
+  </outline>
+</glyph>

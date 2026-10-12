@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni210D.p" format="2">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="8" y="171" type="line"/>
+      <point x="8" y="174" type="line"/>
+      <point x="79" y="174" type="line"/>
+      <point x="79" y="167" type="line"/>
+      <point x="64" y="167" type="line"/>
+      <point x="64" y="95" type="line"/>
+      <point x="106" y="95" type="line"/>
+      <point x="106" y="167" type="line"/>
+      <point x="91" y="167" type="line"/>
+      <point x="91" y="174" type="line"/>
+      <point x="162" y="174" type="line"/>
+      <point x="162" y="167" type="line"/>
+      <point x="150" y="167" type="line"/>
+      <point x="150" y="9" type="line"/>
+      <point x="162" y="9" type="line"/>
+      <point x="162" y="2" type="line"/>
+      <point x="91" y="2" type="line"/>
+      <point x="91" y="9" type="line"/>
+      <point x="106" y="9" type="line"/>
+      <point x="106" y="88" type="line"/>
+      <point x="64" y="88" type="line"/>
+      <point x="64" y="9" type="line"/>
+      <point x="79" y="9" type="line"/>
+      <point x="79" y="2" type="line"/>
+      <point x="8" y="2" type="line"/>
+      <point x="8" y="9" type="line"/>
+      <point x="20" y="9" type="line"/>
+      <point x="20" y="167" type="line"/>
+      <point x="8" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="88" type="line"/>
+      <point x="57" y="167" type="line"/>
+      <point x="26" y="167" type="line"/>
+      <point x="26" y="9" type="line"/>
+      <point x="57" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="88" type="line"/>
+      <point x="144" y="167" type="line"/>
+      <point x="112" y="167" type="line"/>
+      <point x="112" y="9" type="line"/>
+      <point x="144" y="9" type="line"/>
+    </contour>
+  </outline>
+</glyph>

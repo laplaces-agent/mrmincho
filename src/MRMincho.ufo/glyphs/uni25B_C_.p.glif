@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25BC.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="23" y="175" type="line"/>
+      <point x="234" y="175" type="line"/>
+      <point x="128" y="-5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

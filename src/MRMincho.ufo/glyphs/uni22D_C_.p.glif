@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22DC.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="61" y="146" type="line"/>
+      <point x="116" y="177" type="line"/>
+      <point x="120" y="168" type="line"/>
+      <point x="9" y="106" type="line"/>
+      <point x="5" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="115" type="line"/>
+      <point x="114" y="146" type="line"/>
+      <point x="118" y="137" type="line"/>
+      <point x="21" y="84" type="line"/>
+      <point x="118" y="32" type="line"/>
+      <point x="114" y="23" type="line"/>
+      <point x="3" y="84" type="line"/>
+    </contour>
+  </outline>
+</glyph>

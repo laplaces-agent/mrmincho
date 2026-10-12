@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni041D.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="45" y="171" type="line"/>
+      <point x="46" y="172" type="line"/>
+      <point x="93" y="172" type="line"/>
+      <point x="95" y="170" type="line"/>
+      <point x="95" y="168" type="line"/>
+      <point x="93" y="166" type="line"/>
+      <point x="91" y="166" type="line"/>
+      <point x="80" y="163"/>
+      <point x="79" y="154" type="qcurve"/>
+      <point x="79" y="105" type="line"/>
+      <point x="80" y="103"/>
+      <point x="82" y="102" type="qcurve"/>
+      <point x="174" y="102" type="line"/>
+      <point x="176" y="103"/>
+      <point x="177" y="105" type="qcurve"/>
+      <point x="177" y="154" type="line"/>
+      <point x="176" y="163"/>
+      <point x="165" y="166" type="qcurve"/>
+      <point x="163" y="166" type="line"/>
+      <point x="161" y="168" type="line"/>
+      <point x="161" y="170" type="line"/>
+      <point x="163" y="172" type="line"/>
+      <point x="210" y="172" type="line"/>
+      <point x="212" y="170" type="line"/>
+      <point x="212" y="168" type="line"/>
+      <point x="210" y="166" type="line"/>
+      <point x="208" y="166" type="line"/>
+      <point x="197" y="163"/>
+      <point x="196" y="154" type="qcurve"/>
+      <point x="196" y="20" type="line"/>
+      <point x="197" y="10"/>
+      <point x="209" y="8" type="qcurve"/>
+      <point x="210" y="8" type="line"/>
+      <point x="212" y="6" type="line"/>
+      <point x="212" y="4" type="line"/>
+      <point x="210" y="2" type="line"/>
+      <point x="163" y="2" type="line"/>
+      <point x="161" y="4" type="line"/>
+      <point x="161" y="6" type="line"/>
+      <point x="162" y="7" type="line"/>
+      <point x="164" y="8" type="line"/>
+      <point x="175" y="9"/>
+      <point x="177" y="18" type="qcurve"/>
+      <point x="177" y="93" type="line"/>
+      <point x="176" y="95"/>
+      <point x="174" y="96" type="qcurve"/>
+      <point x="82" y="96" type="line"/>
+      <point x="80" y="95"/>
+      <point x="79" y="93" type="qcurve"/>
+      <point x="79" y="20" type="line"/>
+      <point x="80" y="10"/>
+      <point x="92" y="8" type="qcurve"/>
+      <point x="93" y="8" type="line"/>
+      <point x="95" y="6" type="line"/>
+      <point x="95" y="4" type="line"/>
+      <point x="93" y="2" type="line"/>
+      <point x="46" y="2" type="line"/>
+      <point x="44" y="4" type="line"/>
+      <point x="44" y="6" type="line"/>
+      <point x="46" y="8" type="line"/>
+      <point x="47" y="8" type="line"/>
+      <point x="59" y="10"/>
+      <point x="60" y="20" type="qcurve"/>
+      <point x="60" y="154" type="line"/>
+      <point x="59" y="163"/>
+      <point x="48" y="166" type="qcurve"/>
+      <point x="46" y="166" type="line"/>
+      <point x="44" y="168" type="line"/>
+      <point x="44" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.25</real>
+        <key>line_tol</key>
+        <real>0.25</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

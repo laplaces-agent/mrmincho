@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni300A.vert" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="71" y="55" type="line"/>
+      <point x="128" y="81" type="line"/>
+      <point x="242" y="29" type="line"/>
+      <point x="238" y="21" type="line"/>
+      <point x="129" y="70" type="line"/>
+      <point x="18" y="21" type="line"/>
+      <point x="14" y="29" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="8" type="line"/>
+      <point x="128" y="34" type="line"/>
+      <point x="242" y="-18" type="line"/>
+      <point x="238" y="-26" type="line"/>
+      <point x="129" y="23" type="line"/>
+      <point x="18" y="-26" type="line"/>
+      <point x="14" y="-18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

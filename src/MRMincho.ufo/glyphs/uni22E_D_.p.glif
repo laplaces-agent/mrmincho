@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22ED.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="11" y="118" type="line"/>
+      <point x="11" y="161" type="line"/>
+      <point x="76" y="137" type="line"/>
+      <point x="85" y="161" type="line"/>
+      <point x="94" y="161" type="line"/>
+      <point x="84" y="134" type="line"/>
+      <point x="124" y="118" type="line"/>
+      <point x="70" y="97" type="line"/>
+      <point x="56" y="60" type="line"/>
+      <point x="120" y="60" type="line"/>
+      <point x="120" y="51" type="line"/>
+      <point x="52" y="51" type="line"/>
+      <point x="44" y="29" type="line"/>
+      <point x="35" y="29" type="line"/>
+      <point x="44" y="51" type="line"/>
+      <point x="6" y="51" type="line"/>
+      <point x="6" y="60" type="line"/>
+      <point x="47" y="60" type="line"/>
+      <point x="60" y="93" type="line"/>
+      <point x="11" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="140" type="line"/>
+      <point x="18" y="150" type="line"/>
+      <point x="18" y="85" type="line"/>
+      <point x="63" y="103" type="line"/>
+      <point x="73" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="122" type="line"/>
+      <point x="82" y="127" type="line"/>
+      <point x="73" y="107" type="line"/>
+      <point x="105" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

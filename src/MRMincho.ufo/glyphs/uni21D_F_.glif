@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21DF" format="2">
+  <advance width="128"/>
+  <unicode hex="21DF"/>
+  <outline>
+    <contour>
+      <point x="43" y="145" type="line"/>
+      <point x="62" y="174" type="line"/>
+      <point x="101" y="117" type="line"/>
+      <point x="97" y="113" type="line"/>
+      <point x="67" y="136" type="line"/>
+      <point x="67" y="77" type="line"/>
+      <point x="94" y="77" type="line"/>
+      <point x="94" y="68" type="line"/>
+      <point x="67" y="68" type="line"/>
+      <point x="67" y="47" type="line"/>
+      <point x="94" y="47" type="line"/>
+      <point x="94" y="38" type="line"/>
+      <point x="67" y="38" type="line"/>
+      <point x="67" y="14" type="line"/>
+      <point x="58" y="14" type="line"/>
+      <point x="58" y="38" type="line"/>
+      <point x="31" y="38" type="line"/>
+      <point x="31" y="47" type="line"/>
+      <point x="58" y="47" type="line"/>
+      <point x="58" y="68" type="line"/>
+      <point x="31" y="68" type="line"/>
+      <point x="31" y="77" type="line"/>
+      <point x="58" y="77" type="line"/>
+      <point x="58" y="136" type="line"/>
+      <point x="28" y="113" type="line"/>
+      <point x="24" y="117" type="line"/>
+    </contour>
+  </outline>
+</glyph>

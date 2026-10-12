@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni212F.p" format="2">
+  <advance width="90"/>
+  <outline>
+    <contour>
+      <point x="55" y="120" type="line"/>
+      <point x="61" y="120" type="line"/>
+      <point x="65" y="119"/>
+      <point x="69" y="118" type="qcurve" smooth="yes"/>
+      <point x="76" y="116"/>
+      <point x="80" y="111" type="qcurve" smooth="yes"/>
+      <point x="83" y="107"/>
+      <point x="83" y="101" type="qcurve" smooth="yes"/>
+      <point x="83" y="100"/>
+      <point x="83" y="98" type="qcurve" smooth="yes"/>
+      <point x="83" y="92"/>
+      <point x="81" y="87" type="qcurve" smooth="yes"/>
+      <point x="77" y="78"/>
+      <point x="68" y="71" type="qcurve"/>
+      <point x="67" y="70"/>
+      <point x="63" y="67"/>
+      <point x="61" y="66" type="qcurve"/>
+      <point x="49" y="59"/>
+      <point x="25" y="54" type="qcurve" smooth="yes"/>
+      <point x="17" y="52" type="line"/>
+      <point x="17" y="50" type="line"/>
+      <point x="16" y="45"/>
+      <point x="16" y="40" type="qcurve" smooth="yes"/>
+      <point x="16" y="37" type="line"/>
+      <point x="17" y="26"/>
+      <point x="21" y="18" type="qcurve" smooth="yes"/>
+      <point x="24" y="12"/>
+      <point x="30" y="10" type="qcurve"/>
+      <point x="33" y="8"/>
+      <point x="38" y="8" type="qcurve" smooth="yes"/>
+      <point x="39" y="8" type="line"/>
+      <point x="41" y="9"/>
+      <point x="47" y="9"/>
+      <point x="49" y="10" type="qcurve"/>
+      <point x="64" y="14"/>
+      <point x="73" y="32" type="qcurve"/>
+      <point x="74" y="35"/>
+      <point x="76" y="38" type="qcurve"/>
+      <point x="76" y="39" type="line"/>
+      <point x="81" y="38" type="line"/>
+      <point x="79" y="32" type="line"/>
+      <point x="73" y="18"/>
+      <point x="64" y="11" type="qcurve"/>
+      <point x="56" y="4"/>
+      <point x="46" y="2" type="qcurve"/>
+      <point x="40" y="2" type="line"/>
+      <point x="38" y="1"/>
+      <point x="36" y="1" type="qcurve" smooth="yes"/>
+      <point x="28" y="1"/>
+      <point x="23" y="4" type="qcurve"/>
+      <point x="17" y="7"/>
+      <point x="12" y="14" type="qcurve"/>
+      <point x="4" y="24"/>
+      <point x="3" y="41" type="qcurve"/>
+      <point x="3" y="45"/>
+      <point x="3" y="48" type="qcurve" smooth="yes"/>
+      <point x="3" y="59"/>
+      <point x="5" y="69" type="qcurve"/>
+      <point x="9" y="83"/>
+      <point x="17" y="95" type="qcurve"/>
+      <point x="18" y="96"/>
+      <point x="21" y="100"/>
+      <point x="22" y="102" type="qcurve"/>
+      <point x="35" y="117"/>
+      <point x="51" y="120" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="59" y="114" type="qcurve"/>
+      <point x="56" y="114" type="line"/>
+      <point x="53" y="114" type="line"/>
+      <point x="42" y="111"/>
+      <point x="33" y="99" type="qcurve"/>
+      <point x="30" y="93" type="line"/>
+      <point x="23" y="82"/>
+      <point x="20" y="68" type="qcurve"/>
+      <point x="19" y="66"/>
+      <point x="19" y="61"/>
+      <point x="18" y="57" type="qcurve"/>
+      <point x="19" y="57" type="line"/>
+      <point x="25" y="59"/>
+      <point x="36" y="62"/>
+      <point x="40" y="64" type="qcurve"/>
+      <point x="53" y="69"/>
+      <point x="60" y="76" type="qcurve" smooth="yes"/>
+      <point x="65" y="81"/>
+      <point x="68" y="87" type="qcurve"/>
+      <point x="69" y="91"/>
+      <point x="70" y="95" type="qcurve"/>
+      <point x="70" y="96"/>
+      <point x="70" y="98" type="qcurve" smooth="yes"/>
+      <point x="70" y="100"/>
+      <point x="70" y="101" type="qcurve" smooth="yes"/>
+      <point x="70" y="105"/>
+      <point x="68" y="108" type="qcurve"/>
+      <point x="66" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>cu2qu_err</key>
+        <real>0.1</real>
+        <key>line_tol</key>
+        <real>0.1</real>
+        <key>opttolerance</key>
+        <real>0.2</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

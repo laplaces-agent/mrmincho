@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFFEB" format="2">
+  <advance width="128"/>
+  <unicode hex="FFEB"/>
+  <outline>
+    <contour>
+      <point x="57" y="136" type="line"/>
+      <point x="59" y="136" type="line"/>
+      <point x="115" y="91" type="line"/>
+      <point x="59" y="46" type="line"/>
+      <point x="55" y="45" type="line"/>
+      <point x="55" y="48" type="line"/>
+      <point x="88" y="87" type="line"/>
+      <point x="10" y="87" type="line"/>
+      <point x="10" y="96" type="line"/>
+      <point x="88" y="96" type="line"/>
+      <point x="56" y="133" type="line"/>
+      <point x="56" y="135" type="line"/>
+    </contour>
+  </outline>
+</glyph>

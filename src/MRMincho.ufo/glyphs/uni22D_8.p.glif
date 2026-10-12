@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22D8.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="54" y="158" type="line"/>
+      <point x="55" y="160" type="line"/>
+      <point x="62" y="153" type="line"/>
+      <point x="18" y="92" type="line"/>
+      <point x="62" y="31" type="line"/>
+      <point x="55" y="24" type="line"/>
+      <point x="7" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="158" type="line"/>
+      <point x="85" y="160" type="line"/>
+      <point x="92" y="153" type="line"/>
+      <point x="48" y="92" type="line"/>
+      <point x="92" y="31" type="line"/>
+      <point x="85" y="24" type="line"/>
+      <point x="37" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="158" type="line"/>
+      <point x="116" y="160" type="line"/>
+      <point x="123" y="153" type="line"/>
+      <point x="79" y="92" type="line"/>
+      <point x="123" y="31" type="line"/>
+      <point x="116" y="24" type="line"/>
+      <point x="68" y="92" type="line"/>
+    </contour>
+  </outline>
+</glyph>

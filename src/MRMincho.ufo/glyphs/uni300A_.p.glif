@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni300A.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="63" y="206" type="line"/>
+      <point x="71" y="202" type="line"/>
+      <point x="22" y="93" type="line"/>
+      <point x="71" y="-17" type="line"/>
+      <point x="63" y="-22" type="line"/>
+      <point x="11" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="206" type="line"/>
+      <point x="118" y="202" type="line"/>
+      <point x="69" y="93" type="line"/>
+      <point x="118" y="-17" type="line"/>
+      <point x="110" y="-22" type="line"/>
+      <point x="58" y="92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.0</real>
+        <key>opttolerance</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

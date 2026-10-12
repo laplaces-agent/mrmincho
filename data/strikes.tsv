@@ -1,0 +1,14 @@
+ppemX	ppemY	bitDepth	flags	colorRef	hori.ascender	hori.descender	hori.widthMax	hori.caretSlopeNumerator	hori.caretSlopeDenominator	hori.caretOffset	hori.minOriginSB	hori.minAdvanceSB	hori.maxBeforeBL	hori.minAfterBL	hori.pad1	hori.pad2	vert.ascender	vert.descender	vert.widthMax	vert.caretSlopeNumerator	vert.caretSlopeDenominator	vert.caretOffset	vert.minOriginSB	vert.minAdvanceSB	vert.maxBeforeBL	vert.minAfterBL	vert.pad1	vert.pad2
+10	10	1	1	0	8	-2	10	1	0	0	0	0	8	-2	0	0	8	-2	10	0	1	0	0	0	-10	0	0	0
+11	11	1	1	0	9	-2	10	1	0	0	0	0	9	-2	0	0	9	-2	10	0	1	0	0	0	-10	0	0	0
+12	12	1	1	0	10	-2	12	1	0	0	0	0	10	-2	0	0	10	-2	12	0	1	0	0	0	-12	0	0	0
+13	13	1	1	0	11	-2	13	1	0	0	0	0	11	-2	0	0	11	-2	13	0	1	0	0	0	-13	0	0	0
+14	14	1	1	0	12	-2	14	1	0	0	0	0	12	-2	0	0	12	-2	14	0	1	0	0	0	-14	0	0	0
+15	15	1	1	0	12	-3	14	1	0	0	1	0	12	-3	0	0	12	-3	14	0	1	0	0	0	-14	0	0	0
+16	16	1	1	0	14	-2	16	1	0	0	0	0	14	-2	0	0	14	-2	16	0	1	0	0	0	-16	0	0	0
+17	17	1	1	0	14	-3	16	1	0	0	1	0	14	-3	0	0	14	-3	16	0	1	0	0	0	-16	0	0	0
+18	18	1	1	0	15	-3	18	1	0	0	0	0	15	-3	0	0	15	-3	18	0	1	0	0	0	-18	0	0	0
+19	19	1	1	0	15	-4	18	1	0	0	1	0	15	-4	0	0	15	-4	18	0	1	0	0	0	-18	0	0	0
+20	20	1	1	0	17	-3	20	1	0	0	0	0	17	-3	0	0	17	-3	20	0	1	0	0	0	-20	0	0	0
+21	21	1	1	0	17	-4	20	1	0	0	1	0	17	-4	0	0	17	-4	20	0	1	0	0	0	-20	0	0	0
+22	22	1	1	0	17	-5	20	1	0	0	1	0	17	-5	0	0	17	-5	20	0	1	0	0	0	-20	0	0	0

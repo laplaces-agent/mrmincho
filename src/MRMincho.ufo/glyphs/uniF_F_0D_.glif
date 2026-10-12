@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF0D" format="2">
+  <advance width="256"/>
+  <unicode hex="FF0D"/>
+  <outline>
+    <contour>
+      <point x="37" y="93" type="line"/>
+      <point x="37" y="97" type="line"/>
+      <point x="219" y="97" type="line"/>
+      <point x="219" y="88" type="line"/>
+      <point x="37" y="88" type="line"/>
+    </contour>
+  </outline>
+</glyph>

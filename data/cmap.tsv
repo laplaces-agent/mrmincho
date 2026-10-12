@@ -1,0 +1,4435 @@
+face	codepoint	char	block	glyph	ref_gid
+0	U+0000	<U+0000>	Basic Latin	uni0000	1
+0	U+000D	<U+000D>	Basic Latin	uni000D	2
+0	U+0020	<SPACE>	Basic Latin	uni0020	3
+0	U+0021	!	Basic Latin	uni0021	4
+0	U+0022	""""	Basic Latin	uni0022	5
+0	U+0023	#	Basic Latin	uni0023	6
+0	U+0024	$	Basic Latin	uni0024	7
+0	U+0025	%	Basic Latin	uni0025	8
+0	U+0026	&	Basic Latin	uni0026	9
+0	U+0027	'	Basic Latin	uni0027	10
+0	U+0028	(	Basic Latin	uni0028	11
+0	U+0029	)	Basic Latin	uni0029	12
+0	U+002A	*	Basic Latin	uni002A	13
+0	U+002B	+	Basic Latin	uni002B	14
+0	U+002C	,	Basic Latin	uni002C	15
+0	U+002D	-	Basic Latin	uni002D	16
+0	U+002E	.	Basic Latin	uni002E	17
+0	U+002F	/	Basic Latin	uni002F	18
+0	U+0030	0	Basic Latin	uni0030	19
+0	U+0031	1	Basic Latin	uni0031	20
+0	U+0032	2	Basic Latin	uni0032	21
+0	U+0033	3	Basic Latin	uni0033	22
+0	U+0034	4	Basic Latin	uni0034	23
+0	U+0035	5	Basic Latin	uni0035	24
+0	U+0036	6	Basic Latin	uni0036	25
+0	U+0037	7	Basic Latin	uni0037	26
+0	U+0038	8	Basic Latin	uni0038	27
+0	U+0039	9	Basic Latin	uni0039	28
+0	U+003A	:	Basic Latin	uni003A	29
+0	U+003B	;	Basic Latin	uni003B	30
+0	U+003C	<	Basic Latin	uni003C	31
+0	U+003D	=	Basic Latin	uni003D	32
+0	U+003E	>	Basic Latin	uni003E	33
+0	U+003F	?	Basic Latin	uni003F	34
+0	U+0040	@	Basic Latin	uni0040	35
+0	U+0041	A	Basic Latin	uni0041	36
+0	U+0042	B	Basic Latin	uni0042	37
+0	U+0043	C	Basic Latin	uni0043	38
+0	U+0044	D	Basic Latin	uni0044	39
+0	U+0045	E	Basic Latin	uni0045	40
+0	U+0046	F	Basic Latin	uni0046	41
+0	U+0047	G	Basic Latin	uni0047	42
+0	U+0048	H	Basic Latin	uni0048	43
+0	U+0049	I	Basic Latin	uni0049	44
+0	U+004A	J	Basic Latin	uni004A	45
+0	U+004B	K	Basic Latin	uni004B	46
+0	U+004C	L	Basic Latin	uni004C	47
+0	U+004D	M	Basic Latin	uni004D	48
+0	U+004E	N	Basic Latin	uni004E	49
+0	U+004F	O	Basic Latin	uni004F	50
+0	U+0050	P	Basic Latin	uni0050	51
+0	U+0051	Q	Basic Latin	uni0051	52
+0	U+0052	R	Basic Latin	uni0052	53
+0	U+0053	S	Basic Latin	uni0053	54
+0	U+0054	T	Basic Latin	uni0054	55
+0	U+0055	U	Basic Latin	uni0055	56
+0	U+0056	V	Basic Latin	uni0056	57
+0	U+0057	W	Basic Latin	uni0057	58
+0	U+0058	X	Basic Latin	uni0058	59
+0	U+0059	Y	Basic Latin	uni0059	60
+0	U+005A	Z	Basic Latin	uni005A	61
+0	U+005B	[	Basic Latin	uni005B	62
+0	U+005C	\	Basic Latin	uni005C	63
+0	U+005D	]	Basic Latin	uni005D	64
+0	U+005E	^	Basic Latin	uni005E	65
+0	U+005F	_	Basic Latin	uni005F	66
+0	U+0060	`	Basic Latin	uni0060	67
+0	U+0061	a	Basic Latin	uni0061	68
+0	U+0062	b	Basic Latin	uni0062	69
+0	U+0063	c	Basic Latin	uni0063	70
+0	U+0064	d	Basic Latin	uni0064	71
+0	U+0065	e	Basic Latin	uni0065	72
+0	U+0066	f	Basic Latin	uni0066	73
+0	U+0067	g	Basic Latin	uni0067	74
+0	U+0068	h	Basic Latin	uni0068	75
+0	U+0069	i	Basic Latin	uni0069	76
+0	U+006A	j	Basic Latin	uni006A	77
+0	U+006B	k	Basic Latin	uni006B	78
+0	U+006C	l	Basic Latin	uni006C	79
+0	U+006D	m	Basic Latin	uni006D	80
+0	U+006E	n	Basic Latin	uni006E	81
+0	U+006F	o	Basic Latin	uni006F	82
+0	U+0070	p	Basic Latin	uni0070	83
+0	U+0071	q	Basic Latin	uni0071	84
+0	U+0072	r	Basic Latin	uni0072	85
+0	U+0073	s	Basic Latin	uni0073	86
+0	U+0074	t	Basic Latin	uni0074	87
+0	U+0075	u	Basic Latin	uni0075	88
+0	U+0076	v	Basic Latin	uni0076	89
+0	U+0077	w	Basic Latin	uni0077	90
+0	U+0078	x	Basic Latin	uni0078	91
+0	U+0079	y	Basic Latin	uni0079	92
+0	U+007A	z	Basic Latin	uni007A	93
+0	U+007B	{	Basic Latin	uni007B	94
+0	U+007C	|	Basic Latin	uni007C	95
+0	U+007D	}	Basic Latin	uni007D	96
+0	U+007E	~	Basic Latin	uni007E	97
+0	U+00A0	<NO-BREAK SPACE>	Latin-1 Supplement	uni00A0	98
+0	U+00A1	¡	Latin-1 Supplement	uni00A1	99
+0	U+00A2	¢	Latin-1 Supplement	uni00A2	100
+0	U+00A3	£	Latin-1 Supplement	uni00A3	101
+0	U+00A4	¤	Latin-1 Supplement	uni00A4	102
+0	U+00A5	¥	Latin-1 Supplement	uni00A5	103
+0	U+00A6	¦	Latin-1 Supplement	uni00A6	104
+0	U+00A7	§	Latin-1 Supplement	uni00A7	105
+0	U+00A8	¨	Latin-1 Supplement	uni00A8	106
+0	U+00A9	©	Latin-1 Supplement	uni00A9	107
+0	U+00AA	ª	Latin-1 Supplement	uni00AA	108
+0	U+00AB	«	Latin-1 Supplement	uni00AB	109
+0	U+00AC	¬	Latin-1 Supplement	uni00AC	110
+0	U+00AD	<SOFT HYPHEN>	Latin-1 Supplement	uni00AD	111
+0	U+00AE	®	Latin-1 Supplement	uni00AE	112
+0	U+00AF	¯	Latin-1 Supplement	uni00AF	113
+0	U+00B0	°	Latin-1 Supplement	uni00B0	114
+0	U+00B1	±	Latin-1 Supplement	uni00B1	115
+0	U+00B2	²	Latin-1 Supplement	uni00B2	116
+0	U+00B3	³	Latin-1 Supplement	uni00B3	117
+0	U+00B4	´	Latin-1 Supplement	uni00B4	118
+0	U+00B5	µ	Latin-1 Supplement	uni00B5	119
+0	U+00B6	¶	Latin-1 Supplement	uni00B6	120
+0	U+00B7	·	Latin-1 Supplement	uni00B7	121
+0	U+00B8	¸	Latin-1 Supplement	uni00B8	122
+0	U+00B9	¹	Latin-1 Supplement	uni00B9	123
+0	U+00BA	º	Latin-1 Supplement	uni00BA	124
+0	U+00BB	»	Latin-1 Supplement	uni00BB	125
+0	U+00BC	¼	Latin-1 Supplement	uni00BC	126
+0	U+00BD	½	Latin-1 Supplement	uni00BD	127
+0	U+00BE	¾	Latin-1 Supplement	uni00BE	128
+0	U+00BF	¿	Latin-1 Supplement	uni00BF	129
+0	U+00C0	À	Latin-1 Supplement	uni00C0	130
+0	U+00C1	Á	Latin-1 Supplement	uni00C1	131
+0	U+00C2	Â	Latin-1 Supplement	uni00C2	132
+0	U+00C3	Ã	Latin-1 Supplement	uni00C3	133
+0	U+00C4	Ä	Latin-1 Supplement	uni00C4	134
+0	U+00C5	Å	Latin-1 Supplement	uni00C5	135
+0	U+00C6	Æ	Latin-1 Supplement	uni00C6	136
+0	U+00C7	Ç	Latin-1 Supplement	uni00C7	137
+0	U+00C8	È	Latin-1 Supplement	uni00C8	138
+0	U+00C9	É	Latin-1 Supplement	uni00C9	139
+0	U+00CA	Ê	Latin-1 Supplement	uni00CA	140
+0	U+00CB	Ë	Latin-1 Supplement	uni00CB	141
+0	U+00CC	Ì	Latin-1 Supplement	uni00CC	142
+0	U+00CD	Í	Latin-1 Supplement	uni00CD	143
+0	U+00CE	Î	Latin-1 Supplement	uni00CE	144
+0	U+00CF	Ï	Latin-1 Supplement	uni00CF	145
+0	U+00D0	Ð	Latin-1 Supplement	uni00D0	146
+0	U+00D1	Ñ	Latin-1 Supplement	uni00D1	147
+0	U+00D2	Ò	Latin-1 Supplement	uni00D2	148
+0	U+00D3	Ó	Latin-1 Supplement	uni00D3	149
+0	U+00D4	Ô	Latin-1 Supplement	uni00D4	150
+0	U+00D5	Õ	Latin-1 Supplement	uni00D5	151
+0	U+00D6	Ö	Latin-1 Supplement	uni00D6	152
+0	U+00D7	×	Latin-1 Supplement	uni00D7	153
+0	U+00D8	Ø	Latin-1 Supplement	uni00D8	154
+0	U+00D9	Ù	Latin-1 Supplement	uni00D9	155
+0	U+00DA	Ú	Latin-1 Supplement	uni00DA	156
+0	U+00DB	Û	Latin-1 Supplement	uni00DB	157
+0	U+00DC	Ü	Latin-1 Supplement	uni00DC	158
+0	U+00DD	Ý	Latin-1 Supplement	uni00DD	159
+0	U+00DE	Þ	Latin-1 Supplement	uni00DE	160
+0	U+00DF	ß	Latin-1 Supplement	uni00DF	161
+0	U+00E0	à	Latin-1 Supplement	uni00E0	162
+0	U+00E1	á	Latin-1 Supplement	uni00E1	163
+0	U+00E2	â	Latin-1 Supplement	uni00E2	164
+0	U+00E3	ã	Latin-1 Supplement	uni00E3	165
+0	U+00E4	ä	Latin-1 Supplement	uni00E4	166
+0	U+00E5	å	Latin-1 Supplement	uni00E5	167
+0	U+00E6	æ	Latin-1 Supplement	uni00E6	168
+0	U+00E7	ç	Latin-1 Supplement	uni00E7	169
+0	U+00E8	è	Latin-1 Supplement	uni00E8	170
+0	U+00E9	é	Latin-1 Supplement	uni00E9	171
+0	U+00EA	ê	Latin-1 Supplement	uni00EA	172
+0	U+00EB	ë	Latin-1 Supplement	uni00EB	173
+0	U+00EC	ì	Latin-1 Supplement	uni00EC	174
+0	U+00ED	í	Latin-1 Supplement	uni00ED	175
+0	U+00EE	î	Latin-1 Supplement	uni00EE	176
+0	U+00EF	ï	Latin-1 Supplement	uni00EF	177
+0	U+00F0	ð	Latin-1 Supplement	uni00F0	178
+0	U+00F1	ñ	Latin-1 Supplement	uni00F1	179
+0	U+00F2	ò	Latin-1 Supplement	uni00F2	180
+0	U+00F3	ó	Latin-1 Supplement	uni00F3	181
+0	U+00F4	ô	Latin-1 Supplement	uni00F4	182
+0	U+00F5	õ	Latin-1 Supplement	uni00F5	183
+0	U+00F6	ö	Latin-1 Supplement	uni00F6	184
+0	U+00F7	÷	Latin-1 Supplement	uni00F7	185
+0	U+00F8	ø	Latin-1 Supplement	uni00F8	186
+0	U+00F9	ù	Latin-1 Supplement	uni00F9	187
+0	U+00FA	ú	Latin-1 Supplement	uni00FA	188
+0	U+00FB	û	Latin-1 Supplement	uni00FB	189
+0	U+00FC	ü	Latin-1 Supplement	uni00FC	190
+0	U+00FD	ý	Latin-1 Supplement	uni00FD	191
+0	U+00FE	þ	Latin-1 Supplement	uni00FE	192
+0	U+00FF	ÿ	Latin-1 Supplement	uni00FF	193
+0	U+0100	Ā	Latin Extended-A	uni0100	194
+0	U+0101	ā	Latin Extended-A	uni0101	195
+0	U+0102	Ă	Latin Extended-A	uni0102	196
+0	U+0103	ă	Latin Extended-A	uni0103	197
+0	U+0104	Ą	Latin Extended-A	uni0104	198
+0	U+0105	ą	Latin Extended-A	uni0105	199
+0	U+0106	Ć	Latin Extended-A	uni0106	200
+0	U+0107	ć	Latin Extended-A	uni0107	201
+0	U+0108	Ĉ	Latin Extended-A	uni0108	202
+0	U+0109	ĉ	Latin Extended-A	uni0109	203
+0	U+010A	Ċ	Latin Extended-A	uni010A	204
+0	U+010B	ċ	Latin Extended-A	uni010B	205
+0	U+010C	Č	Latin Extended-A	uni010C	206
+0	U+010D	č	Latin Extended-A	uni010D	207
+0	U+010E	Ď	Latin Extended-A	uni010E	208
+0	U+010F	ď	Latin Extended-A	uni010F	209
+0	U+0110	Đ	Latin Extended-A	uni0110	210
+0	U+0111	đ	Latin Extended-A	uni0111	211
+0	U+0112	Ē	Latin Extended-A	uni0112	212
+0	U+0113	ē	Latin Extended-A	uni0113	213
+0	U+0114	Ĕ	Latin Extended-A	uni0114	214
+0	U+0115	ĕ	Latin Extended-A	uni0115	215
+0	U+0116	Ė	Latin Extended-A	uni0116	216
+0	U+0117	ė	Latin Extended-A	uni0117	217
+0	U+0118	Ę	Latin Extended-A	uni0118	218
+0	U+0119	ę	Latin Extended-A	uni0119	219
+0	U+011A	Ě	Latin Extended-A	uni011A	220
+0	U+011B	ě	Latin Extended-A	uni011B	221
+0	U+011C	Ĝ	Latin Extended-A	uni011C	222
+0	U+011D	ĝ	Latin Extended-A	uni011D	223
+0	U+011E	Ğ	Latin Extended-A	uni011E	224
+0	U+011F	ğ	Latin Extended-A	uni011F	225
+0	U+0120	Ġ	Latin Extended-A	uni0120	226
+0	U+0121	ġ	Latin Extended-A	uni0121	227
+0	U+0122	Ģ	Latin Extended-A	uni0122	228
+0	U+0123	ģ	Latin Extended-A	uni0123	229
+0	U+0124	Ĥ	Latin Extended-A	uni0124	230
+0	U+0125	ĥ	Latin Extended-A	uni0125	231
+0	U+0126	Ħ	Latin Extended-A	uni0126	232
+0	U+0127	ħ	Latin Extended-A	uni0127	233
+0	U+0128	Ĩ	Latin Extended-A	uni0128	234
+0	U+0129	ĩ	Latin Extended-A	uni0129	235
+0	U+012A	Ī	Latin Extended-A	uni012A	236
+0	U+012B	ī	Latin Extended-A	uni012B	237
+0	U+012C	Ĭ	Latin Extended-A	uni012C	238
+0	U+012D	ĭ	Latin Extended-A	uni012D	239
+0	U+012E	Į	Latin Extended-A	uni012E	240
+0	U+012F	į	Latin Extended-A	uni012F	241
+0	U+0130	İ	Latin Extended-A	uni0130	242
+0	U+0131	ı	Latin Extended-A	uni0131	243
+0	U+0132	Ĳ	Latin Extended-A	uni0132	244
+0	U+0133	ĳ	Latin Extended-A	uni0133	245
+0	U+0134	Ĵ	Latin Extended-A	uni0134	246
+0	U+0135	ĵ	Latin Extended-A	uni0135	247
+0	U+0136	Ķ	Latin Extended-A	uni0136	248
+0	U+0137	ķ	Latin Extended-A	uni0137	249
+0	U+0138	ĸ	Latin Extended-A	uni0138	250
+0	U+0139	Ĺ	Latin Extended-A	uni0139	251
+0	U+013A	ĺ	Latin Extended-A	uni013A	252
+0	U+013B	Ļ	Latin Extended-A	uni013B	253
+0	U+013C	ļ	Latin Extended-A	uni013C	254
+0	U+013D	Ľ	Latin Extended-A	uni013D	255
+0	U+013E	ľ	Latin Extended-A	uni013E	256
+0	U+013F	Ŀ	Latin Extended-A	uni013F	257
+0	U+0140	ŀ	Latin Extended-A	uni0140	258
+0	U+0141	Ł	Latin Extended-A	uni0141	259
+0	U+0142	ł	Latin Extended-A	uni0142	260
+0	U+0143	Ń	Latin Extended-A	uni0143	261
+0	U+0144	ń	Latin Extended-A	uni0144	262
+0	U+0145	Ņ	Latin Extended-A	uni0145	263
+0	U+0146	ņ	Latin Extended-A	uni0146	264
+0	U+0147	Ň	Latin Extended-A	uni0147	265
+0	U+0148	ň	Latin Extended-A	uni0148	266
+0	U+0149	ŉ	Latin Extended-A	uni0149	267
+0	U+014A	Ŋ	Latin Extended-A	uni014A	268
+0	U+014B	ŋ	Latin Extended-A	uni014B	269
+0	U+014C	Ō	Latin Extended-A	uni014C	270
+0	U+014D	ō	Latin Extended-A	uni014D	271
+0	U+014E	Ŏ	Latin Extended-A	uni014E	272
+0	U+014F	ŏ	Latin Extended-A	uni014F	273
+0	U+0150	Ő	Latin Extended-A	uni0150	274
+0	U+0151	ő	Latin Extended-A	uni0151	275
+0	U+0152	Œ	Latin Extended-A	uni0152	276
+0	U+0153	œ	Latin Extended-A	uni0153	277
+0	U+0154	Ŕ	Latin Extended-A	uni0154	278
+0	U+0155	ŕ	Latin Extended-A	uni0155	279
+0	U+0156	Ŗ	Latin Extended-A	uni0156	280
+0	U+0157	ŗ	Latin Extended-A	uni0157	281
+0	U+0158	Ř	Latin Extended-A	uni0158	282
+0	U+0159	ř	Latin Extended-A	uni0159	283
+0	U+015A	Ś	Latin Extended-A	uni015A	284
+0	U+015B	ś	Latin Extended-A	uni015B	285
+0	U+015C	Ŝ	Latin Extended-A	uni015C	286
+0	U+015D	ŝ	Latin Extended-A	uni015D	287
+0	U+015E	Ş	Latin Extended-A	uni015E	288
+0	U+015F	ş	Latin Extended-A	uni015F	289
+0	U+0160	Š	Latin Extended-A	uni0160	290
+0	U+0161	š	Latin Extended-A	uni0161	291
+0	U+0162	Ţ	Latin Extended-A	uni0162	292
+0	U+0163	ţ	Latin Extended-A	uni0163	293
+0	U+0164	Ť	Latin Extended-A	uni0164	294
+0	U+0165	ť	Latin Extended-A	uni0165	295
+0	U+0166	Ŧ	Latin Extended-A	uni0166	296
+0	U+0167	ŧ	Latin Extended-A	uni0167	297
+0	U+0168	Ũ	Latin Extended-A	uni0168	298
+0	U+0169	ũ	Latin Extended-A	uni0169	299
+0	U+016A	Ū	Latin Extended-A	uni016A	300
+0	U+016B	ū	Latin Extended-A	uni016B	301
+0	U+016C	Ŭ	Latin Extended-A	uni016C	302
+0	U+016D	ŭ	Latin Extended-A	uni016D	303
+0	U+016E	Ů	Latin Extended-A	uni016E	304
+0	U+016F	ů	Latin Extended-A	uni016F	305
+0	U+0170	Ű	Latin Extended-A	uni0170	306
+0	U+0171	ű	Latin Extended-A	uni0171	307
+0	U+0172	Ų	Latin Extended-A	uni0172	308
+0	U+0173	ų	Latin Extended-A	uni0173	309
+0	U+0174	Ŵ	Latin Extended-A	uni0174	310
+0	U+0175	ŵ	Latin Extended-A	uni0175	311
+0	U+0176	Ŷ	Latin Extended-A	uni0176	312
+0	U+0177	ŷ	Latin Extended-A	uni0177	313
+0	U+0178	Ÿ	Latin Extended-A	uni0178	314
+0	U+0179	Ź	Latin Extended-A	uni0179	315
+0	U+017A	ź	Latin Extended-A	uni017A	316
+0	U+017B	Ż	Latin Extended-A	uni017B	317
+0	U+017C	ż	Latin Extended-A	uni017C	318
+0	U+017D	Ž	Latin Extended-A	uni017D	319
+0	U+017E	ž	Latin Extended-A	uni017E	320
+0	U+017F	ſ	Latin Extended-A	uni017F	321
+0	U+0192	ƒ	Latin Extended-B	uni0192	322
+0	U+0193	Ɠ	Latin Extended-B	uni0193	323
+0	U+01C2	ǂ	Latin Extended-B	uni01C2	324
+0	U+01CD	Ǎ	Latin Extended-B	uni01CD	325
+0	U+01CE	ǎ	Latin Extended-B	uni01CE	326
+0	U+01CF	Ǐ	Latin Extended-B	uni01CF	327
+0	U+01D0	ǐ	Latin Extended-B	uni01D0	328
+0	U+01D1	Ǒ	Latin Extended-B	uni01D1	329
+0	U+01D2	ǒ	Latin Extended-B	uni01D2	330
+0	U+01D3	Ǔ	Latin Extended-B	uni01D3	331
+0	U+01D4	ǔ	Latin Extended-B	uni01D4	332
+0	U+01D5	Ǖ	Latin Extended-B	uni01D5	333
+0	U+01D6	ǖ	Latin Extended-B	uni01D6	334
+0	U+01D7	Ǘ	Latin Extended-B	uni01D7	335
+0	U+01D8	ǘ	Latin Extended-B	uni01D8	336
+0	U+01D9	Ǚ	Latin Extended-B	uni01D9	337
+0	U+01DA	ǚ	Latin Extended-B	uni01DA	338
+0	U+01DB	Ǜ	Latin Extended-B	uni01DB	339
+0	U+01DC	ǜ	Latin Extended-B	uni01DC	340
+0	U+01F5	ǵ	Latin Extended-B	uni01F5	341
+0	U+01F8	Ǹ	Latin Extended-B	uni01F8	342
+0	U+01F9	ǹ	Latin Extended-B	uni01F9	343
+0	U+01FA	Ǻ	Latin Extended-B	uni01FA	344
+0	U+01FB	ǻ	Latin Extended-B	uni01FB	345
+0	U+01FC	Ǽ	Latin Extended-B	uni01FC	346
+0	U+01FD	ǽ	Latin Extended-B	uni01FD	347
+0	U+01FE	Ǿ	Latin Extended-B	uni01FE	348
+0	U+01FF	ǿ	Latin Extended-B	uni01FF	349
+0	U+0250	ɐ	IPA Extensions	uni0250	350
+0	U+0251	ɑ	IPA Extensions	uni0251	351
+0	U+0252	ɒ	IPA Extensions	uni0252	352
+0	U+0253	ɓ	IPA Extensions	uni0253	353
+0	U+0254	ɔ	IPA Extensions	uni0254	354
+0	U+0255	ɕ	IPA Extensions	uni0255	355
+0	U+0256	ɖ	IPA Extensions	uni0256	356
+0	U+0257	ɗ	IPA Extensions	uni0257	357
+0	U+0258	ɘ	IPA Extensions	uni0258	358
+0	U+0259	ə	IPA Extensions	uni0259	359
+0	U+025A	ɚ	IPA Extensions	uni025A	360
+0	U+025B	ɛ	IPA Extensions	uni025B	361
+0	U+025C	ɜ	IPA Extensions	uni025C	362
+0	U+025D	ɝ	IPA Extensions	uni025D	363
+0	U+025E	ɞ	IPA Extensions	uni025E	364
+0	U+025F	ɟ	IPA Extensions	uni025F	365
+0	U+0260	ɠ	IPA Extensions	uni0260	366
+0	U+0261	ɡ	IPA Extensions	uni0261	367
+0	U+0262	ɢ	IPA Extensions	uni0262	368
+0	U+0263	ɣ	IPA Extensions	uni0263	369
+0	U+0264	ɤ	IPA Extensions	uni0264	370
+0	U+0265	ɥ	IPA Extensions	uni0265	371
+0	U+0266	ɦ	IPA Extensions	uni0266	372
+0	U+0267	ɧ	IPA Extensions	uni0267	373
+0	U+0268	ɨ	IPA Extensions	uni0268	374
+0	U+0269	ɩ	IPA Extensions	uni0269	375
+0	U+026A	ɪ	IPA Extensions	uni026A	376
+0	U+026B	ɫ	IPA Extensions	uni026B	377
+0	U+026C	ɬ	IPA Extensions	uni026C	378
+0	U+026D	ɭ	IPA Extensions	uni026D	379
+0	U+026E	ɮ	IPA Extensions	uni026E	380
+0	U+026F	ɯ	IPA Extensions	uni026F	381
+0	U+0270	ɰ	IPA Extensions	uni0270	382
+0	U+0271	ɱ	IPA Extensions	uni0271	383
+0	U+0272	ɲ	IPA Extensions	uni0272	384
+0	U+0273	ɳ	IPA Extensions	uni0273	385
+0	U+0274	ɴ	IPA Extensions	uni0274	386
+0	U+0275	ɵ	IPA Extensions	uni0275	387
+0	U+0276	ɶ	IPA Extensions	uni0276	388
+0	U+0277	ɷ	IPA Extensions	uni0277	389
+0	U+0278	ɸ	IPA Extensions	uni0278	390
+0	U+0279	ɹ	IPA Extensions	uni0279	391
+0	U+027A	ɺ	IPA Extensions	uni027A	392
+0	U+027B	ɻ	IPA Extensions	uni027B	393
+0	U+027C	ɼ	IPA Extensions	uni027C	394
+0	U+027D	ɽ	IPA Extensions	uni027D	395
+0	U+027E	ɾ	IPA Extensions	uni027E	396
+0	U+027F	ɿ	IPA Extensions	uni027F	397
+0	U+0280	ʀ	IPA Extensions	uni0280	398
+0	U+0281	ʁ	IPA Extensions	uni0281	399
+0	U+0282	ʂ	IPA Extensions	uni0282	400
+0	U+0283	ʃ	IPA Extensions	uni0283	401
+0	U+0284	ʄ	IPA Extensions	uni0284	402
+0	U+0285	ʅ	IPA Extensions	uni0285	403
+0	U+0286	ʆ	IPA Extensions	uni0286	404
+0	U+0287	ʇ	IPA Extensions	uni0287	405
+0	U+0288	ʈ	IPA Extensions	uni0288	406
+0	U+0289	ʉ	IPA Extensions	uni0289	407
+0	U+028A	ʊ	IPA Extensions	uni028A	408
+0	U+028B	ʋ	IPA Extensions	uni028B	409
+0	U+028C	ʌ	IPA Extensions	uni028C	410
+0	U+028D	ʍ	IPA Extensions	uni028D	411
+0	U+028E	ʎ	IPA Extensions	uni028E	412
+0	U+028F	ʏ	IPA Extensions	uni028F	413
+0	U+0290	ʐ	IPA Extensions	uni0290	414
+0	U+0291	ʑ	IPA Extensions	uni0291	415
+0	U+0292	ʒ	IPA Extensions	uni0292	416
+0	U+0293	ʓ	IPA Extensions	uni0293	417
+0	U+0294	ʔ	IPA Extensions	uni0294	418
+0	U+0295	ʕ	IPA Extensions	uni0295	419
+0	U+0296	ʖ	IPA Extensions	uni0296	420
+0	U+0297	ʗ	IPA Extensions	uni0297	421
+0	U+0298	ʘ	IPA Extensions	uni0298	422
+0	U+0299	ʙ	IPA Extensions	uni0299	423
+0	U+029A	ʚ	IPA Extensions	uni029A	424
+0	U+029B	ʛ	IPA Extensions	uni029B	425
+0	U+029C	ʜ	IPA Extensions	uni029C	426
+0	U+029D	ʝ	IPA Extensions	uni029D	427
+0	U+029E	ʞ	IPA Extensions	uni029E	428
+0	U+029F	ʟ	IPA Extensions	uni029F	429
+0	U+02A0	ʠ	IPA Extensions	uni02A0	430
+0	U+02A1	ʡ	IPA Extensions	uni02A1	431
+0	U+02A2	ʢ	IPA Extensions	uni02A2	432
+0	U+02A3	ʣ	IPA Extensions	uni02A3	433
+0	U+02A4	ʤ	IPA Extensions	uni02A4	434
+0	U+02A5	ʥ	IPA Extensions	uni02A5	435
+0	U+02A6	ʦ	IPA Extensions	uni02A6	436
+0	U+02A7	ʧ	IPA Extensions	uni02A7	437
+0	U+02A8	ʨ	IPA Extensions	uni02A8	438
+0	U+02C6	ˆ	Spacing Modifier Letters	uni02C6	439
+0	U+02C7	ˇ	Spacing Modifier Letters	uni02C7	440
+0	U+02C8	ˈ	Spacing Modifier Letters	uni02C8	441
+0	U+02C9	ˉ	Spacing Modifier Letters	uni02C9	442
+0	U+02CC	ˌ	Spacing Modifier Letters	uni02CC	443
+0	U+02D0	ː	Spacing Modifier Letters	uni02D0	444
+0	U+02D1	ˑ	Spacing Modifier Letters	uni02D1	445
+0	U+02D8	˘	Spacing Modifier Letters	uni02D8	446
+0	U+02D9	˙	Spacing Modifier Letters	uni02D9	447
+0	U+02DA	˚	Spacing Modifier Letters	uni02DA	448
+0	U+02DB	˛	Spacing Modifier Letters	uni02DB	449
+0	U+02DC	˜	Spacing Modifier Letters	uni02DC	450
+0	U+02DD	˝	Spacing Modifier Letters	uni02DD	451
+0	U+02DE	˞	Spacing Modifier Letters	uni02DE	452
+0	U+02E5	˥	Spacing Modifier Letters	uni02E5	453
+0	U+02E6	˦	Spacing Modifier Letters	uni02E6	454
+0	U+02E7	˧	Spacing Modifier Letters	uni02E7	455
+0	U+02E8	˨	Spacing Modifier Letters	uni02E8	456
+0	U+02E9	˩	Spacing Modifier Letters	uni02E9	457
+0	U+0300	<COMBINING GRAVE ACCENT>	Combining Diacritical Marks	uni0300	458
+0	U+0301	<COMBINING ACUTE ACCENT>	Combining Diacritical Marks	uni0301	459
+0	U+0302	<COMBINING CIRCUMFLEX ACCENT>	Combining Diacritical Marks	uni0302	460
+0	U+0303	<COMBINING TILDE>	Combining Diacritical Marks	uni0303	461
+0	U+0304	<COMBINING MACRON>	Combining Diacritical Marks	uni0304	462
+0	U+0306	<COMBINING BREVE>	Combining Diacritical Marks	uni0306	463
+0	U+0308	<COMBINING DIAERESIS>	Combining Diacritical Marks	uni0308	464
+0	U+030B	<COMBINING DOUBLE ACUTE ACCENT>	Combining Diacritical Marks	uni030B	465
+0	U+030C	<COMBINING CARON>	Combining Diacritical Marks	uni030C	466
+0	U+030F	<COMBINING DOUBLE GRAVE ACCENT>	Combining Diacritical Marks	uni030F	467
+0	U+0318	<COMBINING LEFT TACK BELOW>	Combining Diacritical Marks	uni0318	468
+0	U+0319	<COMBINING RIGHT TACK BELOW>	Combining Diacritical Marks	uni0319	469
+0	U+031A	<COMBINING LEFT ANGLE ABOVE>	Combining Diacritical Marks	uni031A	470
+0	U+031C	<COMBINING LEFT HALF RING BELOW>	Combining Diacritical Marks	uni031C	471
+0	U+031D	<COMBINING UP TACK BELOW>	Combining Diacritical Marks	uni031D	472
+0	U+031E	<COMBINING DOWN TACK BELOW>	Combining Diacritical Marks	uni031E	473
+0	U+031F	<COMBINING PLUS SIGN BELOW>	Combining Diacritical Marks	uni031F	474
+0	U+0320	<COMBINING MINUS SIGN BELOW>	Combining Diacritical Marks	uni0320	475
+0	U+0324	<COMBINING DIAERESIS BELOW>	Combining Diacritical Marks	uni0324	476
+0	U+0325	<COMBINING RING BELOW>	Combining Diacritical Marks	uni0325	477
+0	U+0329	<COMBINING VERTICAL LINE BELOW>	Combining Diacritical Marks	uni0329	478
+0	U+032A	<COMBINING BRIDGE BELOW>	Combining Diacritical Marks	uni032A	479
+0	U+032C	<COMBINING CARON BELOW>	Combining Diacritical Marks	uni032C	480
+0	U+032F	<COMBINING INVERTED BREVE BELOW>	Combining Diacritical Marks	uni032F	481
+0	U+0330	<COMBINING TILDE BELOW>	Combining Diacritical Marks	uni0330	482
+0	U+0334	<COMBINING TILDE OVERLAY>	Combining Diacritical Marks	uni0334	483
+0	U+0339	<COMBINING RIGHT HALF RING BELOW>	Combining Diacritical Marks	uni0339	484
+0	U+033A	<COMBINING INVERTED BRIDGE BELOW>	Combining Diacritical Marks	uni033A	485
+0	U+033B	<COMBINING SQUARE BELOW>	Combining Diacritical Marks	uni033B	486
+0	U+033C	<COMBINING SEAGULL BELOW>	Combining Diacritical Marks	uni033C	487
+0	U+033D	<COMBINING X ABOVE>	Combining Diacritical Marks	uni033D	488
+0	U+0361	<COMBINING DOUBLE INVERTED BREVE>	Combining Diacritical Marks	uni0361	489
+0	U+0374	ʹ	Greek and Coptic	uni0374	490
+0	U+0375	͵	Greek and Coptic	uni0375	491
+0	U+037A	ͺ	Greek and Coptic	uni037A	492
+0	U+037E	;	Greek and Coptic	uni037E	493
+0	U+0384	΄	Greek and Coptic	uni0384	494
+0	U+0385	΅	Greek and Coptic	uni0385	495
+0	U+0386	Ά	Greek and Coptic	uni0386	496
+0	U+0387	·	Greek and Coptic	uni0387	497
+0	U+0388	Έ	Greek and Coptic	uni0388	498
+0	U+0389	Ή	Greek and Coptic	uni0389	499
+0	U+038A	Ί	Greek and Coptic	uni038A	500
+0	U+038C	Ό	Greek and Coptic	uni038C	501
+0	U+038E	Ύ	Greek and Coptic	uni038E	502
+0	U+038F	Ώ	Greek and Coptic	uni038F	503
+0	U+0390	ΐ	Greek and Coptic	uni0390	504
+0	U+0391	Α	Greek and Coptic	uni0391	505
+0	U+0392	Β	Greek and Coptic	uni0392	506
+0	U+0393	Γ	Greek and Coptic	uni0393	507
+0	U+0394	Δ	Greek and Coptic	uni0394	508
+0	U+0395	Ε	Greek and Coptic	uni0395	509
+0	U+0396	Ζ	Greek and Coptic	uni0396	510
+0	U+0397	Η	Greek and Coptic	uni0397	511
+0	U+0398	Θ	Greek and Coptic	uni0398	512
+0	U+0399	Ι	Greek and Coptic	uni0399	513
+0	U+039A	Κ	Greek and Coptic	uni039A	514
+0	U+039B	Λ	Greek and Coptic	uni039B	515
+0	U+039C	Μ	Greek and Coptic	uni039C	516
+0	U+039D	Ν	Greek and Coptic	uni039D	517
+0	U+039E	Ξ	Greek and Coptic	uni039E	518
+0	U+039F	Ο	Greek and Coptic	uni039F	519
+0	U+03A0	Π	Greek and Coptic	uni03A0	520
+0	U+03A1	Ρ	Greek and Coptic	uni03A1	521
+0	U+03A3	Σ	Greek and Coptic	uni03A3	522
+0	U+03A4	Τ	Greek and Coptic	uni03A4	523
+0	U+03A5	Υ	Greek and Coptic	uni03A5	524
+0	U+03A6	Φ	Greek and Coptic	uni03A6	525
+0	U+03A7	Χ	Greek and Coptic	uni03A7	526
+0	U+03A8	Ψ	Greek and Coptic	uni03A8	527
+0	U+03A9	Ω	Greek and Coptic	uni03A9	528
+0	U+03AA	Ϊ	Greek and Coptic	uni03AA	529
+0	U+03AB	Ϋ	Greek and Coptic	uni03AB	530
+0	U+03AC	ά	Greek and Coptic	uni03AC	531
+0	U+03AD	έ	Greek and Coptic	uni03AD	532
+0	U+03AE	ή	Greek and Coptic	uni03AE	533
+0	U+03AF	ί	Greek and Coptic	uni03AF	534
+0	U+03B0	ΰ	Greek and Coptic	uni03B0	535
+0	U+03B1	α	Greek and Coptic	uni03B1	536
+0	U+03B2	β	Greek and Coptic	uni03B2	537
+0	U+03B3	γ	Greek and Coptic	uni03B3	538
+0	U+03B4	δ	Greek and Coptic	uni03B4	539
+0	U+03B5	ε	Greek and Coptic	uni03B5	540
+0	U+03B6	ζ	Greek and Coptic	uni03B6	541
+0	U+03B7	η	Greek and Coptic	uni03B7	542
+0	U+03B8	θ	Greek and Coptic	uni03B8	543
+0	U+03B9	ι	Greek and Coptic	uni03B9	544
+0	U+03BA	κ	Greek and Coptic	uni03BA	545
+0	U+03BB	λ	Greek and Coptic	uni03BB	546
+0	U+03BC	μ	Greek and Coptic	uni03BC	547
+0	U+03BD	ν	Greek and Coptic	uni03BD	548
+0	U+03BE	ξ	Greek and Coptic	uni03BE	549
+0	U+03BF	ο	Greek and Coptic	uni03BF	550
+0	U+03C0	π	Greek and Coptic	uni03C0	551
+0	U+03C1	ρ	Greek and Coptic	uni03C1	552
+0	U+03C2	ς	Greek and Coptic	uni03C2	553
+0	U+03C3	σ	Greek and Coptic	uni03C3	554
+0	U+03C4	τ	Greek and Coptic	uni03C4	555
+0	U+03C5	υ	Greek and Coptic	uni03C5	556
+0	U+03C6	φ	Greek and Coptic	uni03C6	557
+0	U+03C7	χ	Greek and Coptic	uni03C7	558
+0	U+03C8	ψ	Greek and Coptic	uni03C8	559
+0	U+03C9	ω	Greek and Coptic	uni03C9	560
+0	U+03CA	ϊ	Greek and Coptic	uni03CA	561
+0	U+03CB	ϋ	Greek and Coptic	uni03CB	562
+0	U+03CC	ό	Greek and Coptic	uni03CC	563
+0	U+03CD	ύ	Greek and Coptic	uni03CD	564
+0	U+03CE	ώ	Greek and Coptic	uni03CE	565
+0	U+0401	Ё	Cyrillic	uni0401	566
+0	U+0402	Ђ	Cyrillic	uni0402	567
+0	U+0403	Ѓ	Cyrillic	uni0403	568
+0	U+0404	Є	Cyrillic	uni0404	569
+0	U+0405	Ѕ	Cyrillic	uni0405	570
+0	U+0406	І	Cyrillic	uni0406	571
+0	U+0407	Ї	Cyrillic	uni0407	572
+0	U+0408	Ј	Cyrillic	uni0408	573
+0	U+0409	Љ	Cyrillic	uni0409	574
+0	U+040A	Њ	Cyrillic	uni040A	575
+0	U+040B	Ћ	Cyrillic	uni040B	576
+0	U+040C	Ќ	Cyrillic	uni040C	577
+0	U+040E	Ў	Cyrillic	uni040E	578
+0	U+040F	Џ	Cyrillic	uni040F	579
+0	U+0410	А	Cyrillic	uni0410	580
+0	U+0411	Б	Cyrillic	uni0411	581
+0	U+0412	В	Cyrillic	uni0412	582
+0	U+0413	Г	Cyrillic	uni0413	583
+0	U+0414	Д	Cyrillic	uni0414	584
+0	U+0415	Е	Cyrillic	uni0415	585
+0	U+0416	Ж	Cyrillic	uni0416	586
+0	U+0417	З	Cyrillic	uni0417	587
+0	U+0418	И	Cyrillic	uni0418	588
+0	U+0419	Й	Cyrillic	uni0419	589
+0	U+041A	К	Cyrillic	uni041A	590
+0	U+041B	Л	Cyrillic	uni041B	591
+0	U+041C	М	Cyrillic	uni041C	592
+0	U+041D	Н	Cyrillic	uni041D	593
+0	U+041E	О	Cyrillic	uni041E	594
+0	U+041F	П	Cyrillic	uni041F	595
+0	U+0420	Р	Cyrillic	uni0420	596
+0	U+0421	С	Cyrillic	uni0421	597
+0	U+0422	Т	Cyrillic	uni0422	598
+0	U+0423	У	Cyrillic	uni0423	599
+0	U+0424	Ф	Cyrillic	uni0424	600
+0	U+0425	Х	Cyrillic	uni0425	601
+0	U+0426	Ц	Cyrillic	uni0426	602
+0	U+0427	Ч	Cyrillic	uni0427	603
+0	U+0428	Ш	Cyrillic	uni0428	604
+0	U+0429	Щ	Cyrillic	uni0429	605
+0	U+042A	Ъ	Cyrillic	uni042A	606
+0	U+042B	Ы	Cyrillic	uni042B	607
+0	U+042C	Ь	Cyrillic	uni042C	608
+0	U+042D	Э	Cyrillic	uni042D	609
+0	U+042E	Ю	Cyrillic	uni042E	610
+0	U+042F	Я	Cyrillic	uni042F	611
+0	U+0430	а	Cyrillic	uni0430	612
+0	U+0431	б	Cyrillic	uni0431	613
+0	U+0432	в	Cyrillic	uni0432	614
+0	U+0433	г	Cyrillic	uni0433	615
+0	U+0434	д	Cyrillic	uni0434	616
+0	U+0435	е	Cyrillic	uni0435	617
+0	U+0436	ж	Cyrillic	uni0436	618
+0	U+0437	з	Cyrillic	uni0437	619
+0	U+0438	и	Cyrillic	uni0438	620
+0	U+0439	й	Cyrillic	uni0439	621
+0	U+043A	к	Cyrillic	uni043A	622
+0	U+043B	л	Cyrillic	uni043B	623
+0	U+043C	м	Cyrillic	uni043C	624
+0	U+043D	н	Cyrillic	uni043D	625
+0	U+043E	о	Cyrillic	uni043E	626
+0	U+043F	п	Cyrillic	uni043F	627
+0	U+0440	р	Cyrillic	uni0440	628
+0	U+0441	с	Cyrillic	uni0441	629
+0	U+0442	т	Cyrillic	uni0442	630
+0	U+0443	у	Cyrillic	uni0443	631
+0	U+0444	ф	Cyrillic	uni0444	632
+0	U+0445	х	Cyrillic	uni0445	633
+0	U+0446	ц	Cyrillic	uni0446	634
+0	U+0447	ч	Cyrillic	uni0447	635
+0	U+0448	ш	Cyrillic	uni0448	636
+0	U+0449	щ	Cyrillic	uni0449	637
+0	U+044A	ъ	Cyrillic	uni044A	638
+0	U+044B	ы	Cyrillic	uni044B	639
+0	U+044C	ь	Cyrillic	uni044C	640
+0	U+044D	э	Cyrillic	uni044D	641
+0	U+044E	ю	Cyrillic	uni044E	642
+0	U+044F	я	Cyrillic	uni044F	643
+0	U+0451	ё	Cyrillic	uni0451	644
+0	U+0452	ђ	Cyrillic	uni0452	645
+0	U+0453	ѓ	Cyrillic	uni0453	646
+0	U+0454	є	Cyrillic	uni0454	647
+0	U+0455	ѕ	Cyrillic	uni0455	648
+0	U+0456	і	Cyrillic	uni0456	649
+0	U+0457	ї	Cyrillic	uni0457	650
+0	U+0458	ј	Cyrillic	uni0458	651
+0	U+0459	љ	Cyrillic	uni0459	652
+0	U+045A	њ	Cyrillic	uni045A	653
+0	U+045B	ћ	Cyrillic	uni045B	654
+0	U+045C	ќ	Cyrillic	uni045C	655
+0	U+045E	ў	Cyrillic	uni045E	656
+0	U+045F	џ	Cyrillic	uni045F	657
+0	U+0460	Ѡ	Cyrillic	uni0460	658
+0	U+0461	ѡ	Cyrillic	uni0461	659
+0	U+0462	Ѣ	Cyrillic	uni0462	660
+0	U+0463	ѣ	Cyrillic	uni0463	661
+0	U+0464	Ѥ	Cyrillic	uni0464	662
+0	U+0465	ѥ	Cyrillic	uni0465	663
+0	U+0466	Ѧ	Cyrillic	uni0466	664
+0	U+0467	ѧ	Cyrillic	uni0467	665
+0	U+0468	Ѩ	Cyrillic	uni0468	666
+0	U+0469	ѩ	Cyrillic	uni0469	667
+0	U+046A	Ѫ	Cyrillic	uni046A	668
+0	U+046B	ѫ	Cyrillic	uni046B	669
+0	U+046C	Ѭ	Cyrillic	uni046C	670
+0	U+046D	ѭ	Cyrillic	uni046D	671
+0	U+046E	Ѯ	Cyrillic	uni046E	672
+0	U+046F	ѯ	Cyrillic	uni046F	673
+0	U+0470	Ѱ	Cyrillic	uni0470	674
+0	U+0471	ѱ	Cyrillic	uni0471	675
+0	U+0472	Ѳ	Cyrillic	uni0472	676
+0	U+0473	ѳ	Cyrillic	uni0473	677
+0	U+0474	Ѵ	Cyrillic	uni0474	678
+0	U+0475	ѵ	Cyrillic	uni0475	679
+0	U+0476	Ѷ	Cyrillic	uni0476	680
+0	U+0477	ѷ	Cyrillic	uni0477	681
+0	U+0478	Ѹ	Cyrillic	uni0478	682
+0	U+0479	ѹ	Cyrillic	uni0479	683
+0	U+047A	Ѻ	Cyrillic	uni047A	684
+0	U+047B	ѻ	Cyrillic	uni047B	685
+0	U+047C	Ѽ	Cyrillic	uni047C	686
+0	U+047D	ѽ	Cyrillic	uni047D	687
+0	U+047E	Ѿ	Cyrillic	uni047E	688
+0	U+047F	ѿ	Cyrillic	uni047F	689
+0	U+0480	Ҁ	Cyrillic	uni0480	690
+0	U+0481	ҁ	Cyrillic	uni0481	691
+0	U+0482	҂	Cyrillic	uni0482	692
+0	U+0483	<COMBINING CYRILLIC TITLO>	Cyrillic	uni0483	693
+0	U+0484	<COMBINING CYRILLIC PALATALIZATION>	Cyrillic	uni0484	694
+0	U+0485	<COMBINING CYRILLIC DASIA PNEUMATA>	Cyrillic	uni0485	695
+0	U+0486	<COMBINING CYRILLIC PSILI PNEUMATA>	Cyrillic	uni0486	696
+0	U+0490	Ґ	Cyrillic	uni0490	697
+0	U+0491	ґ	Cyrillic	uni0491	698
+0	U+0492	Ғ	Cyrillic	uni0492	699
+0	U+0493	ғ	Cyrillic	uni0493	700
+0	U+0494	Ҕ	Cyrillic	uni0494	701
+0	U+0495	ҕ	Cyrillic	uni0495	702
+0	U+0496	Җ	Cyrillic	uni0496	703
+0	U+0497	җ	Cyrillic	uni0497	704
+0	U+0498	Ҙ	Cyrillic	uni0498	705
+0	U+0499	ҙ	Cyrillic	uni0499	706
+0	U+049A	Қ	Cyrillic	uni049A	707
+0	U+049B	қ	Cyrillic	uni049B	708
+0	U+049C	Ҝ	Cyrillic	uni049C	709
+0	U+049D	ҝ	Cyrillic	uni049D	710
+0	U+049E	Ҟ	Cyrillic	uni049E	711
+0	U+049F	ҟ	Cyrillic	uni049F	712
+0	U+04A0	Ҡ	Cyrillic	uni04A0	713
+0	U+04A1	ҡ	Cyrillic	uni04A1	714
+0	U+04A2	Ң	Cyrillic	uni04A2	715
+0	U+04A3	ң	Cyrillic	uni04A3	716
+0	U+04A4	Ҥ	Cyrillic	uni04A4	717
+0	U+04A5	ҥ	Cyrillic	uni04A5	718
+0	U+04A6	Ҧ	Cyrillic	uni04A6	719
+0	U+04A7	ҧ	Cyrillic	uni04A7	720
+0	U+04A8	Ҩ	Cyrillic	uni04A8	721
+0	U+04A9	ҩ	Cyrillic	uni04A9	722
+0	U+04AA	Ҫ	Cyrillic	uni04AA	723
+0	U+04AB	ҫ	Cyrillic	uni04AB	724
+0	U+04AC	Ҭ	Cyrillic	uni04AC	725
+0	U+04AD	ҭ	Cyrillic	uni04AD	726
+0	U+04AE	Ү	Cyrillic	uni04AE	727
+0	U+04AF	ү	Cyrillic	uni04AF	728
+0	U+04B0	Ұ	Cyrillic	uni04B0	729
+0	U+04B1	ұ	Cyrillic	uni04B1	730
+0	U+04B2	Ҳ	Cyrillic	uni04B2	731
+0	U+04B3	ҳ	Cyrillic	uni04B3	732
+0	U+04B4	Ҵ	Cyrillic	uni04B4	733
+0	U+04B5	ҵ	Cyrillic	uni04B5	734
+0	U+04B6	Ҷ	Cyrillic	uni04B6	735
+0	U+04B7	ҷ	Cyrillic	uni04B7	736
+0	U+04B8	Ҹ	Cyrillic	uni04B8	737
+0	U+04B9	ҹ	Cyrillic	uni04B9	738
+0	U+04BA	Һ	Cyrillic	uni04BA	739
+0	U+04BB	һ	Cyrillic	uni04BB	740
+0	U+04BC	Ҽ	Cyrillic	uni04BC	741
+0	U+04BD	ҽ	Cyrillic	uni04BD	742
+0	U+04BE	Ҿ	Cyrillic	uni04BE	743
+0	U+04BF	ҿ	Cyrillic	uni04BF	744
+0	U+04C0	Ӏ	Cyrillic	uni04C0	745
+0	U+04C1	Ӂ	Cyrillic	uni04C1	746
+0	U+04C2	ӂ	Cyrillic	uni04C2	747
+0	U+04C3	Ӄ	Cyrillic	uni04C3	748
+0	U+04C4	ӄ	Cyrillic	uni04C4	749
+0	U+04C7	Ӈ	Cyrillic	uni04C7	750
+0	U+04C8	ӈ	Cyrillic	uni04C8	751
+0	U+04CB	Ӌ	Cyrillic	uni04CB	752
+0	U+04CC	ӌ	Cyrillic	uni04CC	753
+0	U+04D0	Ӑ	Cyrillic	uni04D0	754
+0	U+04D1	ӑ	Cyrillic	uni04D1	755
+0	U+04D2	Ӓ	Cyrillic	uni04D2	756
+0	U+04D3	ӓ	Cyrillic	uni04D3	757
+0	U+04D4	Ӕ	Cyrillic	uni04D4	758
+0	U+04D5	ӕ	Cyrillic	uni04D5	759
+0	U+04D6	Ӗ	Cyrillic	uni04D6	760
+0	U+04D7	ӗ	Cyrillic	uni04D7	761
+0	U+04D8	Ә	Cyrillic	uni04D8	762
+0	U+04D9	ә	Cyrillic	uni04D9	763
+0	U+04DA	Ӛ	Cyrillic	uni04DA	764
+0	U+04DB	ӛ	Cyrillic	uni04DB	765
+0	U+04DC	Ӝ	Cyrillic	uni04DC	766
+0	U+04DD	ӝ	Cyrillic	uni04DD	767
+0	U+04DE	Ӟ	Cyrillic	uni04DE	768
+0	U+04DF	ӟ	Cyrillic	uni04DF	769
+0	U+04E0	Ӡ	Cyrillic	uni04E0	770
+0	U+04E1	ӡ	Cyrillic	uni04E1	771
+0	U+04E2	Ӣ	Cyrillic	uni04E2	772
+0	U+04E3	ӣ	Cyrillic	uni04E3	773
+0	U+04E4	Ӥ	Cyrillic	uni04E4	774
+0	U+04E5	ӥ	Cyrillic	uni04E5	775
+0	U+04E6	Ӧ	Cyrillic	uni04E6	776
+0	U+04E7	ӧ	Cyrillic	uni04E7	777
+0	U+04E8	Ө	Cyrillic	uni04E8	778
+0	U+04E9	ө	Cyrillic	uni04E9	779
+0	U+04EA	Ӫ	Cyrillic	uni04EA	780
+0	U+04EB	ӫ	Cyrillic	uni04EB	781
+0	U+04EE	Ӯ	Cyrillic	uni04EE	782
+0	U+04EF	ӯ	Cyrillic	uni04EF	783
+0	U+04F0	Ӱ	Cyrillic	uni04F0	784
+0	U+04F1	ӱ	Cyrillic	uni04F1	785
+0	U+04F2	Ӳ	Cyrillic	uni04F2	786
+0	U+04F3	ӳ	Cyrillic	uni04F3	787
+0	U+04F4	Ӵ	Cyrillic	uni04F4	788
+0	U+04F5	ӵ	Cyrillic	uni04F5	789
+0	U+04F8	Ӹ	Cyrillic	uni04F8	790
+0	U+04F9	ӹ	Cyrillic	uni04F9	791
+0	U+09F2	৲	Bengali	uni09F2	792
+0	U+09F3	৳	Bengali	uni09F3	793
+0	U+0E3F	฿	Thai	uni0E3F	794
+0	U+17DB	៛	Khmer	uni17DB	795
+0	U+1E3E	Ḿ	Latin Extended Additional	uni1E3E	796
+0	U+1E3F	ḿ	Latin Extended Additional	uni1E3F	797
+0	U+1E80	Ẁ	Latin Extended Additional	uni1E80	798
+0	U+1E81	ẁ	Latin Extended Additional	uni1E81	799
+0	U+1E82	Ẃ	Latin Extended Additional	uni1E82	800
+0	U+1E83	ẃ	Latin Extended Additional	uni1E83	801
+0	U+1E84	Ẅ	Latin Extended Additional	uni1E84	802
+0	U+1E85	ẅ	Latin Extended Additional	uni1E85	803
+0	U+1EF2	Ỳ	Latin Extended Additional	uni1EF2	804
+0	U+1EF3	ỳ	Latin Extended Additional	uni1EF3	805
+0	U+1F70	ὰ	Greek Extended	uni1F70	806
+0	U+1F71	ά	Greek Extended	uni1F71	807
+0	U+1F72	ὲ	Greek Extended	uni1F72	808
+0	U+1F73	έ	Greek Extended	uni1F73	809
+0	U+2000	<EN QUAD>	General Punctuation	uni2000	810
+0	U+2001	<EM QUAD>	General Punctuation	uni2001	811
+0	U+2002	<EN SPACE>	General Punctuation	uni2002	812
+0	U+2003	<EM SPACE>	General Punctuation	uni2003	813
+0	U+2004	<THREE-PER-EM SPACE>	General Punctuation	uni2004	814
+0	U+2005	<FOUR-PER-EM SPACE>	General Punctuation	uni2005	815
+0	U+2006	<SIX-PER-EM SPACE>	General Punctuation	uni2006	816
+0	U+2007	<FIGURE SPACE>	General Punctuation	uni2007	817
+0	U+2008	<PUNCTUATION SPACE>	General Punctuation	uni2008	818
+0	U+2009	<THIN SPACE>	General Punctuation	uni2009	819
+0	U+200A	<HAIR SPACE>	General Punctuation	uni200A	820
+0	U+200B	<ZERO WIDTH SPACE>	General Punctuation	uni200B	821
+0	U+200C	<ZERO WIDTH NON-JOINER>	General Punctuation	uni200C	822
+0	U+200D	<ZERO WIDTH JOINER>	General Punctuation	uni200D	823
+0	U+200E	<LEFT-TO-RIGHT MARK>	General Punctuation	uni200E	824
+0	U+200F	<RIGHT-TO-LEFT MARK>	General Punctuation	uni200F	825
+0	U+2010	‐	General Punctuation	uni2010	826
+0	U+2011	‑	General Punctuation	uni2011	827
+0	U+2012	‒	General Punctuation	uni2012	828
+0	U+2013	–	General Punctuation	uni2013	829
+0	U+2014	—	General Punctuation	uni2014	830
+0	U+2015	―	General Punctuation	uni2015	831
+0	U+2016	‖	General Punctuation	uni2016	832
+0	U+2017	‗	General Punctuation	uni2017	833
+0	U+2018	‘	General Punctuation	uni2018	834
+0	U+2019	’	General Punctuation	uni2019	835
+0	U+201A	‚	General Punctuation	uni201A	836
+0	U+201B	‛	General Punctuation	uni201B	837
+0	U+201C	“	General Punctuation	uni201C	838
+0	U+201D	”	General Punctuation	uni201D	839
+0	U+201E	„	General Punctuation	uni201E	840
+0	U+201F	‟	General Punctuation	uni201F	841
+0	U+2020	†	General Punctuation	uni2020	842
+0	U+2021	‡	General Punctuation	uni2021	843
+0	U+2022	•	General Punctuation	uni2022	844
+0	U+2023	‣	General Punctuation	uni2023	845
+0	U+2024	․	General Punctuation	uni2024	846
+0	U+2025	‥	General Punctuation	uni2025	847
+0	U+2026	…	General Punctuation	uni2026	848
+0	U+2027	‧	General Punctuation	uni2027	849
+0	U+2028	<LINE SEPARATOR>	General Punctuation	uni2028	850
+0	U+2029	<PARAGRAPH SEPARATOR>	General Punctuation	uni2029	851
+0	U+202A	<LEFT-TO-RIGHT EMBEDDING>	General Punctuation	uni202A	852
+0	U+202B	<RIGHT-TO-LEFT EMBEDDING>	General Punctuation	uni202B	853
+0	U+202C	<POP DIRECTIONAL FORMATTING>	General Punctuation	uni202C	854
+0	U+202D	<LEFT-TO-RIGHT OVERRIDE>	General Punctuation	uni202D	855
+0	U+202E	<RIGHT-TO-LEFT OVERRIDE>	General Punctuation	uni202E	856
+0	U+2030	‰	General Punctuation	uni2030	857
+0	U+2031	‱	General Punctuation	uni2031	858
+0	U+2032	′	General Punctuation	uni2032	859
+0	U+2033	″	General Punctuation	uni2033	860
+0	U+2034	‴	General Punctuation	uni2034	861
+0	U+2035	‵	General Punctuation	uni2035	862
+0	U+2036	‶	General Punctuation	uni2036	863
+0	U+2037	‷	General Punctuation	uni2037	864
+0	U+2038	‸	General Punctuation	uni2038	865
+0	U+2039	‹	General Punctuation	uni2039	866
+0	U+203A	›	General Punctuation	uni203A	867
+0	U+203B	※	General Punctuation	uni203B	868
+0	U+203C	‼	General Punctuation	uni203C	869
+0	U+203D	‽	General Punctuation	uni203D	870
+0	U+203E	‾	General Punctuation	uni203E	871
+0	U+203F	‿	General Punctuation	uni203F	872
+0	U+2040	⁀	General Punctuation	uni2040	873
+0	U+2041	⁁	General Punctuation	uni2041	874
+0	U+2042	⁂	General Punctuation	uni2042	875
+0	U+2043	⁃	General Punctuation	uni2043	876
+0	U+2044	⁄	General Punctuation	uni2044	877
+0	U+2045	⁅	General Punctuation	uni2045	878
+0	U+2046	⁆	General Punctuation	uni2046	879
+0	U+2047	⁇	General Punctuation	uni2047	880
+0	U+2048	⁈	General Punctuation	uni2048	881
+0	U+2049	⁉	General Punctuation	uni2049	882
+0	U+2051	⁑	General Punctuation	uni2051	883
+0	U+2070	⁰	Superscripts and Subscripts	uni2070	884
+0	U+2074	⁴	Superscripts and Subscripts	uni2074	885
+0	U+2075	⁵	Superscripts and Subscripts	uni2075	886
+0	U+2076	⁶	Superscripts and Subscripts	uni2076	887
+0	U+2077	⁷	Superscripts and Subscripts	uni2077	888
+0	U+2078	⁸	Superscripts and Subscripts	uni2078	889
+0	U+2079	⁹	Superscripts and Subscripts	uni2079	890
+0	U+207A	⁺	Superscripts and Subscripts	uni207A	891
+0	U+207B	⁻	Superscripts and Subscripts	uni207B	892
+0	U+207C	⁼	Superscripts and Subscripts	uni207C	893
+0	U+207D	⁽	Superscripts and Subscripts	uni207D	894
+0	U+207E	⁾	Superscripts and Subscripts	uni207E	895
+0	U+207F	ⁿ	Superscripts and Subscripts	uni207F	896
+0	U+2080	₀	Superscripts and Subscripts	uni2080	897
+0	U+2081	₁	Superscripts and Subscripts	uni2081	898
+0	U+2082	₂	Superscripts and Subscripts	uni2082	899
+0	U+2083	₃	Superscripts and Subscripts	uni2083	900
+0	U+2084	₄	Superscripts and Subscripts	uni2084	901
+0	U+2085	₅	Superscripts and Subscripts	uni2085	902
+0	U+2086	₆	Superscripts and Subscripts	uni2086	903
+0	U+2087	₇	Superscripts and Subscripts	uni2087	904
+0	U+2088	₈	Superscripts and Subscripts	uni2088	905
+0	U+2089	₉	Superscripts and Subscripts	uni2089	906
+0	U+208A	₊	Superscripts and Subscripts	uni208A	907
+0	U+208B	₋	Superscripts and Subscripts	uni208B	908
+0	U+208C	₌	Superscripts and Subscripts	uni208C	909
+0	U+208D	₍	Superscripts and Subscripts	uni208D	910
+0	U+208E	₎	Superscripts and Subscripts	uni208E	911
+0	U+20A0	₠	Currency Symbols	uni20A0	912
+0	U+20A1	₡	Currency Symbols	uni20A1	913
+0	U+20A2	₢	Currency Symbols	uni20A2	914
+0	U+20A3	₣	Currency Symbols	uni20A3	915
+0	U+20A4	₤	Currency Symbols	uni20A4	916
+0	U+20A5	₥	Currency Symbols	uni20A5	917
+0	U+20A6	₦	Currency Symbols	uni20A6	918
+0	U+20A7	₧	Currency Symbols	uni20A7	919
+0	U+20A8	₨	Currency Symbols	uni20A8	920
+0	U+20A9	₩	Currency Symbols	uni20A9	921
+0	U+20AA	₪	Currency Symbols	uni20AA	922
+0	U+20AB	₫	Currency Symbols	uni20AB	923
+0	U+20AC	€	Currency Symbols	uni20AC	924
+0	U+20AD	₭	Currency Symbols	uni20AD	925
+0	U+20AE	₮	Currency Symbols	uni20AE	926
+0	U+20AF	₯	Currency Symbols	uni20AF	927
+0	U+20B0	₰	Currency Symbols	uni20B0	928
+0	U+20B1	₱	Currency Symbols	uni20B1	929
+0	U+20E3	<COMBINING ENCLOSING KEYCAP>	Combining Marks for Symbols	uni20E3	19394
+0	U+2100	℀	Letterlike Symbols	uni2100	930
+0	U+2101	℁	Letterlike Symbols	uni2101	931
+0	U+2102	ℂ	Letterlike Symbols	uni2102	932
+0	U+2103	℃	Letterlike Symbols	uni2103	933
+0	U+2104	℄	Letterlike Symbols	uni2104	934
+0	U+2105	℅	Letterlike Symbols	uni2105	935
+0	U+2106	℆	Letterlike Symbols	uni2106	936
+0	U+2107	ℇ	Letterlike Symbols	uni2107	937
+0	U+2108	℈	Letterlike Symbols	uni2108	938
+0	U+2109	℉	Letterlike Symbols	uni2109	939
+0	U+210A	ℊ	Letterlike Symbols	uni210A	940
+0	U+210B	ℋ	Letterlike Symbols	uni210B	941
+0	U+210C	ℌ	Letterlike Symbols	uni210C	942
+0	U+210D	ℍ	Letterlike Symbols	uni210D	943
+0	U+210E	ℎ	Letterlike Symbols	uni210E	944
+0	U+210F	ℏ	Letterlike Symbols	uni210F	945
+0	U+2110	ℐ	Letterlike Symbols	uni2110	946
+0	U+2111	ℑ	Letterlike Symbols	uni2111	947
+0	U+2112	ℒ	Letterlike Symbols	uni2112	948
+0	U+2113	ℓ	Letterlike Symbols	uni2113	949
+0	U+2114	℔	Letterlike Symbols	uni2114	950
+0	U+2115	ℕ	Letterlike Symbols	uni2115	951
+0	U+2116	№	Letterlike Symbols	uni2116	952
+0	U+2117	℗	Letterlike Symbols	uni2117	953
+0	U+2118	℘	Letterlike Symbols	uni2118	954
+0	U+2119	ℙ	Letterlike Symbols	uni2119	955
+0	U+211A	ℚ	Letterlike Symbols	uni211A	956
+0	U+211B	ℛ	Letterlike Symbols	uni211B	957
+0	U+211C	ℜ	Letterlike Symbols	uni211C	958
+0	U+211D	ℝ	Letterlike Symbols	uni211D	959
+0	U+211E	℞	Letterlike Symbols	uni211E	960
+0	U+211F	℟	Letterlike Symbols	uni211F	961
+0	U+2120	℠	Letterlike Symbols	uni2120	962
+0	U+2121	℡	Letterlike Symbols	uni2121	963
+0	U+2122	™	Letterlike Symbols	uni2122	964
+0	U+2123	℣	Letterlike Symbols	uni2123	965
+0	U+2124	ℤ	Letterlike Symbols	uni2124	966
+0	U+2125	℥	Letterlike Symbols	uni2125	967
+0	U+2126	Ω	Letterlike Symbols	uni2126	968
+0	U+2127	℧	Letterlike Symbols	uni2127	969
+0	U+2128	ℨ	Letterlike Symbols	uni2128	970
+0	U+2129	℩	Letterlike Symbols	uni2129	971
+0	U+212A	K	Letterlike Symbols	uni212A	972
+0	U+212B	Å	Letterlike Symbols	uni212B	973
+0	U+212C	ℬ	Letterlike Symbols	uni212C	974
+0	U+212D	ℭ	Letterlike Symbols	uni212D	975
+0	U+212E	℮	Letterlike Symbols	uni212E	976
+0	U+212F	ℯ	Letterlike Symbols	uni212F	977
+0	U+2130	ℰ	Letterlike Symbols	uni2130	978
+0	U+2131	ℱ	Letterlike Symbols	uni2131	979
+0	U+2132	Ⅎ	Letterlike Symbols	uni2132	980
+0	U+2133	ℳ	Letterlike Symbols	uni2133	981
+0	U+2134	ℴ	Letterlike Symbols	uni2134	982
+0	U+2135	ℵ	Letterlike Symbols	uni2135	983
+0	U+2136	ℶ	Letterlike Symbols	uni2136	984
+0	U+2137	ℷ	Letterlike Symbols	uni2137	985
+0	U+2138	ℸ	Letterlike Symbols	uni2138	986
+0	U+2152	⅒	Number Forms	uni2152	19395
+0	U+2153	⅓	Number Forms	uni2153	987
+0	U+2154	⅔	Number Forms	uni2154	988
+0	U+2155	⅕	Number Forms	uni2155	989
+0	U+2156	⅖	Number Forms	uni2156	990
+0	U+2157	⅗	Number Forms	uni2157	991
+0	U+2158	⅘	Number Forms	uni2158	992
+0	U+2159	⅙	Number Forms	uni2159	993
+0	U+215A	⅚	Number Forms	uni215A	994
+0	U+215B	⅛	Number Forms	uni215B	995
+0	U+215C	⅜	Number Forms	uni215C	996
+0	U+215D	⅝	Number Forms	uni215D	997
+0	U+215E	⅞	Number Forms	uni215E	998
+0	U+215F	⅟	Number Forms	uni215F	999
+0	U+2160	Ⅰ	Number Forms	uni2160	1000
+0	U+2161	Ⅱ	Number Forms	uni2161	1001
+0	U+2162	Ⅲ	Number Forms	uni2162	1002
+0	U+2163	Ⅳ	Number Forms	uni2163	1003
+0	U+2164	Ⅴ	Number Forms	uni2164	1004
+0	U+2165	Ⅵ	Number Forms	uni2165	1005
+0	U+2166	Ⅶ	Number Forms	uni2166	1006
+0	U+2167	Ⅷ	Number Forms	uni2167	1007
+0	U+2168	Ⅸ	Number Forms	uni2168	1008
+0	U+2169	Ⅹ	Number Forms	uni2169	1009
+0	U+216A	Ⅺ	Number Forms	uni216A	1010
+0	U+216B	Ⅻ	Number Forms	uni216B	1011
+0	U+216C	Ⅼ	Number Forms	uni216C	1012
+0	U+216D	Ⅽ	Number Forms	uni216D	1013
+0	U+216E	Ⅾ	Number Forms	uni216E	1014
+0	U+216F	Ⅿ	Number Forms	uni216F	1015
+0	U+2170	ⅰ	Number Forms	uni2170	1016
+0	U+2171	ⅱ	Number Forms	uni2171	1017
+0	U+2172	ⅲ	Number Forms	uni2172	1018
+0	U+2173	ⅳ	Number Forms	uni2173	1019
+0	U+2174	ⅴ	Number Forms	uni2174	1020
+0	U+2175	ⅵ	Number Forms	uni2175	1021
+0	U+2176	ⅶ	Number Forms	uni2176	1022
+0	U+2177	ⅷ	Number Forms	uni2177	1023
+0	U+2178	ⅸ	Number Forms	uni2178	1024
+0	U+2179	ⅹ	Number Forms	uni2179	1025
+0	U+217A	ⅺ	Number Forms	uni217A	1026
+0	U+217B	ⅻ	Number Forms	uni217B	1027
+0	U+217C	ⅼ	Number Forms	uni217C	1028
+0	U+217D	ⅽ	Number Forms	uni217D	1029
+0	U+217E	ⅾ	Number Forms	uni217E	1030
+0	U+217F	ⅿ	Number Forms	uni217F	1031
+0	U+2180	ↀ	Number Forms	uni2180	1032
+0	U+2181	ↁ	Number Forms	uni2181	1033
+0	U+2182	ↂ	Number Forms	uni2182	1034
+0	U+2190	←	Arrows	uni2190	1035
+0	U+2191	↑	Arrows	uni2191	1036
+0	U+2192	→	Arrows	uni2192	1037
+0	U+2193	↓	Arrows	uni2193	1038
+0	U+2194	↔	Arrows	uni2194	1039
+0	U+2195	↕	Arrows	uni2195	1040
+0	U+2196	↖	Arrows	uni2196	1041
+0	U+2197	↗	Arrows	uni2197	1042
+0	U+2198	↘	Arrows	uni2198	1043
+0	U+2199	↙	Arrows	uni2199	1044
+0	U+219A	↚	Arrows	uni219A	1045
+0	U+219B	↛	Arrows	uni219B	1046
+0	U+219C	↜	Arrows	uni219C	1047
+0	U+219D	↝	Arrows	uni219D	1048
+0	U+219E	↞	Arrows	uni219E	1049
+0	U+219F	↟	Arrows	uni219F	1050
+0	U+21A0	↠	Arrows	uni21A0	1051
+0	U+21A1	↡	Arrows	uni21A1	1052
+0	U+21A2	↢	Arrows	uni21A2	1053
+0	U+21A3	↣	Arrows	uni21A3	1054
+0	U+21A4	↤	Arrows	uni21A4	1055
+0	U+21A5	↥	Arrows	uni21A5	1056
+0	U+21A6	↦	Arrows	uni21A6	1057
+0	U+21A7	↧	Arrows	uni21A7	1058
+0	U+21A8	↨	Arrows	uni21A8	1059
+0	U+21A9	↩	Arrows	uni21A9	1060
+0	U+21AA	↪	Arrows	uni21AA	1061
+0	U+21AB	↫	Arrows	uni21AB	1062
+0	U+21AC	↬	Arrows	uni21AC	1063
+0	U+21AD	↭	Arrows	uni21AD	1064
+0	U+21AE	↮	Arrows	uni21AE	1065
+0	U+21AF	↯	Arrows	uni21AF	1066
+0	U+21B0	↰	Arrows	uni21B0	1067
+0	U+21B1	↱	Arrows	uni21B1	1068
+0	U+21B2	↲	Arrows	uni21B2	1069
+0	U+21B3	↳	Arrows	uni21B3	1070
+0	U+21B4	↴	Arrows	uni21B4	1071
+0	U+21B5	↵	Arrows	uni21B5	1072
+0	U+21B6	↶	Arrows	uni21B6	1073
+0	U+21B7	↷	Arrows	uni21B7	1074
+0	U+21B8	↸	Arrows	uni21B8	1075
+0	U+21B9	↹	Arrows	uni21B9	1076
+0	U+21BA	↺	Arrows	uni21BA	1077
+0	U+21BB	↻	Arrows	uni21BB	1078
+0	U+21BC	↼	Arrows	uni21BC	1079
+0	U+21BD	↽	Arrows	uni21BD	1080
+0	U+21BE	↾	Arrows	uni21BE	1081
+0	U+21BF	↿	Arrows	uni21BF	1082
+0	U+21C0	⇀	Arrows	uni21C0	1083
+0	U+21C1	⇁	Arrows	uni21C1	1084
+0	U+21C2	⇂	Arrows	uni21C2	1085
+0	U+21C3	⇃	Arrows	uni21C3	1086
+0	U+21C4	⇄	Arrows	uni21C4	1087
+0	U+21C5	⇅	Arrows	uni21C5	1088
+0	U+21C6	⇆	Arrows	uni21C6	1089
+0	U+21C7	⇇	Arrows	uni21C7	1090
+0	U+21C8	⇈	Arrows	uni21C8	1091
+0	U+21C9	⇉	Arrows	uni21C9	1092
+0	U+21CA	⇊	Arrows	uni21CA	1093
+0	U+21CB	⇋	Arrows	uni21CB	1094
+0	U+21CC	⇌	Arrows	uni21CC	1095
+0	U+21CD	⇍	Arrows	uni21CD	1096
+0	U+21CE	⇎	Arrows	uni21CE	1097
+0	U+21CF	⇏	Arrows	uni21CF	1098
+0	U+21D0	⇐	Arrows	uni21D0	1099
+0	U+21D1	⇑	Arrows	uni21D1	1100
+0	U+21D2	⇒	Arrows	uni21D2	1101
+0	U+21D3	⇓	Arrows	uni21D3	1102
+0	U+21D4	⇔	Arrows	uni21D4	1103
+0	U+21D5	⇕	Arrows	uni21D5	1104
+0	U+21D6	⇖	Arrows	uni21D6	1105
+0	U+21D7	⇗	Arrows	uni21D7	1106
+0	U+21D8	⇘	Arrows	uni21D8	1107
+0	U+21D9	⇙	Arrows	uni21D9	1108
+0	U+21DA	⇚	Arrows	uni21DA	1109
+0	U+21DB	⇛	Arrows	uni21DB	1110
+0	U+21DC	⇜	Arrows	uni21DC	1111
+0	U+21DD	⇝	Arrows	uni21DD	1112
+0	U+21DE	⇞	Arrows	uni21DE	1113
+0	U+21DF	⇟	Arrows	uni21DF	1114
+0	U+21E0	⇠	Arrows	uni21E0	1115
+0	U+21E1	⇡	Arrows	uni21E1	1116
+0	U+21E2	⇢	Arrows	uni21E2	1117
+0	U+21E3	⇣	Arrows	uni21E3	1118
+0	U+21E4	⇤	Arrows	uni21E4	1119
+0	U+21E5	⇥	Arrows	uni21E5	1120
+0	U+21E6	⇦	Arrows	uni21E6	1121
+0	U+21E7	⇧	Arrows	uni21E7	1122
+0	U+21E8	⇨	Arrows	uni21E8	1123
+0	U+21E9	⇩	Arrows	uni21E9	1124
+0	U+21EA	⇪	Arrows	uni21EA	1125
+0	U+2200	∀	Mathematical Operators	uni2200	1126
+0	U+2201	∁	Mathematical Operators	uni2201	1127
+0	U+2202	∂	Mathematical Operators	uni2202	1128
+0	U+2203	∃	Mathematical Operators	uni2203	1129
+0	U+2204	∄	Mathematical Operators	uni2204	1130
+0	U+2205	∅	Mathematical Operators	uni2205	1131
+0	U+2206	∆	Mathematical Operators	uni2206	1132
+0	U+2207	∇	Mathematical Operators	uni2207	1133
+0	U+2208	∈	Mathematical Operators	uni2208	1134
+0	U+2209	∉	Mathematical Operators	uni2209	1135
+0	U+220A	∊	Mathematical Operators	uni220A	1136
+0	U+220B	∋	Mathematical Operators	uni220B	1137
+0	U+220C	∌	Mathematical Operators	uni220C	1138
+0	U+220D	∍	Mathematical Operators	uni220D	1139
+0	U+220E	∎	Mathematical Operators	uni220E	1140
+0	U+220F	∏	Mathematical Operators	uni220F	1141
+0	U+2210	∐	Mathematical Operators	uni2210	1142
+0	U+2211	∑	Mathematical Operators	uni2211	1143
+0	U+2212	−	Mathematical Operators	uni2212	1144
+0	U+2213	∓	Mathematical Operators	uni2213	1145
+0	U+2214	∔	Mathematical Operators	uni2214	1146
+0	U+2215	∕	Mathematical Operators	uni2215	1147
+0	U+2216	∖	Mathematical Operators	uni2216	1148
+0	U+2217	∗	Mathematical Operators	uni2217	1149
+0	U+2218	∘	Mathematical Operators	uni2218	1150
+0	U+2219	∙	Mathematical Operators	uni2219	1151
+0	U+221A	√	Mathematical Operators	uni221A	1152
+0	U+221B	∛	Mathematical Operators	uni221B	1153
+0	U+221C	∜	Mathematical Operators	uni221C	1154
+0	U+221D	∝	Mathematical Operators	uni221D	1155
+0	U+221E	∞	Mathematical Operators	uni221E	1156
+0	U+221F	∟	Mathematical Operators	uni221F	1157
+0	U+2220	∠	Mathematical Operators	uni2220	1158
+0	U+2221	∡	Mathematical Operators	uni2221	1159
+0	U+2222	∢	Mathematical Operators	uni2222	1160
+0	U+2223	∣	Mathematical Operators	uni2223	1161
+0	U+2224	∤	Mathematical Operators	uni2224	1162
+0	U+2225	∥	Mathematical Operators	uni2225	1163
+0	U+2226	∦	Mathematical Operators	uni2226	1164
+0	U+2227	∧	Mathematical Operators	uni2227	1165
+0	U+2228	∨	Mathematical Operators	uni2228	1166
+0	U+2229	∩	Mathematical Operators	uni2229	1167
+0	U+222A	∪	Mathematical Operators	uni222A	1168
+0	U+222B	∫	Mathematical Operators	uni222B	1169
+0	U+222C	∬	Mathematical Operators	uni222C	1170
+0	U+222D	∭	Mathematical Operators	uni222D	1171
+0	U+222E	∮	Mathematical Operators	uni222E	1172
+0	U+222F	∯	Mathematical Operators	uni222F	1173
+0	U+2230	∰	Mathematical Operators	uni2230	1174
+0	U+2231	∱	Mathematical Operators	uni2231	1175
+0	U+2232	∲	Mathematical Operators	uni2232	1176
+0	U+2233	∳	Mathematical Operators	uni2233	1177
+0	U+2234	∴	Mathematical Operators	uni2234	1178
+0	U+2235	∵	Mathematical Operators	uni2235	1179
+0	U+2236	∶	Mathematical Operators	uni2236	1180
+0	U+2237	∷	Mathematical Operators	uni2237	1181
+0	U+2238	∸	Mathematical Operators	uni2238	1182
+0	U+2239	∹	Mathematical Operators	uni2239	1183
+0	U+223A	∺	Mathematical Operators	uni223A	1184
+0	U+223B	∻	Mathematical Operators	uni223B	1185
+0	U+223C	∼	Mathematical Operators	uni223C	1186
+0	U+223D	∽	Mathematical Operators	uni223D	1187
+0	U+223E	∾	Mathematical Operators	uni223E	1188
+0	U+223F	∿	Mathematical Operators	uni223F	1189
+0	U+2240	≀	Mathematical Operators	uni2240	1190
+0	U+2241	≁	Mathematical Operators	uni2241	1191
+0	U+2242	≂	Mathematical Operators	uni2242	1192
+0	U+2243	≃	Mathematical Operators	uni2243	1193
+0	U+2244	≄	Mathematical Operators	uni2244	1194
+0	U+2245	≅	Mathematical Operators	uni2245	1195
+0	U+2246	≆	Mathematical Operators	uni2246	1196
+0	U+2247	≇	Mathematical Operators	uni2247	1197
+0	U+2248	≈	Mathematical Operators	uni2248	1198
+0	U+2249	≉	Mathematical Operators	uni2249	1199
+0	U+224A	≊	Mathematical Operators	uni224A	1200
+0	U+224B	≋	Mathematical Operators	uni224B	1201
+0	U+224C	≌	Mathematical Operators	uni224C	1202
+0	U+224D	≍	Mathematical Operators	uni224D	1203
+0	U+224E	≎	Mathematical Operators	uni224E	1204
+0	U+224F	≏	Mathematical Operators	uni224F	1205
+0	U+2250	≐	Mathematical Operators	uni2250	1206
+0	U+2251	≑	Mathematical Operators	uni2251	1207
+0	U+2252	≒	Mathematical Operators	uni2252	1208
+0	U+2253	≓	Mathematical Operators	uni2253	1209
+0	U+2254	≔	Mathematical Operators	uni2254	1210
+0	U+2255	≕	Mathematical Operators	uni2255	1211
+0	U+2256	≖	Mathematical Operators	uni2256	1212
+0	U+2257	≗	Mathematical Operators	uni2257	1213
+0	U+2258	≘	Mathematical Operators	uni2258	1214
+0	U+2259	≙	Mathematical Operators	uni2259	1215
+0	U+225A	≚	Mathematical Operators	uni225A	1216
+0	U+225B	≛	Mathematical Operators	uni225B	1217
+0	U+225C	≜	Mathematical Operators	uni225C	1218
+0	U+225D	≝	Mathematical Operators	uni225D	1219
+0	U+225E	≞	Mathematical Operators	uni225E	1220
+0	U+225F	≟	Mathematical Operators	uni225F	1221
+0	U+2260	≠	Mathematical Operators	uni2260	1222
+0	U+2261	≡	Mathematical Operators	uni2261	1223
+0	U+2262	≢	Mathematical Operators	uni2262	1224
+0	U+2263	≣	Mathematical Operators	uni2263	1225
+0	U+2264	≤	Mathematical Operators	uni2264	1226
+0	U+2265	≥	Mathematical Operators	uni2265	1227
+0	U+2266	≦	Mathematical Operators	uni2266	1228
+0	U+2267	≧	Mathematical Operators	uni2267	1229
+0	U+2268	≨	Mathematical Operators	uni2268	1230
+0	U+2269	≩	Mathematical Operators	uni2269	1231
+0	U+226A	≪	Mathematical Operators	uni226A	1232
+0	U+226B	≫	Mathematical Operators	uni226B	1233
+0	U+226C	≬	Mathematical Operators	uni226C	1234
+0	U+226D	≭	Mathematical Operators	uni226D	1235
+0	U+226E	≮	Mathematical Operators	uni226E	1236
+0	U+226F	≯	Mathematical Operators	uni226F	1237
+0	U+2270	≰	Mathematical Operators	uni2270	1238
+0	U+2271	≱	Mathematical Operators	uni2271	1239
+0	U+2272	≲	Mathematical Operators	uni2272	1240
+0	U+2273	≳	Mathematical Operators	uni2273	1241
+0	U+2274	≴	Mathematical Operators	uni2274	1242
+0	U+2275	≵	Mathematical Operators	uni2275	1243
+0	U+2276	≶	Mathematical Operators	uni2276	1244
+0	U+2277	≷	Mathematical Operators	uni2277	1245
+0	U+2278	≸	Mathematical Operators	uni2278	1246
+0	U+2279	≹	Mathematical Operators	uni2279	1247
+0	U+227A	≺	Mathematical Operators	uni227A	1248
+0	U+227B	≻	Mathematical Operators	uni227B	1249
+0	U+227C	≼	Mathematical Operators	uni227C	1250
+0	U+227D	≽	Mathematical Operators	uni227D	1251
+0	U+227E	≾	Mathematical Operators	uni227E	1252
+0	U+227F	≿	Mathematical Operators	uni227F	1253
+0	U+2280	⊀	Mathematical Operators	uni2280	1254
+0	U+2281	⊁	Mathematical Operators	uni2281	1255
+0	U+2282	⊂	Mathematical Operators	uni2282	1256
+0	U+2283	⊃	Mathematical Operators	uni2283	1257
+0	U+2284	⊄	Mathematical Operators	uni2284	1258
+0	U+2285	⊅	Mathematical Operators	uni2285	1259
+0	U+2286	⊆	Mathematical Operators	uni2286	1260
+0	U+2287	⊇	Mathematical Operators	uni2287	1261
+0	U+2288	⊈	Mathematical Operators	uni2288	1262
+0	U+2289	⊉	Mathematical Operators	uni2289	1263
+0	U+228A	⊊	Mathematical Operators	uni228A	1264
+0	U+228B	⊋	Mathematical Operators	uni228B	1265
+0	U+228C	⊌	Mathematical Operators	uni228C	1266
+0	U+228D	⊍	Mathematical Operators	uni228D	1267
+0	U+228E	⊎	Mathematical Operators	uni228E	1268
+0	U+228F	⊏	Mathematical Operators	uni228F	1269
+0	U+2290	⊐	Mathematical Operators	uni2290	1270
+0	U+2291	⊑	Mathematical Operators	uni2291	1271
+0	U+2292	⊒	Mathematical Operators	uni2292	1272
+0	U+2293	⊓	Mathematical Operators	uni2293	1273
+0	U+2294	⊔	Mathematical Operators	uni2294	1274
+0	U+2295	⊕	Mathematical Operators	uni2295	1275
+0	U+2296	⊖	Mathematical Operators	uni2296	1276
+0	U+2297	⊗	Mathematical Operators	uni2297	1277
+0	U+2298	⊘	Mathematical Operators	uni2298	1278
+0	U+2299	⊙	Mathematical Operators	uni2299	1279
+0	U+229A	⊚	Mathematical Operators	uni229A	1280
+0	U+229B	⊛	Mathematical Operators	uni229B	1281
+0	U+229C	⊜	Mathematical Operators	uni229C	1282
+0	U+229D	⊝	Mathematical Operators	uni229D	1283
+0	U+229E	⊞	Mathematical Operators	uni229E	1284
+0	U+229F	⊟	Mathematical Operators	uni229F	1285
+0	U+22A0	⊠	Mathematical Operators	uni22A0	1286
+0	U+22A1	⊡	Mathematical Operators	uni22A1	1287
+0	U+22A2	⊢	Mathematical Operators	uni22A2	1288
+0	U+22A3	⊣	Mathematical Operators	uni22A3	1289
+0	U+22A4	⊤	Mathematical Operators	uni22A4	1290
+0	U+22A5	⊥	Mathematical Operators	uni22A5	1291
+0	U+22A6	⊦	Mathematical Operators	uni22A6	1292
+0	U+22A7	⊧	Mathematical Operators	uni22A7	1293
+0	U+22A8	⊨	Mathematical Operators	uni22A8	1294
+0	U+22A9	⊩	Mathematical Operators	uni22A9	1295
+0	U+22AA	⊪	Mathematical Operators	uni22AA	1296
+0	U+22AB	⊫	Mathematical Operators	uni22AB	1297
+0	U+22AC	⊬	Mathematical Operators	uni22AC	1298
+0	U+22AD	⊭	Mathematical Operators	uni22AD	1299
+0	U+22AE	⊮	Mathematical Operators	uni22AE	1300
+0	U+22AF	⊯	Mathematical Operators	uni22AF	1301
+0	U+22B0	⊰	Mathematical Operators	uni22B0	1302
+0	U+22B1	⊱	Mathematical Operators	uni22B1	1303
+0	U+22B2	⊲	Mathematical Operators	uni22B2	1304
+0	U+22B3	⊳	Mathematical Operators	uni22B3	1305
+0	U+22B4	⊴	Mathematical Operators	uni22B4	1306
+0	U+22B5	⊵	Mathematical Operators	uni22B5	1307
+0	U+22B6	⊶	Mathematical Operators	uni22B6	1308
+0	U+22B7	⊷	Mathematical Operators	uni22B7	1309
+0	U+22B8	⊸	Mathematical Operators	uni22B8	1310
+0	U+22B9	⊹	Mathematical Operators	uni22B9	1311
+0	U+22BA	⊺	Mathematical Operators	uni22BA	1312
+0	U+22BB	⊻	Mathematical Operators	uni22BB	1313
+0	U+22BC	⊼	Mathematical Operators	uni22BC	1314
+0	U+22BD	⊽	Mathematical Operators	uni22BD	1315
+0	U+22BE	⊾	Mathematical Operators	uni22BE	1316
+0	U+22BF	⊿	Mathematical Operators	uni22BF	1317
+0	U+22C0	⋀	Mathematical Operators	uni22C0	1318
+0	U+22C1	⋁	Mathematical Operators	uni22C1	1319
+0	U+22C2	⋂	Mathematical Operators	uni22C2	1320
+0	U+22C3	⋃	Mathematical Operators	uni22C3	1321
+0	U+22C4	⋄	Mathematical Operators	uni22C4	1322
+0	U+22C5	⋅	Mathematical Operators	uni22C5	1323
+0	U+22C6	⋆	Mathematical Operators	uni22C6	1324
+0	U+22C7	⋇	Mathematical Operators	uni22C7	1325
+0	U+22C8	⋈	Mathematical Operators	uni22C8	1326
+0	U+22C9	⋉	Mathematical Operators	uni22C9	1327
+0	U+22CA	⋊	Mathematical Operators	uni22CA	1328
+0	U+22CB	⋋	Mathematical Operators	uni22CB	1329
+0	U+22CC	⋌	Mathematical Operators	uni22CC	1330
+0	U+22CD	⋍	Mathematical Operators	uni22CD	1331
+0	U+22CE	⋎	Mathematical Operators	uni22CE	1332
+0	U+22CF	⋏	Mathematical Operators	uni22CF	1333
+0	U+22D0	⋐	Mathematical Operators	uni22D0	1334
+0	U+22D1	⋑	Mathematical Operators	uni22D1	1335
+0	U+22D2	⋒	Mathematical Operators	uni22D2	1336
+0	U+22D3	⋓	Mathematical Operators	uni22D3	1337
+0	U+22D4	⋔	Mathematical Operators	uni22D4	1338
+0	U+22D5	⋕	Mathematical Operators	uni22D5	1339
+0	U+22D6	⋖	Mathematical Operators	uni22D6	1340
+0	U+22D7	⋗	Mathematical Operators	uni22D7	1341
+0	U+22D8	⋘	Mathematical Operators	uni22D8	1342
+0	U+22D9	⋙	Mathematical Operators	uni22D9	1343
+0	U+22DA	⋚	Mathematical Operators	uni22DA	1344
+0	U+22DB	⋛	Mathematical Operators	uni22DB	1345
+0	U+22DC	⋜	Mathematical Operators	uni22DC	1346
+0	U+22DD	⋝	Mathematical Operators	uni22DD	1347
+0	U+22DE	⋞	Mathematical Operators	uni22DE	1348
+0	U+22DF	⋟	Mathematical Operators	uni22DF	1349
+0	U+22E0	⋠	Mathematical Operators	uni22E0	1350
+0	U+22E1	⋡	Mathematical Operators	uni22E1	1351
+0	U+22E2	⋢	Mathematical Operators	uni22E2	1352
+0	U+22E3	⋣	Mathematical Operators	uni22E3	1353
+0	U+22E4	⋤	Mathematical Operators	uni22E4	1354
+0	U+22E5	⋥	Mathematical Operators	uni22E5	1355
+0	U+22E6	⋦	Mathematical Operators	uni22E6	1356
+0	U+22E7	⋧	Mathematical Operators	uni22E7	1357
+0	U+22E8	⋨	Mathematical Operators	uni22E8	1358
+0	U+22E9	⋩	Mathematical Operators	uni22E9	1359
+0	U+22EA	⋪	Mathematical Operators	uni22EA	1360
+0	U+22EB	⋫	Mathematical Operators	uni22EB	1361
+0	U+22EC	⋬	Mathematical Operators	uni22EC	1362
+0	U+22ED	⋭	Mathematical Operators	uni22ED	1363
+0	U+22EE	⋮	Mathematical Operators	uni22EE	1364
+0	U+22EF	⋯	Mathematical Operators	uni22EF	1365
+0	U+22F0	⋰	Mathematical Operators	uni22F0	1366
+0	U+22F1	⋱	Mathematical Operators	uni22F1	1367
+0	U+2302	⌂	Miscellaneous Technical	uni2302	1368
+0	U+2305	⌅	Miscellaneous Technical	uni2305	1369
+0	U+2306	⌆	Miscellaneous Technical	uni2306	1370
+0	U+2310	⌐	Miscellaneous Technical	uni2310	1371
+0	U+2312	⌒	Miscellaneous Technical	uni2312	1372
+0	U+2318	⌘	Miscellaneous Technical	uni2318	1373
+0	U+2320	⌠	Miscellaneous Technical	uni2320	1374
+0	U+2321	⌡	Miscellaneous Technical	uni2321	1375
+0	U+23BE	⎾	Miscellaneous Technical	uni23BE	1376
+0	U+23BF	⎿	Miscellaneous Technical	uni23BF	1377
+0	U+23C0	⏀	Miscellaneous Technical	uni23C0	1378
+0	U+23C1	⏁	Miscellaneous Technical	uni23C1	1379
+0	U+23C2	⏂	Miscellaneous Technical	uni23C2	1380
+0	U+23C3	⏃	Miscellaneous Technical	uni23C3	1381
+0	U+23C4	⏄	Miscellaneous Technical	uni23C4	1382
+0	U+23C5	⏅	Miscellaneous Technical	uni23C5	1383
+0	U+23C6	⏆	Miscellaneous Technical	uni23C6	1384
+0	U+23C7	⏇	Miscellaneous Technical	uni23C7	1385
+0	U+23C8	⏈	Miscellaneous Technical	uni23C8	1386
+0	U+23C9	⏉	Miscellaneous Technical	uni23C9	1387
+0	U+23CA	⏊	Miscellaneous Technical	uni23CA	1388
+0	U+23CB	⏋	Miscellaneous Technical	uni23CB	1389
+0	U+23CC	⏌	Miscellaneous Technical	uni23CC	1390
+0	U+23CE	⏎	Miscellaneous Technical	uni23CE	1391
+0	U+2423	␣	Control Pictures	uni2423	1392
+0	U+2460	①	Enclosed Alphanumerics	uni2460	1393
+0	U+2461	②	Enclosed Alphanumerics	uni2461	1394
+0	U+2462	③	Enclosed Alphanumerics	uni2462	1395
+0	U+2463	④	Enclosed Alphanumerics	uni2463	1396
+0	U+2464	⑤	Enclosed Alphanumerics	uni2464	1397
+0	U+2465	⑥	Enclosed Alphanumerics	uni2465	1398
+0	U+2466	⑦	Enclosed Alphanumerics	uni2466	1399
+0	U+2467	⑧	Enclosed Alphanumerics	uni2467	1400
+0	U+2468	⑨	Enclosed Alphanumerics	uni2468	1401
+0	U+2469	⑩	Enclosed Alphanumerics	uni2469	1402
+0	U+246A	⑪	Enclosed Alphanumerics	uni246A	1403
+0	U+246B	⑫	Enclosed Alphanumerics	uni246B	1404
+0	U+246C	⑬	Enclosed Alphanumerics	uni246C	1405
+0	U+246D	⑭	Enclosed Alphanumerics	uni246D	1406
+0	U+246E	⑮	Enclosed Alphanumerics	uni246E	1407
+0	U+246F	⑯	Enclosed Alphanumerics	uni246F	1408
+0	U+2470	⑰	Enclosed Alphanumerics	uni2470	1409
+0	U+2471	⑱	Enclosed Alphanumerics	uni2471	1410
+0	U+2472	⑲	Enclosed Alphanumerics	uni2472	1411
+0	U+2473	⑳	Enclosed Alphanumerics	uni2473	1412
+0	U+2474	⑴	Enclosed Alphanumerics	uni2474	1413
+0	U+2475	⑵	Enclosed Alphanumerics	uni2475	1414
+0	U+2476	⑶	Enclosed Alphanumerics	uni2476	1415
+0	U+2477	⑷	Enclosed Alphanumerics	uni2477	1416
+0	U+2478	⑸	Enclosed Alphanumerics	uni2478	1417
+0	U+2479	⑹	Enclosed Alphanumerics	uni2479	1418
+0	U+247A	⑺	Enclosed Alphanumerics	uni247A	1419
+0	U+247B	⑻	Enclosed Alphanumerics	uni247B	1420
+0	U+247C	⑼	Enclosed Alphanumerics	uni247C	1421
+0	U+247D	⑽	Enclosed Alphanumerics	uni247D	1422
+0	U+247E	⑾	Enclosed Alphanumerics	uni247E	1423
+0	U+247F	⑿	Enclosed Alphanumerics	uni247F	1424
+0	U+2480	⒀	Enclosed Alphanumerics	uni2480	1425
+0	U+2481	⒁	Enclosed Alphanumerics	uni2481	1426
+0	U+2482	⒂	Enclosed Alphanumerics	uni2482	1427
+0	U+2483	⒃	Enclosed Alphanumerics	uni2483	1428
+0	U+2484	⒄	Enclosed Alphanumerics	uni2484	1429
+0	U+2485	⒅	Enclosed Alphanumerics	uni2485	1430
+0	U+2486	⒆	Enclosed Alphanumerics	uni2486	1431
+0	U+2487	⒇	Enclosed Alphanumerics	uni2487	1432
+0	U+2488	⒈	Enclosed Alphanumerics	uni2488	1433
+0	U+2489	⒉	Enclosed Alphanumerics	uni2489	1434
+0	U+248A	⒊	Enclosed Alphanumerics	uni248A	1435
+0	U+248B	⒋	Enclosed Alphanumerics	uni248B	1436
+0	U+248C	⒌	Enclosed Alphanumerics	uni248C	1437
+0	U+248D	⒍	Enclosed Alphanumerics	uni248D	1438
+0	U+248E	⒎	Enclosed Alphanumerics	uni248E	1439
+0	U+248F	⒏	Enclosed Alphanumerics	uni248F	1440
+0	U+2490	⒐	Enclosed Alphanumerics	uni2490	1441
+0	U+2491	⒑	Enclosed Alphanumerics	uni2491	1442
+0	U+2492	⒒	Enclosed Alphanumerics	uni2492	1443
+0	U+2493	⒓	Enclosed Alphanumerics	uni2493	1444
+0	U+2494	⒔	Enclosed Alphanumerics	uni2494	1445
+0	U+2495	⒕	Enclosed Alphanumerics	uni2495	1446
+0	U+2496	⒖	Enclosed Alphanumerics	uni2496	1447
+0	U+2497	⒗	Enclosed Alphanumerics	uni2497	1448
+0	U+2498	⒘	Enclosed Alphanumerics	uni2498	1449
+0	U+2499	⒙	Enclosed Alphanumerics	uni2499	1450
+0	U+249A	⒚	Enclosed Alphanumerics	uni249A	1451
+0	U+249B	⒛	Enclosed Alphanumerics	uni249B	1452
+0	U+249C	⒜	Enclosed Alphanumerics	uni249C	1453
+0	U+249D	⒝	Enclosed Alphanumerics	uni249D	1454
+0	U+249E	⒞	Enclosed Alphanumerics	uni249E	1455
+0	U+249F	⒟	Enclosed Alphanumerics	uni249F	1456
+0	U+24A0	⒠	Enclosed Alphanumerics	uni24A0	1457
+0	U+24A1	⒡	Enclosed Alphanumerics	uni24A1	1458
+0	U+24A2	⒢	Enclosed Alphanumerics	uni24A2	1459
+0	U+24A3	⒣	Enclosed Alphanumerics	uni24A3	1460
+0	U+24A4	⒤	Enclosed Alphanumerics	uni24A4	1461
+0	U+24A5	⒥	Enclosed Alphanumerics	uni24A5	1462
+0	U+24A6	⒦	Enclosed Alphanumerics	uni24A6	1463
+0	U+24A7	⒧	Enclosed Alphanumerics	uni24A7	1464
+0	U+24A8	⒨	Enclosed Alphanumerics	uni24A8	1465
+0	U+24A9	⒩	Enclosed Alphanumerics	uni24A9	1466
+0	U+24AA	⒪	Enclosed Alphanumerics	uni24AA	1467
+0	U+24AB	⒫	Enclosed Alphanumerics	uni24AB	1468
+0	U+24AC	⒬	Enclosed Alphanumerics	uni24AC	1469
+0	U+24AD	⒭	Enclosed Alphanumerics	uni24AD	1470
+0	U+24AE	⒮	Enclosed Alphanumerics	uni24AE	1471
+0	U+24AF	⒯	Enclosed Alphanumerics	uni24AF	1472
+0	U+24B0	⒰	Enclosed Alphanumerics	uni24B0	1473
+0	U+24B1	⒱	Enclosed Alphanumerics	uni24B1	1474
+0	U+24B2	⒲	Enclosed Alphanumerics	uni24B2	1475
+0	U+24B3	⒳	Enclosed Alphanumerics	uni24B3	1476
+0	U+24B4	⒴	Enclosed Alphanumerics	uni24B4	1477
+0	U+24B5	⒵	Enclosed Alphanumerics	uni24B5	1478
+0	U+24B6	Ⓐ	Enclosed Alphanumerics	uni24B6	1479
+0	U+24B7	Ⓑ	Enclosed Alphanumerics	uni24B7	1480
+0	U+24B8	Ⓒ	Enclosed Alphanumerics	uni24B8	1481
+0	U+24B9	Ⓓ	Enclosed Alphanumerics	uni24B9	1482
+0	U+24BA	Ⓔ	Enclosed Alphanumerics	uni24BA	1483
+0	U+24BB	Ⓕ	Enclosed Alphanumerics	uni24BB	1484
+0	U+24BC	Ⓖ	Enclosed Alphanumerics	uni24BC	1485
+0	U+24BD	Ⓗ	Enclosed Alphanumerics	uni24BD	1486
+0	U+24BE	Ⓘ	Enclosed Alphanumerics	uni24BE	1487
+0	U+24BF	Ⓙ	Enclosed Alphanumerics	uni24BF	1488
+0	U+24C0	Ⓚ	Enclosed Alphanumerics	uni24C0	1489
+0	U+24C1	Ⓛ	Enclosed Alphanumerics	uni24C1	1490
+0	U+24C2	Ⓜ	Enclosed Alphanumerics	uni24C2	1491
+0	U+24C3	Ⓝ	Enclosed Alphanumerics	uni24C3	1492
+0	U+24C4	Ⓞ	Enclosed Alphanumerics	uni24C4	1493
+0	U+24C5	Ⓟ	Enclosed Alphanumerics	uni24C5	1494
+0	U+24C6	Ⓠ	Enclosed Alphanumerics	uni24C6	1495
+0	U+24C7	Ⓡ	Enclosed Alphanumerics	uni24C7	1496
+0	U+24C8	Ⓢ	Enclosed Alphanumerics	uni24C8	1497
+0	U+24C9	Ⓣ	Enclosed Alphanumerics	uni24C9	1498
+0	U+24CA	Ⓤ	Enclosed Alphanumerics	uni24CA	1499
+0	U+24CB	Ⓥ	Enclosed Alphanumerics	uni24CB	1500
+0	U+24CC	Ⓦ	Enclosed Alphanumerics	uni24CC	1501
+0	U+24CD	Ⓧ	Enclosed Alphanumerics	uni24CD	1502
+0	U+24CE	Ⓨ	Enclosed Alphanumerics	uni24CE	1503
+0	U+24CF	Ⓩ	Enclosed Alphanumerics	uni24CF	1504
+0	U+24D0	ⓐ	Enclosed Alphanumerics	uni24D0	1505
+0	U+24D1	ⓑ	Enclosed Alphanumerics	uni24D1	1506
+0	U+24D2	ⓒ	Enclosed Alphanumerics	uni24D2	1507
+0	U+24D3	ⓓ	Enclosed Alphanumerics	uni24D3	1508
+0	U+24D4	ⓔ	Enclosed Alphanumerics	uni24D4	1509
+0	U+24D5	ⓕ	Enclosed Alphanumerics	uni24D5	1510
+0	U+24D6	ⓖ	Enclosed Alphanumerics	uni24D6	1511
+0	U+24D7	ⓗ	Enclosed Alphanumerics	uni24D7	1512
+0	U+24D8	ⓘ	Enclosed Alphanumerics	uni24D8	1513
+0	U+24D9	ⓙ	Enclosed Alphanumerics	uni24D9	1514
+0	U+24DA	ⓚ	Enclosed Alphanumerics	uni24DA	1515
+0	U+24DB	ⓛ	Enclosed Alphanumerics	uni24DB	1516
+0	U+24DC	ⓜ	Enclosed Alphanumerics	uni24DC	1517
+0	U+24DD	ⓝ	Enclosed Alphanumerics	uni24DD	1518
+0	U+24DE	ⓞ	Enclosed Alphanumerics	uni24DE	1519
+0	U+24DF	ⓟ	Enclosed Alphanumerics	uni24DF	1520
+0	U+24E0	ⓠ	Enclosed Alphanumerics	uni24E0	1521
+0	U+24E1	ⓡ	Enclosed Alphanumerics	uni24E1	1522
+0	U+24E2	ⓢ	Enclosed Alphanumerics	uni24E2	1523
+0	U+24E3	ⓣ	Enclosed Alphanumerics	uni24E3	1524
+0	U+24E4	ⓤ	Enclosed Alphanumerics	uni24E4	1525
+0	U+24E5	ⓥ	Enclosed Alphanumerics	uni24E5	1526
+0	U+24E6	ⓦ	Enclosed Alphanumerics	uni24E6	1527
+0	U+24E7	ⓧ	Enclosed Alphanumerics	uni24E7	1528
+0	U+24E8	ⓨ	Enclosed Alphanumerics	uni24E8	1529
+0	U+24E9	ⓩ	Enclosed Alphanumerics	uni24E9	1530
+0	U+24EA	⓪	Enclosed Alphanumerics	uni24EA	1531
+0	U+24EB	⓫	Enclosed Alphanumerics	uni24EB	1532
+0	U+24EC	⓬	Enclosed Alphanumerics	uni24EC	1533
+0	U+24ED	⓭	Enclosed Alphanumerics	uni24ED	1534
+0	U+24EE	⓮	Enclosed Alphanumerics	uni24EE	1535
+0	U+24EF	⓯	Enclosed Alphanumerics	uni24EF	1536
+0	U+24F0	⓰	Enclosed Alphanumerics	uni24F0	1537
+0	U+24F1	⓱	Enclosed Alphanumerics	uni24F1	1538
+0	U+24F2	⓲	Enclosed Alphanumerics	uni24F2	1539
+0	U+24F3	⓳	Enclosed Alphanumerics	uni24F3	1540
+0	U+24F4	⓴	Enclosed Alphanumerics	uni24F4	1541
+0	U+24F5	⓵	Enclosed Alphanumerics	uni24F5	1542
+0	U+24F6	⓶	Enclosed Alphanumerics	uni24F6	1543
+0	U+24F7	⓷	Enclosed Alphanumerics	uni24F7	1544
+0	U+24F8	⓸	Enclosed Alphanumerics	uni24F8	1545
+0	U+24F9	⓹	Enclosed Alphanumerics	uni24F9	1546
+0	U+24FA	⓺	Enclosed Alphanumerics	uni24FA	1547
+0	U+24FB	⓻	Enclosed Alphanumerics	uni24FB	1548
+0	U+24FC	⓼	Enclosed Alphanumerics	uni24FC	1549
+0	U+24FD	⓽	Enclosed Alphanumerics	uni24FD	1550
+0	U+24FE	⓾	Enclosed Alphanumerics	uni24FE	1551
+0	U+2500	─	Box Drawing	uni2500	1552
+0	U+2501	━	Box Drawing	uni2501	1553
+0	U+2502	│	Box Drawing	uni2502	1554
+0	U+2503	┃	Box Drawing	uni2503	1555
+0	U+2504	┄	Box Drawing	uni2504	1556
+0	U+2505	┅	Box Drawing	uni2505	1557
+0	U+2506	┆	Box Drawing	uni2506	1558
+0	U+2507	┇	Box Drawing	uni2507	1559
+0	U+2508	┈	Box Drawing	uni2508	1560
+0	U+2509	┉	Box Drawing	uni2509	1561
+0	U+250A	┊	Box Drawing	uni250A	1562
+0	U+250B	┋	Box Drawing	uni250B	1563
+0	U+250C	┌	Box Drawing	uni250C	1564
+0	U+250D	┍	Box Drawing	uni250D	1565
+0	U+250E	┎	Box Drawing	uni250E	1566
+0	U+250F	┏	Box Drawing	uni250F	1567
+0	U+2510	┐	Box Drawing	uni2510	1568
+0	U+2511	┑	Box Drawing	uni2511	1569
+0	U+2512	┒	Box Drawing	uni2512	1570
+0	U+2513	┓	Box Drawing	uni2513	1571
+0	U+2514	└	Box Drawing	uni2514	1572
+0	U+2515	┕	Box Drawing	uni2515	1573
+0	U+2516	┖	Box Drawing	uni2516	1574
+0	U+2517	┗	Box Drawing	uni2517	1575
+0	U+2518	┘	Box Drawing	uni2518	1576
+0	U+2519	┙	Box Drawing	uni2519	1577
+0	U+251A	┚	Box Drawing	uni251A	1578
+0	U+251B	┛	Box Drawing	uni251B	1579
+0	U+251C	├	Box Drawing	uni251C	1580
+0	U+251D	┝	Box Drawing	uni251D	1581
+0	U+251E	┞	Box Drawing	uni251E	1582
+0	U+251F	┟	Box Drawing	uni251F	1583
+0	U+2520	┠	Box Drawing	uni2520	1584
+0	U+2521	┡	Box Drawing	uni2521	1585
+0	U+2522	┢	Box Drawing	uni2522	1586
+0	U+2523	┣	Box Drawing	uni2523	1587
+0	U+2524	┤	Box Drawing	uni2524	1588
+0	U+2525	┥	Box Drawing	uni2525	1589
+0	U+2526	┦	Box Drawing	uni2526	1590
+0	U+2527	┧	Box Drawing	uni2527	1591
+0	U+2528	┨	Box Drawing	uni2528	1592
+0	U+2529	┩	Box Drawing	uni2529	1593
+0	U+252A	┪	Box Drawing	uni252A	1594
+0	U+252B	┫	Box Drawing	uni252B	1595
+0	U+252C	┬	Box Drawing	uni252C	1596
+0	U+252D	┭	Box Drawing	uni252D	1597
+0	U+252E	┮	Box Drawing	uni252E	1598
+0	U+252F	┯	Box Drawing	uni252F	1599
+0	U+2530	┰	Box Drawing	uni2530	1600
+0	U+2531	┱	Box Drawing	uni2531	1601
+0	U+2532	┲	Box Drawing	uni2532	1602
+0	U+2533	┳	Box Drawing	uni2533	1603
+0	U+2534	┴	Box Drawing	uni2534	1604
+0	U+2535	┵	Box Drawing	uni2535	1605
+0	U+2536	┶	Box Drawing	uni2536	1606
+0	U+2537	┷	Box Drawing	uni2537	1607
+0	U+2538	┸	Box Drawing	uni2538	1608
+0	U+2539	┹	Box Drawing	uni2539	1609
+0	U+253A	┺	Box Drawing	uni253A	1610
+0	U+253B	┻	Box Drawing	uni253B	1611
+0	U+253C	┼	Box Drawing	uni253C	1612
+0	U+253D	┽	Box Drawing	uni253D	1613
+0	U+253E	┾	Box Drawing	uni253E	1614
+0	U+253F	┿	Box Drawing	uni253F	1615
+0	U+2540	╀	Box Drawing	uni2540	1616
+0	U+2541	╁	Box Drawing	uni2541	1617
+0	U+2542	╂	Box Drawing	uni2542	1618
+0	U+2543	╃	Box Drawing	uni2543	1619
+0	U+2544	╄	Box Drawing	uni2544	1620
+0	U+2545	╅	Box Drawing	uni2545	1621
+0	U+2546	╆	Box Drawing	uni2546	1622
+0	U+2547	╇	Box Drawing	uni2547	1623
+0	U+2548	╈	Box Drawing	uni2548	1624
+0	U+2549	╉	Box Drawing	uni2549	1625
+0	U+254A	╊	Box Drawing	uni254A	1626
+0	U+254B	╋	Box Drawing	uni254B	1627
+0	U+254C	╌	Box Drawing	uni254C	1628
+0	U+254D	╍	Box Drawing	uni254D	1629
+0	U+254E	╎	Box Drawing	uni254E	1630
+0	U+254F	╏	Box Drawing	uni254F	1631
+0	U+2550	═	Box Drawing	uni2550	1632
+0	U+2551	║	Box Drawing	uni2551	1633
+0	U+2552	╒	Box Drawing	uni2552	1634
+0	U+2553	╓	Box Drawing	uni2553	1635
+0	U+2554	╔	Box Drawing	uni2554	1636
+0	U+2555	╕	Box Drawing	uni2555	1637
+0	U+2556	╖	Box Drawing	uni2556	1638
+0	U+2557	╗	Box Drawing	uni2557	1639
+0	U+2558	╘	Box Drawing	uni2558	1640
+0	U+2559	╙	Box Drawing	uni2559	1641
+0	U+255A	╚	Box Drawing	uni255A	1642
+0	U+255B	╛	Box Drawing	uni255B	1643
+0	U+255C	╜	Box Drawing	uni255C	1644
+0	U+255D	╝	Box Drawing	uni255D	1645
+0	U+255E	╞	Box Drawing	uni255E	1646
+0	U+255F	╟	Box Drawing	uni255F	1647
+0	U+2560	╠	Box Drawing	uni2560	1648
+0	U+2561	╡	Box Drawing	uni2561	1649
+0	U+2562	╢	Box Drawing	uni2562	1650
+0	U+2563	╣	Box Drawing	uni2563	1651
+0	U+2564	╤	Box Drawing	uni2564	1652
+0	U+2565	╥	Box Drawing	uni2565	1653
+0	U+2566	╦	Box Drawing	uni2566	1654
+0	U+2567	╧	Box Drawing	uni2567	1655
+0	U+2568	╨	Box Drawing	uni2568	1656
+0	U+2569	╩	Box Drawing	uni2569	1657
+0	U+256A	╪	Box Drawing	uni256A	1658
+0	U+256B	╫	Box Drawing	uni256B	1659
+0	U+256C	╬	Box Drawing	uni256C	1660
+0	U+256D	╭	Box Drawing	uni256D	1661
+0	U+256E	╮	Box Drawing	uni256E	1662
+0	U+256F	╯	Box Drawing	uni256F	1663
+0	U+2570	╰	Box Drawing	uni2570	1664
+0	U+2571	╱	Box Drawing	uni2571	1665
+0	U+2572	╲	Box Drawing	uni2572	1666
+0	U+2573	╳	Box Drawing	uni2573	1667
+0	U+2574	╴	Box Drawing	uni2574	1668
+0	U+2575	╵	Box Drawing	uni2575	1669
+0	U+2576	╶	Box Drawing	uni2576	1670
+0	U+2577	╷	Box Drawing	uni2577	1671
+0	U+2578	╸	Box Drawing	uni2578	1672
+0	U+2579	╹	Box Drawing	uni2579	1673
+0	U+257A	╺	Box Drawing	uni257A	1674
+0	U+257B	╻	Box Drawing	uni257B	1675
+0	U+257C	╼	Box Drawing	uni257C	1676
+0	U+257D	╽	Box Drawing	uni257D	1677
+0	U+257E	╾	Box Drawing	uni257E	1678
+0	U+257F	╿	Box Drawing	uni257F	1679
+0	U+2580	▀	Block Elements	uni2580	1680
+0	U+2581	▁	Block Elements	uni2581	1681
+0	U+2582	▂	Block Elements	uni2582	1682
+0	U+2583	▃	Block Elements	uni2583	1683
+0	U+2584	▄	Block Elements	uni2584	1684
+0	U+2585	▅	Block Elements	uni2585	1685
+0	U+2586	▆	Block Elements	uni2586	1686
+0	U+2587	▇	Block Elements	uni2587	1687
+0	U+2588	█	Block Elements	uni2588	1688
+0	U+2589	▉	Block Elements	uni2589	1689
+0	U+258A	▊	Block Elements	uni258A	1690
+0	U+258B	▋	Block Elements	uni258B	1691
+0	U+258C	▌	Block Elements	uni258C	1692
+0	U+258D	▍	Block Elements	uni258D	1693
+0	U+258E	▎	Block Elements	uni258E	1694
+0	U+258F	▏	Block Elements	uni258F	1695
+0	U+2590	▐	Block Elements	uni2590	1696
+0	U+2591	░	Block Elements	uni2591	1697
+0	U+2592	▒	Block Elements	uni2592	1698
+0	U+2593	▓	Block Elements	uni2593	1699
+0	U+2594	▔	Block Elements	uni2594	1700
+0	U+2595	▕	Block Elements	uni2595	1701
+0	U+25A0	■	Geometric Shapes	uni25A0	1702
+0	U+25A1	□	Geometric Shapes	uni25A1	1703
+0	U+25A2	▢	Geometric Shapes	uni25A2	1704
+0	U+25A3	▣	Geometric Shapes	uni25A3	1705
+0	U+25A4	▤	Geometric Shapes	uni25A4	1706
+0	U+25A5	▥	Geometric Shapes	uni25A5	1707
+0	U+25A6	▦	Geometric Shapes	uni25A6	1708
+0	U+25A7	▧	Geometric Shapes	uni25A7	1709
+0	U+25A8	▨	Geometric Shapes	uni25A8	1710
+0	U+25A9	▩	Geometric Shapes	uni25A9	1711
+0	U+25AA	▪	Geometric Shapes	uni25AA	1712
+0	U+25AB	▫	Geometric Shapes	uni25AB	1713
+0	U+25AC	▬	Geometric Shapes	uni25AC	1714
+0	U+25AD	▭	Geometric Shapes	uni25AD	1715
+0	U+25AE	▮	Geometric Shapes	uni25AE	1716
+0	U+25AF	▯	Geometric Shapes	uni25AF	1717
+0	U+25B0	▰	Geometric Shapes	uni25B0	1718
+0	U+25B1	▱	Geometric Shapes	uni25B1	1719
+0	U+25B2	▲	Geometric Shapes	uni25B2	1720
+0	U+25B3	△	Geometric Shapes	uni25B3	1721
+0	U+25B4	▴	Geometric Shapes	uni25B4	1722
+0	U+25B5	▵	Geometric Shapes	uni25B5	1723
+0	U+25B6	▶	Geometric Shapes	uni25B6	1724
+0	U+25B7	▷	Geometric Shapes	uni25B7	1725
+0	U+25B8	▸	Geometric Shapes	uni25B8	1726
+0	U+25B9	▹	Geometric Shapes	uni25B9	1727
+0	U+25BA	►	Geometric Shapes	uni25BA	1728
+0	U+25BB	▻	Geometric Shapes	uni25BB	1729
+0	U+25BC	▼	Geometric Shapes	uni25BC	1730
+0	U+25BD	▽	Geometric Shapes	uni25BD	1731
+0	U+25BE	▾	Geometric Shapes	uni25BE	1732
+0	U+25BF	▿	Geometric Shapes	uni25BF	1733
+0	U+25C0	◀	Geometric Shapes	uni25C0	1734
+0	U+25C1	◁	Geometric Shapes	uni25C1	1735
+0	U+25C2	◂	Geometric Shapes	uni25C2	1736
+0	U+25C3	◃	Geometric Shapes	uni25C3	1737
+0	U+25C4	◄	Geometric Shapes	uni25C4	1738
+0	U+25C5	◅	Geometric Shapes	uni25C5	1739
+0	U+25C6	◆	Geometric Shapes	uni25C6	1740
+0	U+25C7	◇	Geometric Shapes	uni25C7	1741
+0	U+25C8	◈	Geometric Shapes	uni25C8	1742
+0	U+25C9	◉	Geometric Shapes	uni25C9	1743
+0	U+25CA	◊	Geometric Shapes	uni25CA	1744
+0	U+25CB	○	Geometric Shapes	uni25CB	1745
+0	U+25CC	◌	Geometric Shapes	uni25CC	1746
+0	U+25CD	◍	Geometric Shapes	uni25CD	1747
+0	U+25CE	◎	Geometric Shapes	uni25CE	1748
+0	U+25CF	●	Geometric Shapes	uni25CF	1749
+0	U+25D0	◐	Geometric Shapes	uni25D0	1750
+0	U+25D1	◑	Geometric Shapes	uni25D1	1751
+0	U+25D2	◒	Geometric Shapes	uni25D2	1752
+0	U+25D3	◓	Geometric Shapes	uni25D3	1753
+0	U+25D4	◔	Geometric Shapes	uni25D4	1754
+0	U+25D5	◕	Geometric Shapes	uni25D5	1755
+0	U+25D6	◖	Geometric Shapes	uni25D6	1756
+0	U+25D7	◗	Geometric Shapes	uni25D7	1757
+0	U+25D8	◘	Geometric Shapes	uni25D8	1758
+0	U+25D9	◙	Geometric Shapes	uni25D9	1759
+0	U+25DA	◚	Geometric Shapes	uni25DA	1760
+0	U+25DB	◛	Geometric Shapes	uni25DB	1761
+0	U+25DC	◜	Geometric Shapes	uni25DC	1762
+0	U+25DD	◝	Geometric Shapes	uni25DD	1763
+0	U+25DE	◞	Geometric Shapes	uni25DE	1764
+0	U+25DF	◟	Geometric Shapes	uni25DF	1765
+0	U+25E0	◠	Geometric Shapes	uni25E0	1766
+0	U+25E1	◡	Geometric Shapes	uni25E1	1767
+0	U+25E2	◢	Geometric Shapes	uni25E2	1768
+0	U+25E3	◣	Geometric Shapes	uni25E3	1769
+0	U+25E4	◤	Geometric Shapes	uni25E4	1770
+0	U+25E5	◥	Geometric Shapes	uni25E5	1771
+0	U+25E6	◦	Geometric Shapes	uni25E6	1772
+0	U+25E7	◧	Geometric Shapes	uni25E7	1773
+0	U+25E8	◨	Geometric Shapes	uni25E8	1774
+0	U+25E9	◩	Geometric Shapes	uni25E9	1775
+0	U+25EA	◪	Geometric Shapes	uni25EA	1776
+0	U+25EB	◫	Geometric Shapes	uni25EB	1777
+0	U+25EC	◬	Geometric Shapes	uni25EC	1778
+0	U+25ED	◭	Geometric Shapes	uni25ED	1779
+0	U+25EE	◮	Geometric Shapes	uni25EE	1780
+0	U+25EF	◯	Geometric Shapes	uni25EF	1781
+0	U+2600	☀	Miscellaneous Symbols	uni2600	1782
+0	U+2601	☁	Miscellaneous Symbols	uni2601	1783
+0	U+2602	☂	Miscellaneous Symbols	uni2602	1784
+0	U+2603	☃	Miscellaneous Symbols	uni2603	1785
+0	U+2604	☄	Miscellaneous Symbols	uni2604	1786
+0	U+2605	★	Miscellaneous Symbols	uni2605	1787
+0	U+2606	☆	Miscellaneous Symbols	uni2606	1788
+0	U+2607	☇	Miscellaneous Symbols	uni2607	1789
+0	U+2608	☈	Miscellaneous Symbols	uni2608	1790
+0	U+2609	☉	Miscellaneous Symbols	uni2609	1791
+0	U+260A	☊	Miscellaneous Symbols	uni260A	1792
+0	U+260B	☋	Miscellaneous Symbols	uni260B	1793
+0	U+260C	☌	Miscellaneous Symbols	uni260C	1794
+0	U+260D	☍	Miscellaneous Symbols	uni260D	1795
+0	U+260E	☎	Miscellaneous Symbols	uni260E	1796
+0	U+260F	☏	Miscellaneous Symbols	uni260F	1797
+0	U+2610	☐	Miscellaneous Symbols	uni2610	1798
+0	U+2611	☑	Miscellaneous Symbols	uni2611	1799
+0	U+2612	☒	Miscellaneous Symbols	uni2612	1800
+0	U+2613	☓	Miscellaneous Symbols	uni2613	1801
+0	U+2616	☖	Miscellaneous Symbols	uni2616	1802
+0	U+2617	☗	Miscellaneous Symbols	uni2617	1803
+0	U+261A	☚	Miscellaneous Symbols	uni261A	1804
+0	U+261B	☛	Miscellaneous Symbols	uni261B	1805
+0	U+261C	☜	Miscellaneous Symbols	uni261C	1806
+0	U+261D	☝	Miscellaneous Symbols	uni261D	1807
+0	U+261E	☞	Miscellaneous Symbols	uni261E	1808
+0	U+261F	☟	Miscellaneous Symbols	uni261F	1809
+0	U+2620	☠	Miscellaneous Symbols	uni2620	1810
+0	U+2621	☡	Miscellaneous Symbols	uni2621	1811
+0	U+2622	☢	Miscellaneous Symbols	uni2622	1812
+0	U+2623	☣	Miscellaneous Symbols	uni2623	1813
+0	U+2624	☤	Miscellaneous Symbols	uni2624	1814
+0	U+2625	☥	Miscellaneous Symbols	uni2625	1815
+0	U+2626	☦	Miscellaneous Symbols	uni2626	1816
+0	U+2627	☧	Miscellaneous Symbols	uni2627	1817
+0	U+2628	☨	Miscellaneous Symbols	uni2628	1818
+0	U+2629	☩	Miscellaneous Symbols	uni2629	1819
+0	U+262A	☪	Miscellaneous Symbols	uni262A	1820
+0	U+262B	☫	Miscellaneous Symbols	uni262B	1821
+0	U+262C	☬	Miscellaneous Symbols	uni262C	1822
+0	U+262D	☭	Miscellaneous Symbols	uni262D	1823
+0	U+262E	☮	Miscellaneous Symbols	uni262E	1824
+0	U+262F	☯	Miscellaneous Symbols	uni262F	1825
+0	U+2630	☰	Miscellaneous Symbols	uni2630	1826
+0	U+2631	☱	Miscellaneous Symbols	uni2631	1827
+0	U+2632	☲	Miscellaneous Symbols	uni2632	1828
+0	U+2633	☳	Miscellaneous Symbols	uni2633	1829
+0	U+2634	☴	Miscellaneous Symbols	uni2634	1830
+0	U+2635	☵	Miscellaneous Symbols	uni2635	1831
+0	U+2636	☶	Miscellaneous Symbols	uni2636	1832
+0	U+2637	☷	Miscellaneous Symbols	uni2637	1833
+0	U+2638	☸	Miscellaneous Symbols	uni2638	1834
+0	U+2639	☹	Miscellaneous Symbols	uni2639	1835
+0	U+263A	☺	Miscellaneous Symbols	uni263A	1836
+0	U+263B	☻	Miscellaneous Symbols	uni263B	1837
+0	U+263C	☼	Miscellaneous Symbols	uni263C	1838
+0	U+263D	☽	Miscellaneous Symbols	uni263D	1839
+0	U+263E	☾	Miscellaneous Symbols	uni263E	1840
+0	U+263F	☿	Miscellaneous Symbols	uni263F	1841
+0	U+2640	♀	Miscellaneous Symbols	uni2640	1842
+0	U+2641	♁	Miscellaneous Symbols	uni2641	1843
+0	U+2642	♂	Miscellaneous Symbols	uni2642	1844
+0	U+2643	♃	Miscellaneous Symbols	uni2643	1845
+0	U+2644	♄	Miscellaneous Symbols	uni2644	1846
+0	U+2645	♅	Miscellaneous Symbols	uni2645	1847
+0	U+2646	♆	Miscellaneous Symbols	uni2646	1848
+0	U+2647	♇	Miscellaneous Symbols	uni2647	1849
+0	U+2648	♈	Miscellaneous Symbols	uni2648	1850
+0	U+2649	♉	Miscellaneous Symbols	uni2649	1851
+0	U+264A	♊	Miscellaneous Symbols	uni264A	1852
+0	U+264B	♋	Miscellaneous Symbols	uni264B	1853
+0	U+264C	♌	Miscellaneous Symbols	uni264C	1854
+0	U+264D	♍	Miscellaneous Symbols	uni264D	1855
+0	U+264E	♎	Miscellaneous Symbols	uni264E	1856
+0	U+264F	♏	Miscellaneous Symbols	uni264F	1857
+0	U+2650	♐	Miscellaneous Symbols	uni2650	1858
+0	U+2651	♑	Miscellaneous Symbols	uni2651	1859
+0	U+2652	♒	Miscellaneous Symbols	uni2652	1860
+0	U+2653	♓	Miscellaneous Symbols	uni2653	1861
+0	U+2654	♔	Miscellaneous Symbols	uni2654	1862
+0	U+2655	♕	Miscellaneous Symbols	uni2655	1863
+0	U+2656	♖	Miscellaneous Symbols	uni2656	1864
+0	U+2657	♗	Miscellaneous Symbols	uni2657	1865
+0	U+2658	♘	Miscellaneous Symbols	uni2658	1866
+0	U+2659	♙	Miscellaneous Symbols	uni2659	1867
+0	U+265A	♚	Miscellaneous Symbols	uni265A	1868
+0	U+265B	♛	Miscellaneous Symbols	uni265B	1869
+0	U+265C	♜	Miscellaneous Symbols	uni265C	1870
+0	U+265D	♝	Miscellaneous Symbols	uni265D	1871
+0	U+265E	♞	Miscellaneous Symbols	uni265E	1872
+0	U+265F	♟	Miscellaneous Symbols	uni265F	1873
+0	U+2660	♠	Miscellaneous Symbols	uni2660	1874
+0	U+2661	♡	Miscellaneous Symbols	uni2661	1875
+0	U+2662	♢	Miscellaneous Symbols	uni2662	1876
+0	U+2663	♣	Miscellaneous Symbols	uni2663	1877
+0	U+2664	♤	Miscellaneous Symbols	uni2664	1878
+0	U+2665	♥	Miscellaneous Symbols	uni2665	1879
+0	U+2666	♦	Miscellaneous Symbols	uni2666	1880
+0	U+2667	♧	Miscellaneous Symbols	uni2667	1881
+0	U+2668	♨	Miscellaneous Symbols	uni2668	1882
+0	U+2669	♩	Miscellaneous Symbols	uni2669	1883
+0	U+266A	♪	Miscellaneous Symbols	uni266A	1884
+0	U+266B	♫	Miscellaneous Symbols	uni266B	1885
+0	U+266C	♬	Miscellaneous Symbols	uni266C	1886
+0	U+266D	♭	Miscellaneous Symbols	uni266D	1887
+0	U+266E	♮	Miscellaneous Symbols	uni266E	1888
+0	U+266F	♯	Miscellaneous Symbols	uni266F	1889
+0	U+2701	✁	Dingbats	uni2701	1890
+0	U+2702	✂	Dingbats	uni2702	1891
+0	U+2703	✃	Dingbats	uni2703	1892
+0	U+2704	✄	Dingbats	uni2704	1893
+0	U+2706	✆	Dingbats	uni2706	1894
+0	U+2707	✇	Dingbats	uni2707	1895
+0	U+2708	✈	Dingbats	uni2708	1896
+0	U+2709	✉	Dingbats	uni2709	1897
+0	U+270C	✌	Dingbats	uni270C	1898
+0	U+270D	✍	Dingbats	uni270D	1899
+0	U+270E	✎	Dingbats	uni270E	1900
+0	U+270F	✏	Dingbats	uni270F	1901
+0	U+2710	✐	Dingbats	uni2710	1902
+0	U+2711	✑	Dingbats	uni2711	1903
+0	U+2712	✒	Dingbats	uni2712	1904
+0	U+2713	✓	Dingbats	uni2713	1905
+0	U+2714	✔	Dingbats	uni2714	1906
+0	U+2715	✕	Dingbats	uni2715	1907
+0	U+2716	✖	Dingbats	uni2716	1908
+0	U+2717	✗	Dingbats	uni2717	1909
+0	U+2718	✘	Dingbats	uni2718	1910
+0	U+2719	✙	Dingbats	uni2719	1911
+0	U+271A	✚	Dingbats	uni271A	1912
+0	U+271B	✛	Dingbats	uni271B	1913
+0	U+271C	✜	Dingbats	uni271C	1914
+0	U+271D	✝	Dingbats	uni271D	1915
+0	U+271E	✞	Dingbats	uni271E	1916
+0	U+271F	✟	Dingbats	uni271F	1917
+0	U+2720	✠	Dingbats	uni2720	1918
+0	U+2721	✡	Dingbats	uni2721	1919
+0	U+2722	✢	Dingbats	uni2722	1920
+0	U+2723	✣	Dingbats	uni2723	1921
+0	U+2724	✤	Dingbats	uni2724	1922
+0	U+2725	✥	Dingbats	uni2725	1923
+0	U+2726	✦	Dingbats	uni2726	1924
+0	U+2727	✧	Dingbats	uni2727	1925
+0	U+2729	✩	Dingbats	uni2729	1926
+0	U+272A	✪	Dingbats	uni272A	1927
+0	U+272B	✫	Dingbats	uni272B	1928
+0	U+272C	✬	Dingbats	uni272C	1929
+0	U+272D	✭	Dingbats	uni272D	1930
+0	U+272E	✮	Dingbats	uni272E	1931
+0	U+272F	✯	Dingbats	uni272F	1932
+0	U+2730	✰	Dingbats	uni2730	1933
+0	U+2731	✱	Dingbats	uni2731	1934
+0	U+2732	✲	Dingbats	uni2732	1935
+0	U+2733	✳	Dingbats	uni2733	1936
+0	U+2734	✴	Dingbats	uni2734	1937
+0	U+2735	✵	Dingbats	uni2735	1938
+0	U+2736	✶	Dingbats	uni2736	1939
+0	U+2737	✷	Dingbats	uni2737	1940
+0	U+2738	✸	Dingbats	uni2738	1941
+0	U+2739	✹	Dingbats	uni2739	1942
+0	U+273A	✺	Dingbats	uni273A	1943
+0	U+273B	✻	Dingbats	uni273B	1944
+0	U+273C	✼	Dingbats	uni273C	1945
+0	U+273D	✽	Dingbats	uni273D	1946
+0	U+273E	✾	Dingbats	uni273E	1947
+0	U+273F	✿	Dingbats	uni273F	1948
+0	U+2740	❀	Dingbats	uni2740	1949
+0	U+2741	❁	Dingbats	uni2741	1950
+0	U+2742	❂	Dingbats	uni2742	1951
+0	U+2743	❃	Dingbats	uni2743	1952
+0	U+2744	❄	Dingbats	uni2744	1953
+0	U+2745	❅	Dingbats	uni2745	1954
+0	U+2746	❆	Dingbats	uni2746	1955
+0	U+2747	❇	Dingbats	uni2747	1956
+0	U+2748	❈	Dingbats	uni2748	1957
+0	U+2749	❉	Dingbats	uni2749	1958
+0	U+274A	❊	Dingbats	uni274A	1959
+0	U+274B	❋	Dingbats	uni274B	1960
+0	U+274D	❍	Dingbats	uni274D	1961
+0	U+274F	❏	Dingbats	uni274F	1962
+0	U+2750	❐	Dingbats	uni2750	1963
+0	U+2751	❑	Dingbats	uni2751	1964
+0	U+2752	❒	Dingbats	uni2752	1965
+0	U+2756	❖	Dingbats	uni2756	1966
+0	U+2758	❘	Dingbats	uni2758	1967
+0	U+2759	❙	Dingbats	uni2759	1968
+0	U+275A	❚	Dingbats	uni275A	1969
+0	U+275B	❛	Dingbats	uni275B	1970
+0	U+275C	❜	Dingbats	uni275C	1971
+0	U+275D	❝	Dingbats	uni275D	1972
+0	U+275E	❞	Dingbats	uni275E	1973
+0	U+2761	❡	Dingbats	uni2761	1974
+0	U+2762	❢	Dingbats	uni2762	1975
+0	U+2763	❣	Dingbats	uni2763	1976
+0	U+2764	❤	Dingbats	uni2764	1977
+0	U+2765	❥	Dingbats	uni2765	1978
+0	U+2766	❦	Dingbats	uni2766	1979
+0	U+2767	❧	Dingbats	uni2767	1980
+0	U+2776	❶	Dingbats	uni2776	1981
+0	U+2777	❷	Dingbats	uni2777	1982
+0	U+2778	❸	Dingbats	uni2778	1983
+0	U+2779	❹	Dingbats	uni2779	1984
+0	U+277A	❺	Dingbats	uni277A	1985
+0	U+277B	❻	Dingbats	uni277B	1986
+0	U+277C	❼	Dingbats	uni277C	1987
+0	U+277D	❽	Dingbats	uni277D	1988
+0	U+277E	❾	Dingbats	uni277E	1989
+0	U+277F	❿	Dingbats	uni277F	1990
+0	U+2780	➀	Dingbats	uni2780	1991
+0	U+2781	➁	Dingbats	uni2781	1992
+0	U+2782	➂	Dingbats	uni2782	1993
+0	U+2783	➃	Dingbats	uni2783	1994
+0	U+2784	➄	Dingbats	uni2784	1995
+0	U+2785	➅	Dingbats	uni2785	1996
+0	U+2786	➆	Dingbats	uni2786	1997
+0	U+2787	➇	Dingbats	uni2787	1998
+0	U+2788	➈	Dingbats	uni2788	1999
+0	U+2789	➉	Dingbats	uni2789	2000
+0	U+278A	➊	Dingbats	uni278A	2001
+0	U+278B	➋	Dingbats	uni278B	2002
+0	U+278C	➌	Dingbats	uni278C	2003
+0	U+278D	➍	Dingbats	uni278D	2004
+0	U+278E	➎	Dingbats	uni278E	2005
+0	U+278F	➏	Dingbats	uni278F	2006
+0	U+2790	➐	Dingbats	uni2790	2007
+0	U+2791	➑	Dingbats	uni2791	2008
+0	U+2792	➒	Dingbats	uni2792	2009
+0	U+2793	➓	Dingbats	uni2793	2010
+0	U+2794	➔	Dingbats	uni2794	2011
+0	U+2798	➘	Dingbats	uni2798	2012
+0	U+2799	➙	Dingbats	uni2799	2013
+0	U+279A	➚	Dingbats	uni279A	2014
+0	U+279B	➛	Dingbats	uni279B	2015
+0	U+279C	➜	Dingbats	uni279C	2016
+0	U+279D	➝	Dingbats	uni279D	2017
+0	U+279E	➞	Dingbats	uni279E	2018
+0	U+279F	➟	Dingbats	uni279F	2019
+0	U+27A0	➠	Dingbats	uni27A0	2020
+0	U+27A1	➡	Dingbats	uni27A1	2021
+0	U+27A2	➢	Dingbats	uni27A2	2022
+0	U+27A3	➣	Dingbats	uni27A3	2023
+0	U+27A4	➤	Dingbats	uni27A4	2024
+0	U+27A5	➥	Dingbats	uni27A5	2025
+0	U+27A6	➦	Dingbats	uni27A6	2026
+0	U+27A7	➧	Dingbats	uni27A7	2027
+0	U+27A8	➨	Dingbats	uni27A8	2028
+0	U+27A9	➩	Dingbats	uni27A9	2029
+0	U+27AA	➪	Dingbats	uni27AA	2030
+0	U+27AB	➫	Dingbats	uni27AB	2031
+0	U+27AC	➬	Dingbats	uni27AC	2032
+0	U+27AD	➭	Dingbats	uni27AD	2033
+0	U+27AE	➮	Dingbats	uni27AE	2034
+0	U+27AF	➯	Dingbats	uni27AF	2035
+0	U+27B1	➱	Dingbats	uni27B1	2036
+0	U+27B2	➲	Dingbats	uni27B2	2037
+0	U+27B3	➳	Dingbats	uni27B3	2038
+0	U+27B4	➴	Dingbats	uni27B4	2039
+0	U+27B5	➵	Dingbats	uni27B5	2040
+0	U+27B6	➶	Dingbats	uni27B6	2041
+0	U+27B7	➷	Dingbats	uni27B7	2042
+0	U+27B8	➸	Dingbats	uni27B8	2043
+0	U+27B9	➹	Dingbats	uni27B9	2044
+0	U+27BA	➺	Dingbats	uni27BA	2045
+0	U+27BB	➻	Dingbats	uni27BB	2046
+0	U+27BC	➼	Dingbats	uni27BC	2047
+0	U+27BD	➽	Dingbats	uni27BD	2048
+0	U+27BE	➾	Dingbats	uni27BE	2049
+0	U+2934	⤴	Supplemental Arrows-B	uni2934	2050
+0	U+2935	⤵	Supplemental Arrows-B	uni2935	2051
+0	U+2985	⦅	Miscellaneous Mathematical Symbols-B	uni2985	2052
+0	U+2986	⦆	Miscellaneous Mathematical Symbols-B	uni2986	2053
+0	U+29BF	⦿	Miscellaneous Mathematical Symbols-B	uni29BF	2054
+0	U+29FA	⧺	Miscellaneous Mathematical Symbols-B	uni29FA	2055
+0	U+29FB	⧻	Miscellaneous Mathematical Symbols-B	uni29FB	2056
+0	U+3000	<IDEOGRAPHIC SPACE>	CJK Symbols and Punctuation	uni3000	2057
+0	U+3001	、	CJK Symbols and Punctuation	uni3001	2058
+0	U+3002	。	CJK Symbols and Punctuation	uni3002	2059
+0	U+3003	〃	CJK Symbols and Punctuation	uni3003	2060
+0	U+3004	〄	CJK Symbols and Punctuation	uni3004	2061
+0	U+3005	々	CJK Symbols and Punctuation	uni3005	2062
+0	U+3006	〆	CJK Symbols and Punctuation	uni3006	2063
+0	U+3007	〇	CJK Symbols and Punctuation	uni3007	2064
+0	U+3008	〈	CJK Symbols and Punctuation	uni3008	2065
+0	U+3009	〉	CJK Symbols and Punctuation	uni3009	2066
+0	U+300A	《	CJK Symbols and Punctuation	uni300A	2067
+0	U+300B	》	CJK Symbols and Punctuation	uni300B	2068
+0	U+300C	「	CJK Symbols and Punctuation	uni300C	2069
+0	U+300D	」	CJK Symbols and Punctuation	uni300D	2070
+0	U+300E	『	CJK Symbols and Punctuation	uni300E	2071
+0	U+300F	』	CJK Symbols and Punctuation	uni300F	2072
+0	U+3010	【	CJK Symbols and Punctuation	uni3010	2073
+0	U+3011	】	CJK Symbols and Punctuation	uni3011	2074
+0	U+3012	〒	CJK Symbols and Punctuation	uni3012	2075
+0	U+3013	〓	CJK Symbols and Punctuation	uni3013	2076
+0	U+3014	〔	CJK Symbols and Punctuation	uni3014	2077
+0	U+3015	〕	CJK Symbols and Punctuation	uni3015	2078
+0	U+3016	〖	CJK Symbols and Punctuation	uni3016	2079
+0	U+3017	〗	CJK Symbols and Punctuation	uni3017	2080
+0	U+3018	〘	CJK Symbols and Punctuation	uni3018	2081
+0	U+3019	〙	CJK Symbols and Punctuation	uni3019	2082
+0	U+301A	〚	CJK Symbols and Punctuation	uni301A	2083
+0	U+301B	〛	CJK Symbols and Punctuation	uni301B	2084
+0	U+301C	〜	CJK Symbols and Punctuation	uni301C	2085
+0	U+301D	〝	CJK Symbols and Punctuation	uni301D	2086
+0	U+301E	〞	CJK Symbols and Punctuation	uni301E	2087
+0	U+301F	〟	CJK Symbols and Punctuation	uni301F	2088
+0	U+3020	〠	CJK Symbols and Punctuation	uni3020	2089
+0	U+3030	〰	CJK Symbols and Punctuation	uni3030	2090
+0	U+3031	〱	CJK Symbols and Punctuation	uni3031	2091
+0	U+3032	〲	CJK Symbols and Punctuation	uni3032	2092
+0	U+3033	〳	CJK Symbols and Punctuation	uni3033	2093
+0	U+3034	〴	CJK Symbols and Punctuation	uni3034	2094
+0	U+3035	〵	CJK Symbols and Punctuation	uni3035	2095
+0	U+3036	〶	CJK Symbols and Punctuation	uni3036	2096
+0	U+3037	〷	CJK Symbols and Punctuation	uni3037	2097
+0	U+303B	〻	CJK Symbols and Punctuation	uni303B	2098
+0	U+303C	〼	CJK Symbols and Punctuation	uni303C	2099
+0	U+303D	〽	CJK Symbols and Punctuation	uni303D	2100
+0	U+FB01	ﬁ	Alphabetic Presentation Forms	uniFB01	15898
+0	U+FB02	ﬂ	Alphabetic Presentation Forms	uniFB02	15899
+0	U+FDFC	﷼	Arabic Presentation Forms-A	uniFDFC	15900
+0	U+FE45	﹅	CJK Compatibility Forms	uniFE45	15901
+0	U+FE46	﹆	CJK Compatibility Forms	uniFE46	15902
+0	U+FF01	！	Halfwidth and Fullwidth Forms	uniFF01	15903
+0	U+FF02	＂	Halfwidth and Fullwidth Forms	uniFF02	15904
+0	U+FF03	＃	Halfwidth and Fullwidth Forms	uniFF03	15905
+0	U+FF04	＄	Halfwidth and Fullwidth Forms	uniFF04	15906
+0	U+FF05	％	Halfwidth and Fullwidth Forms	uniFF05	15907
+0	U+FF06	＆	Halfwidth and Fullwidth Forms	uniFF06	15908
+0	U+FF07	＇	Halfwidth and Fullwidth Forms	uniFF07	15909
+0	U+FF08	（	Halfwidth and Fullwidth Forms	uniFF08	15910
+0	U+FF09	）	Halfwidth and Fullwidth Forms	uniFF09	15911
+0	U+FF0A	＊	Halfwidth and Fullwidth Forms	uniFF0A	15912
+0	U+FF0B	＋	Halfwidth and Fullwidth Forms	uniFF0B	15913
+0	U+FF0C	，	Halfwidth and Fullwidth Forms	uniFF0C	15914
+0	U+FF0D	－	Halfwidth and Fullwidth Forms	uniFF0D	15915
+0	U+FF0E	．	Halfwidth and Fullwidth Forms	uniFF0E	15916
+0	U+FF0F	／	Halfwidth and Fullwidth Forms	uniFF0F	15917
+0	U+FF10	０	Halfwidth and Fullwidth Forms	uniFF10	15918
+0	U+FF11	１	Halfwidth and Fullwidth Forms	uniFF11	15919
+0	U+FF12	２	Halfwidth and Fullwidth Forms	uniFF12	15920
+0	U+FF13	３	Halfwidth and Fullwidth Forms	uniFF13	15921
+0	U+FF14	４	Halfwidth and Fullwidth Forms	uniFF14	15922
+0	U+FF15	５	Halfwidth and Fullwidth Forms	uniFF15	15923
+0	U+FF16	６	Halfwidth and Fullwidth Forms	uniFF16	15924
+0	U+FF17	７	Halfwidth and Fullwidth Forms	uniFF17	15925
+0	U+FF18	８	Halfwidth and Fullwidth Forms	uniFF18	15926
+0	U+FF19	９	Halfwidth and Fullwidth Forms	uniFF19	15927
+0	U+FF1A	：	Halfwidth and Fullwidth Forms	uniFF1A	15928
+0	U+FF1B	；	Halfwidth and Fullwidth Forms	uniFF1B	15929
+0	U+FF1C	＜	Halfwidth and Fullwidth Forms	uniFF1C	15930
+0	U+FF1D	＝	Halfwidth and Fullwidth Forms	uniFF1D	15931
+0	U+FF1E	＞	Halfwidth and Fullwidth Forms	uniFF1E	15932
+0	U+FF1F	？	Halfwidth and Fullwidth Forms	uniFF1F	15933
+0	U+FF20	＠	Halfwidth and Fullwidth Forms	uniFF20	15934
+0	U+FF21	Ａ	Halfwidth and Fullwidth Forms	uniFF21	15935
+0	U+FF22	Ｂ	Halfwidth and Fullwidth Forms	uniFF22	15936
+0	U+FF23	Ｃ	Halfwidth and Fullwidth Forms	uniFF23	15937
+0	U+FF24	Ｄ	Halfwidth and Fullwidth Forms	uniFF24	15938
+0	U+FF25	Ｅ	Halfwidth and Fullwidth Forms	uniFF25	15939
+0	U+FF26	Ｆ	Halfwidth and Fullwidth Forms	uniFF26	15940
+0	U+FF27	Ｇ	Halfwidth and Fullwidth Forms	uniFF27	15941
+0	U+FF28	Ｈ	Halfwidth and Fullwidth Forms	uniFF28	15942
+0	U+FF29	Ｉ	Halfwidth and Fullwidth Forms	uniFF29	15943
+0	U+FF2A	Ｊ	Halfwidth and Fullwidth Forms	uniFF2A	15944
+0	U+FF2B	Ｋ	Halfwidth and Fullwidth Forms	uniFF2B	15945
+0	U+FF2C	Ｌ	Halfwidth and Fullwidth Forms	uniFF2C	15946
+0	U+FF2D	Ｍ	Halfwidth and Fullwidth Forms	uniFF2D	15947
+0	U+FF2E	Ｎ	Halfwidth and Fullwidth Forms	uniFF2E	15948
+0	U+FF2F	Ｏ	Halfwidth and Fullwidth Forms	uniFF2F	15949
+0	U+FF30	Ｐ	Halfwidth and Fullwidth Forms	uniFF30	15950
+0	U+FF31	Ｑ	Halfwidth and Fullwidth Forms	uniFF31	15951
+0	U+FF32	Ｒ	Halfwidth and Fullwidth Forms	uniFF32	15952
+0	U+FF33	Ｓ	Halfwidth and Fullwidth Forms	uniFF33	15953
+0	U+FF34	Ｔ	Halfwidth and Fullwidth Forms	uniFF34	15954
+0	U+FF35	Ｕ	Halfwidth and Fullwidth Forms	uniFF35	15955
+0	U+FF36	Ｖ	Halfwidth and Fullwidth Forms	uniFF36	15956
+0	U+FF37	Ｗ	Halfwidth and Fullwidth Forms	uniFF37	15957
+0	U+FF38	Ｘ	Halfwidth and Fullwidth Forms	uniFF38	15958
+0	U+FF39	Ｙ	Halfwidth and Fullwidth Forms	uniFF39	15959
+0	U+FF3A	Ｚ	Halfwidth and Fullwidth Forms	uniFF3A	15960
+0	U+FF3B	［	Halfwidth and Fullwidth Forms	uniFF3B	15961
+0	U+FF3C	＼	Halfwidth and Fullwidth Forms	uniFF3C	15962
+0	U+FF3D	］	Halfwidth and Fullwidth Forms	uniFF3D	15963
+0	U+FF3E	＾	Halfwidth and Fullwidth Forms	uniFF3E	15964
+0	U+FF3F	＿	Halfwidth and Fullwidth Forms	uniFF3F	15965
+0	U+FF40	｀	Halfwidth and Fullwidth Forms	uniFF40	15966
+0	U+FF41	ａ	Halfwidth and Fullwidth Forms	uniFF41	15967
+0	U+FF42	ｂ	Halfwidth and Fullwidth Forms	uniFF42	15968
+0	U+FF43	ｃ	Halfwidth and Fullwidth Forms	uniFF43	15969
+0	U+FF44	ｄ	Halfwidth and Fullwidth Forms	uniFF44	15970
+0	U+FF45	ｅ	Halfwidth and Fullwidth Forms	uniFF45	15971
+0	U+FF46	ｆ	Halfwidth and Fullwidth Forms	uniFF46	15972
+0	U+FF47	ｇ	Halfwidth and Fullwidth Forms	uniFF47	15973
+0	U+FF48	ｈ	Halfwidth and Fullwidth Forms	uniFF48	15974
+0	U+FF49	ｉ	Halfwidth and Fullwidth Forms	uniFF49	15975
+0	U+FF4A	ｊ	Halfwidth and Fullwidth Forms	uniFF4A	15976
+0	U+FF4B	ｋ	Halfwidth and Fullwidth Forms	uniFF4B	15977
+0	U+FF4C	ｌ	Halfwidth and Fullwidth Forms	uniFF4C	15978
+0	U+FF4D	ｍ	Halfwidth and Fullwidth Forms	uniFF4D	15979
+0	U+FF4E	ｎ	Halfwidth and Fullwidth Forms	uniFF4E	15980
+0	U+FF4F	ｏ	Halfwidth and Fullwidth Forms	uniFF4F	15981
+0	U+FF50	ｐ	Halfwidth and Fullwidth Forms	uniFF50	15982
+0	U+FF51	ｑ	Halfwidth and Fullwidth Forms	uniFF51	15983
+0	U+FF52	ｒ	Halfwidth and Fullwidth Forms	uniFF52	15984
+0	U+FF53	ｓ	Halfwidth and Fullwidth Forms	uniFF53	15985
+0	U+FF54	ｔ	Halfwidth and Fullwidth Forms	uniFF54	15986
+0	U+FF55	ｕ	Halfwidth and Fullwidth Forms	uniFF55	15987
+0	U+FF56	ｖ	Halfwidth and Fullwidth Forms	uniFF56	15988
+0	U+FF57	ｗ	Halfwidth and Fullwidth Forms	uniFF57	15989
+0	U+FF58	ｘ	Halfwidth and Fullwidth Forms	uniFF58	15990
+0	U+FF59	ｙ	Halfwidth and Fullwidth Forms	uniFF59	15991
+0	U+FF5A	ｚ	Halfwidth and Fullwidth Forms	uniFF5A	15992
+0	U+FF5B	｛	Halfwidth and Fullwidth Forms	uniFF5B	15993
+0	U+FF5C	｜	Halfwidth and Fullwidth Forms	uniFF5C	15994
+0	U+FF5D	｝	Halfwidth and Fullwidth Forms	uniFF5D	15995
+0	U+FF5E	～	Halfwidth and Fullwidth Forms	uniFF5E	15996
+0	U+FF5F	｟	Halfwidth and Fullwidth Forms	uniFF5F	15997
+0	U+FF60	｠	Halfwidth and Fullwidth Forms	uniFF60	15998
+0	U+FFE0	￠	Halfwidth and Fullwidth Forms	uniFFE0	16062
+0	U+FFE1	￡	Halfwidth and Fullwidth Forms	uniFFE1	16063
+0	U+FFE2	￢	Halfwidth and Fullwidth Forms	uniFFE2	16064
+0	U+FFE3	￣	Halfwidth and Fullwidth Forms	uniFFE3	16065
+0	U+FFE4	￤	Halfwidth and Fullwidth Forms	uniFFE4	16066
+0	U+FFE5	￥	Halfwidth and Fullwidth Forms	uniFFE5	16067
+0	U+FFE6	￦	Halfwidth and Fullwidth Forms	uniFFE6	16068
+0	U+FFE8	￨	Halfwidth and Fullwidth Forms	uniFFE8	16069
+0	U+FFE9	￩	Halfwidth and Fullwidth Forms	uniFFE9	16070
+0	U+FFEA	￪	Halfwidth and Fullwidth Forms	uniFFEA	16071
+0	U+FFEB	￫	Halfwidth and Fullwidth Forms	uniFFEB	16072
+0	U+FFEC	￬	Halfwidth and Fullwidth Forms	uniFFEC	16073
+0	U+FFED	￭	Halfwidth and Fullwidth Forms	uniFFED	16074
+0	U+FFEE	￮	Halfwidth and Fullwidth Forms	uniFFEE	16075
+1	U+0000	<U+0000>	Basic Latin	uni0000	1
+1	U+000D	<U+000D>	Basic Latin	uni000D	2
+1	U+0020	<SPACE>	Basic Latin	uni0020.p	16076
+1	U+0021	!	Basic Latin	uni0021.p	16077
+1	U+0022	""""	Basic Latin	uni0022.p	16078
+1	U+0023	#	Basic Latin	uni0023.p	16079
+1	U+0024	$	Basic Latin	uni0024.p	16080
+1	U+0025	%	Basic Latin	uni0025.p	16081
+1	U+0026	&	Basic Latin	uni0026.p	16082
+1	U+0027	'	Basic Latin	uni0027.p	16083
+1	U+0028	(	Basic Latin	uni0028.p	16084
+1	U+0029	)	Basic Latin	uni0029.p	16085
+1	U+002A	*	Basic Latin	uni002A.p	16086
+1	U+002B	+	Basic Latin	uni002B.p	16087
+1	U+002C	,	Basic Latin	uni002C.p	16088
+1	U+002D	-	Basic Latin	uni002D.p	16089
+1	U+002E	.	Basic Latin	uni002E.p	16090
+1	U+002F	/	Basic Latin	uni002F.p	16091
+1	U+0030	0	Basic Latin	uni0030.p	16092
+1	U+0031	1	Basic Latin	uni0031.p	16093
+1	U+0032	2	Basic Latin	uni0032.p	16094
+1	U+0033	3	Basic Latin	uni0033.p	16095
+1	U+0034	4	Basic Latin	uni0034.p	16096
+1	U+0035	5	Basic Latin	uni0035.p	16097
+1	U+0036	6	Basic Latin	uni0036.p	16098
+1	U+0037	7	Basic Latin	uni0037.p	16099
+1	U+0038	8	Basic Latin	uni0038.p	16100
+1	U+0039	9	Basic Latin	uni0039.p	16101
+1	U+003A	:	Basic Latin	uni003A.p	16102
+1	U+003B	;	Basic Latin	uni003B.p	16103
+1	U+003C	<	Basic Latin	uni003C.p	16104
+1	U+003D	=	Basic Latin	uni003D.p	16105
+1	U+003E	>	Basic Latin	uni003E.p	16106
+1	U+003F	?	Basic Latin	uni003F.p	16107
+1	U+0040	@	Basic Latin	uni0040.p	16108
+1	U+0041	A	Basic Latin	uni0041.p	16109
+1	U+0042	B	Basic Latin	uni0042.p	16110
+1	U+0043	C	Basic Latin	uni0043.p	16111
+1	U+0044	D	Basic Latin	uni0044.p	16112
+1	U+0045	E	Basic Latin	uni0045.p	16113
+1	U+0046	F	Basic Latin	uni0046.p	16114
+1	U+0047	G	Basic Latin	uni0047.p	16115
+1	U+0048	H	Basic Latin	uni0048.p	16116
+1	U+0049	I	Basic Latin	uni0049.p	16117
+1	U+004A	J	Basic Latin	uni004A.p	16118
+1	U+004B	K	Basic Latin	uni004B.p	16119
+1	U+004C	L	Basic Latin	uni004C.p	16120
+1	U+004D	M	Basic Latin	uni004D.p	16121
+1	U+004E	N	Basic Latin	uni004E.p	16122
+1	U+004F	O	Basic Latin	uni004F.p	16123
+1	U+0050	P	Basic Latin	uni0050.p	16124
+1	U+0051	Q	Basic Latin	uni0051.p	16125
+1	U+0052	R	Basic Latin	uni0052.p	16126
+1	U+0053	S	Basic Latin	uni0053.p	16127
+1	U+0054	T	Basic Latin	uni0054.p	16128
+1	U+0055	U	Basic Latin	uni0055.p	16129
+1	U+0056	V	Basic Latin	uni0056.p	16130
+1	U+0057	W	Basic Latin	uni0057.p	16131
+1	U+0058	X	Basic Latin	uni0058.p	16132
+1	U+0059	Y	Basic Latin	uni0059.p	16133
+1	U+005A	Z	Basic Latin	uni005A.p	16134
+1	U+005B	[	Basic Latin	uni005B.p	16135
+1	U+005C	\	Basic Latin	uni005C.p	16136
+1	U+005D	]	Basic Latin	uni005D.p	16137
+1	U+005E	^	Basic Latin	uni005E.p	16138
+1	U+005F	_	Basic Latin	uni005F.p	16139
+1	U+0060	`	Basic Latin	uni0060.p	16140
+1	U+0061	a	Basic Latin	uni0061.p	16141
+1	U+0062	b	Basic Latin	uni0062.p	16142
+1	U+0063	c	Basic Latin	uni0063.p	16143
+1	U+0064	d	Basic Latin	uni0064.p	16144
+1	U+0065	e	Basic Latin	uni0065.p	16145
+1	U+0066	f	Basic Latin	uni0066.p	16146
+1	U+0067	g	Basic Latin	uni0067.p	16147
+1	U+0068	h	Basic Latin	uni0068.p	16148
+1	U+0069	i	Basic Latin	uni0069.p	16149
+1	U+006A	j	Basic Latin	uni006A.p	16150
+1	U+006B	k	Basic Latin	uni006B.p	16151
+1	U+006C	l	Basic Latin	uni006C.p	16152
+1	U+006D	m	Basic Latin	uni006D.p	16153
+1	U+006E	n	Basic Latin	uni006E.p	16154
+1	U+006F	o	Basic Latin	uni006F.p	16155
+1	U+0070	p	Basic Latin	uni0070.p	16156
+1	U+0071	q	Basic Latin	uni0071.p	16157
+1	U+0072	r	Basic Latin	uni0072.p	16158
+1	U+0073	s	Basic Latin	uni0073.p	16159
+1	U+0074	t	Basic Latin	uni0074.p	16160
+1	U+0075	u	Basic Latin	uni0075.p	16161
+1	U+0076	v	Basic Latin	uni0076.p	16162
+1	U+0077	w	Basic Latin	uni0077.p	16163
+1	U+0078	x	Basic Latin	uni0078.p	16164
+1	U+0079	y	Basic Latin	uni0079.p	16165
+1	U+007A	z	Basic Latin	uni007A.p	16166
+1	U+007B	{	Basic Latin	uni007B.p	16167
+1	U+007C	|	Basic Latin	uni007C.p	16168
+1	U+007D	}	Basic Latin	uni007D.p	16169
+1	U+007E	~	Basic Latin	uni007E.p	16170
+1	U+00A0	<NO-BREAK SPACE>	Latin-1 Supplement	uni00A0.p	16171
+1	U+00A1	¡	Latin-1 Supplement	uni00A1.p	16172
+1	U+00A2	¢	Latin-1 Supplement	uni00A2.p	16173
+1	U+00A3	£	Latin-1 Supplement	uni00A3.p	16174
+1	U+00A4	¤	Latin-1 Supplement	uni00A4.p	16175
+1	U+00A5	¥	Latin-1 Supplement	uni00A5.p	16176
+1	U+00A6	¦	Latin-1 Supplement	uni00A6.p	16177
+1	U+00A7	§	Latin-1 Supplement	uni00A7.p	16178
+1	U+00A8	¨	Latin-1 Supplement	uni00A8.p	16179
+1	U+00A9	©	Latin-1 Supplement	uni00A9.p	16180
+1	U+00AA	ª	Latin-1 Supplement	uni00AA.p	16181
+1	U+00AB	«	Latin-1 Supplement	uni00AB.p	16182
+1	U+00AC	¬	Latin-1 Supplement	uni00AC.p	16183
+1	U+00AD	<SOFT HYPHEN>	Latin-1 Supplement	uni00AD.p	16184
+1	U+00AE	®	Latin-1 Supplement	uni00AE.p	16185
+1	U+00AF	¯	Latin-1 Supplement	uni00AF.p	16186
+1	U+00B0	°	Latin-1 Supplement	uni00B0.p	16187
+1	U+00B1	±	Latin-1 Supplement	uni00B1.p	16188
+1	U+00B2	²	Latin-1 Supplement	uni00B2.p	16189
+1	U+00B3	³	Latin-1 Supplement	uni00B3.p	16190
+1	U+00B4	´	Latin-1 Supplement	uni00B4.p	16191
+1	U+00B5	µ	Latin-1 Supplement	uni00B5.p	16192
+1	U+00B6	¶	Latin-1 Supplement	uni00B6.p	16193
+1	U+00B7	·	Latin-1 Supplement	uni00B7.p	16194
+1	U+00B8	¸	Latin-1 Supplement	uni00B8.p	16195
+1	U+00B9	¹	Latin-1 Supplement	uni00B9.p	16196
+1	U+00BA	º	Latin-1 Supplement	uni00BA.p	16197
+1	U+00BB	»	Latin-1 Supplement	uni00BB.p	16198
+1	U+00BC	¼	Latin-1 Supplement	uni00BC.p	16199
+1	U+00BD	½	Latin-1 Supplement	uni00BD.p	16200
+1	U+00BE	¾	Latin-1 Supplement	uni00BE.p	16201
+1	U+00BF	¿	Latin-1 Supplement	uni00BF.p	16202
+1	U+00C0	À	Latin-1 Supplement	uni00C0.p	16203
+1	U+00C1	Á	Latin-1 Supplement	uni00C1.p	16204
+1	U+00C2	Â	Latin-1 Supplement	uni00C2.p	16205
+1	U+00C3	Ã	Latin-1 Supplement	uni00C3.p	16206
+1	U+00C4	Ä	Latin-1 Supplement	uni00C4.p	16207
+1	U+00C5	Å	Latin-1 Supplement	uni00C5.p	16208
+1	U+00C6	Æ	Latin-1 Supplement	uni00C6.p	16209
+1	U+00C7	Ç	Latin-1 Supplement	uni00C7.p	16210
+1	U+00C8	È	Latin-1 Supplement	uni00C8.p	16211
+1	U+00C9	É	Latin-1 Supplement	uni00C9.p	16212
+1	U+00CA	Ê	Latin-1 Supplement	uni00CA.p	16213
+1	U+00CB	Ë	Latin-1 Supplement	uni00CB.p	16214
+1	U+00CC	Ì	Latin-1 Supplement	uni00CC.p	16215
+1	U+00CD	Í	Latin-1 Supplement	uni00CD.p	16216
+1	U+00CE	Î	Latin-1 Supplement	uni00CE.p	16217
+1	U+00CF	Ï	Latin-1 Supplement	uni00CF.p	16218
+1	U+00D0	Ð	Latin-1 Supplement	uni00D0.p	16219
+1	U+00D1	Ñ	Latin-1 Supplement	uni00D1.p	16220
+1	U+00D2	Ò	Latin-1 Supplement	uni00D2.p	16221
+1	U+00D3	Ó	Latin-1 Supplement	uni00D3.p	16222
+1	U+00D4	Ô	Latin-1 Supplement	uni00D4.p	16223
+1	U+00D5	Õ	Latin-1 Supplement	uni00D5.p	16224
+1	U+00D6	Ö	Latin-1 Supplement	uni00D6.p	16225
+1	U+00D7	×	Latin-1 Supplement	uni00D7.p	16226
+1	U+00D8	Ø	Latin-1 Supplement	uni00D8.p	16227
+1	U+00D9	Ù	Latin-1 Supplement	uni00D9.p	16228
+1	U+00DA	Ú	Latin-1 Supplement	uni00DA.p	16229
+1	U+00DB	Û	Latin-1 Supplement	uni00DB.p	16230
+1	U+00DC	Ü	Latin-1 Supplement	uni00DC.p	16231
+1	U+00DD	Ý	Latin-1 Supplement	uni00DD.p	16232
+1	U+00DE	Þ	Latin-1 Supplement	uni00DE.p	16233
+1	U+00DF	ß	Latin-1 Supplement	uni00DF.p	16234
+1	U+00E0	à	Latin-1 Supplement	uni00E0.p	16235
+1	U+00E1	á	Latin-1 Supplement	uni00E1.p	16236
+1	U+00E2	â	Latin-1 Supplement	uni00E2.p	16237
+1	U+00E3	ã	Latin-1 Supplement	uni00E3.p	16238
+1	U+00E4	ä	Latin-1 Supplement	uni00E4.p	16239
+1	U+00E5	å	Latin-1 Supplement	uni00E5.p	16240
+1	U+00E6	æ	Latin-1 Supplement	uni00E6.p	16241
+1	U+00E7	ç	Latin-1 Supplement	uni00E7.p	16242
+1	U+00E8	è	Latin-1 Supplement	uni00E8.p	16243
+1	U+00E9	é	Latin-1 Supplement	uni00E9.p	16244
+1	U+00EA	ê	Latin-1 Supplement	uni00EA.p	16245
+1	U+00EB	ë	Latin-1 Supplement	uni00EB.p	16246
+1	U+00EC	ì	Latin-1 Supplement	uni00EC.p	16247
+1	U+00ED	í	Latin-1 Supplement	uni00ED.p	16248
+1	U+00EE	î	Latin-1 Supplement	uni00EE.p	16249
+1	U+00EF	ï	Latin-1 Supplement	uni00EF.p	16250
+1	U+00F0	ð	Latin-1 Supplement	uni00F0.p	16251
+1	U+00F1	ñ	Latin-1 Supplement	uni00F1.p	16252
+1	U+00F2	ò	Latin-1 Supplement	uni00F2.p	16253
+1	U+00F3	ó	Latin-1 Supplement	uni00F3.p	16254
+1	U+00F4	ô	Latin-1 Supplement	uni00F4.p	16255
+1	U+00F5	õ	Latin-1 Supplement	uni00F5.p	16256
+1	U+00F6	ö	Latin-1 Supplement	uni00F6.p	16257
+1	U+00F7	÷	Latin-1 Supplement	uni00F7.p	16258
+1	U+00F8	ø	Latin-1 Supplement	uni00F8.p	16259
+1	U+00F9	ù	Latin-1 Supplement	uni00F9.p	16260
+1	U+00FA	ú	Latin-1 Supplement	uni00FA.p	16261
+1	U+00FB	û	Latin-1 Supplement	uni00FB.p	16262
+1	U+00FC	ü	Latin-1 Supplement	uni00FC.p	16263
+1	U+00FD	ý	Latin-1 Supplement	uni00FD.p	16264
+1	U+00FE	þ	Latin-1 Supplement	uni00FE.p	16265
+1	U+00FF	ÿ	Latin-1 Supplement	uni00FF.p	16266
+1	U+0100	Ā	Latin Extended-A	uni0100.p	16267
+1	U+0101	ā	Latin Extended-A	uni0101.p	16268
+1	U+0102	Ă	Latin Extended-A	uni0102.p	16269
+1	U+0103	ă	Latin Extended-A	uni0103.p	16270
+1	U+0104	Ą	Latin Extended-A	uni0104.p	16271
+1	U+0105	ą	Latin Extended-A	uni0105.p	16272
+1	U+0106	Ć	Latin Extended-A	uni0106.p	16273
+1	U+0107	ć	Latin Extended-A	uni0107.p	16274
+1	U+0108	Ĉ	Latin Extended-A	uni0108.p	16275
+1	U+0109	ĉ	Latin Extended-A	uni0109.p	16276
+1	U+010A	Ċ	Latin Extended-A	uni010A.p	16277
+1	U+010B	ċ	Latin Extended-A	uni010B.p	16278
+1	U+010C	Č	Latin Extended-A	uni010C.p	16279
+1	U+010D	č	Latin Extended-A	uni010D.p	16280
+1	U+010E	Ď	Latin Extended-A	uni010E.p	16281
+1	U+010F	ď	Latin Extended-A	uni010F.p	16282
+1	U+0110	Đ	Latin Extended-A	uni0110.p	16283
+1	U+0111	đ	Latin Extended-A	uni0111.p	16284
+1	U+0112	Ē	Latin Extended-A	uni0112.p	16285
+1	U+0113	ē	Latin Extended-A	uni0113.p	16286
+1	U+0114	Ĕ	Latin Extended-A	uni0114.p	16287
+1	U+0115	ĕ	Latin Extended-A	uni0115.p	16288
+1	U+0116	Ė	Latin Extended-A	uni0116.p	16289
+1	U+0117	ė	Latin Extended-A	uni0117.p	16290
+1	U+0118	Ę	Latin Extended-A	uni0118.p	16291
+1	U+0119	ę	Latin Extended-A	uni0119.p	16292
+1	U+011A	Ě	Latin Extended-A	uni011A.p	16293
+1	U+011B	ě	Latin Extended-A	uni011B.p	16294
+1	U+011C	Ĝ	Latin Extended-A	uni011C.p	16295
+1	U+011D	ĝ	Latin Extended-A	uni011D.p	16296
+1	U+011E	Ğ	Latin Extended-A	uni011E.p	16297
+1	U+011F	ğ	Latin Extended-A	uni011F.p	16298
+1	U+0120	Ġ	Latin Extended-A	uni0120.p	16299
+1	U+0121	ġ	Latin Extended-A	uni0121.p	16300
+1	U+0122	Ģ	Latin Extended-A	uni0122.p	16301
+1	U+0123	ģ	Latin Extended-A	uni0123.p	16302
+1	U+0124	Ĥ	Latin Extended-A	uni0124.p	16303
+1	U+0125	ĥ	Latin Extended-A	uni0125.p	16304
+1	U+0126	Ħ	Latin Extended-A	uni0126.p	16305
+1	U+0127	ħ	Latin Extended-A	uni0127.p	16306
+1	U+0128	Ĩ	Latin Extended-A	uni0128.p	16307
+1	U+0129	ĩ	Latin Extended-A	uni0129.p	16308
+1	U+012A	Ī	Latin Extended-A	uni012A.p	16309
+1	U+012B	ī	Latin Extended-A	uni012B.p	16310
+1	U+012C	Ĭ	Latin Extended-A	uni012C.p	16311
+1	U+012D	ĭ	Latin Extended-A	uni012D.p	16312
+1	U+012E	Į	Latin Extended-A	uni012E.p	16313
+1	U+012F	į	Latin Extended-A	uni012F.p	16314
+1	U+0130	İ	Latin Extended-A	uni0130.p	16315
+1	U+0131	ı	Latin Extended-A	uni0131.p	16316
+1	U+0132	Ĳ	Latin Extended-A	uni0132.p	16317
+1	U+0133	ĳ	Latin Extended-A	uni0133.p	16318
+1	U+0134	Ĵ	Latin Extended-A	uni0134.p	16319
+1	U+0135	ĵ	Latin Extended-A	uni0135.p	16320
+1	U+0136	Ķ	Latin Extended-A	uni0136.p	16321
+1	U+0137	ķ	Latin Extended-A	uni0137.p	16322
+1	U+0138	ĸ	Latin Extended-A	uni0138.p	16323
+1	U+0139	Ĺ	Latin Extended-A	uni0139.p	16324
+1	U+013A	ĺ	Latin Extended-A	uni013A.p	16325
+1	U+013B	Ļ	Latin Extended-A	uni013B.p	16326
+1	U+013C	ļ	Latin Extended-A	uni013C.p	16327
+1	U+013D	Ľ	Latin Extended-A	uni013D.p	16328
+1	U+013E	ľ	Latin Extended-A	uni013E.p	16329
+1	U+013F	Ŀ	Latin Extended-A	uni013F.p	16330
+1	U+0140	ŀ	Latin Extended-A	uni0140.p	16331
+1	U+0141	Ł	Latin Extended-A	uni0141.p	16332
+1	U+0142	ł	Latin Extended-A	uni0142.p	16333
+1	U+0143	Ń	Latin Extended-A	uni0143.p	16334
+1	U+0144	ń	Latin Extended-A	uni0144.p	16335
+1	U+0145	Ņ	Latin Extended-A	uni0145.p	16336
+1	U+0146	ņ	Latin Extended-A	uni0146.p	16337
+1	U+0147	Ň	Latin Extended-A	uni0147.p	16338
+1	U+0148	ň	Latin Extended-A	uni0148.p	16339
+1	U+0149	ŉ	Latin Extended-A	uni0149.p	16340
+1	U+014A	Ŋ	Latin Extended-A	uni014A.p	16341
+1	U+014B	ŋ	Latin Extended-A	uni014B.p	16342
+1	U+014C	Ō	Latin Extended-A	uni014C.p	16343
+1	U+014D	ō	Latin Extended-A	uni014D.p	16344
+1	U+014E	Ŏ	Latin Extended-A	uni014E.p	16345
+1	U+014F	ŏ	Latin Extended-A	uni014F.p	16346
+1	U+0150	Ő	Latin Extended-A	uni0150.p	16347
+1	U+0151	ő	Latin Extended-A	uni0151.p	16348
+1	U+0152	Œ	Latin Extended-A	uni0152.p	16349
+1	U+0153	œ	Latin Extended-A	uni0153.p	16350
+1	U+0154	Ŕ	Latin Extended-A	uni0154.p	16351
+1	U+0155	ŕ	Latin Extended-A	uni0155.p	16352
+1	U+0156	Ŗ	Latin Extended-A	uni0156.p	16353
+1	U+0157	ŗ	Latin Extended-A	uni0157.p	16354
+1	U+0158	Ř	Latin Extended-A	uni0158.p	16355
+1	U+0159	ř	Latin Extended-A	uni0159.p	16356
+1	U+015A	Ś	Latin Extended-A	uni015A.p	16357
+1	U+015B	ś	Latin Extended-A	uni015B.p	16358
+1	U+015C	Ŝ	Latin Extended-A	uni015C.p	16359
+1	U+015D	ŝ	Latin Extended-A	uni015D.p	16360
+1	U+015E	Ş	Latin Extended-A	uni015E.p	16361
+1	U+015F	ş	Latin Extended-A	uni015F.p	16362
+1	U+0160	Š	Latin Extended-A	uni0160.p	16363
+1	U+0161	š	Latin Extended-A	uni0161.p	16364
+1	U+0162	Ţ	Latin Extended-A	uni0162.p	16365
+1	U+0163	ţ	Latin Extended-A	uni0163.p	16366
+1	U+0164	Ť	Latin Extended-A	uni0164.p	16367
+1	U+0165	ť	Latin Extended-A	uni0165.p	16368
+1	U+0166	Ŧ	Latin Extended-A	uni0166.p	16369
+1	U+0167	ŧ	Latin Extended-A	uni0167.p	16370
+1	U+0168	Ũ	Latin Extended-A	uni0168.p	16371
+1	U+0169	ũ	Latin Extended-A	uni0169.p	16372
+1	U+016A	Ū	Latin Extended-A	uni016A.p	16373
+1	U+016B	ū	Latin Extended-A	uni016B.p	16374
+1	U+016C	Ŭ	Latin Extended-A	uni016C.p	16375
+1	U+016D	ŭ	Latin Extended-A	uni016D.p	16376
+1	U+016E	Ů	Latin Extended-A	uni016E.p	16377
+1	U+016F	ů	Latin Extended-A	uni016F.p	16378
+1	U+0170	Ű	Latin Extended-A	uni0170.p	16379
+1	U+0171	ű	Latin Extended-A	uni0171.p	16380
+1	U+0172	Ų	Latin Extended-A	uni0172.p	16381
+1	U+0173	ų	Latin Extended-A	uni0173.p	16382
+1	U+0174	Ŵ	Latin Extended-A	uni0174.p	16383
+1	U+0175	ŵ	Latin Extended-A	uni0175.p	16384
+1	U+0176	Ŷ	Latin Extended-A	uni0176.p	16385
+1	U+0177	ŷ	Latin Extended-A	uni0177.p	16386
+1	U+0178	Ÿ	Latin Extended-A	uni0178.p	16387
+1	U+0179	Ź	Latin Extended-A	uni0179.p	16388
+1	U+017A	ź	Latin Extended-A	uni017A.p	16389
+1	U+017B	Ż	Latin Extended-A	uni017B.p	16390
+1	U+017C	ż	Latin Extended-A	uni017C.p	16391
+1	U+017D	Ž	Latin Extended-A	uni017D.p	16392
+1	U+017E	ž	Latin Extended-A	uni017E.p	16393
+1	U+017F	ſ	Latin Extended-A	uni017F.p	16394
+1	U+0192	ƒ	Latin Extended-B	uni0192.p	16395
+1	U+0193	Ɠ	Latin Extended-B	uni0193.p	16396
+1	U+01C2	ǂ	Latin Extended-B	uni01C2.p	16397
+1	U+01CD	Ǎ	Latin Extended-B	uni01CD	325
+1	U+01CE	ǎ	Latin Extended-B	uni01CE	326
+1	U+01CF	Ǐ	Latin Extended-B	uni01CF	327
+1	U+01D0	ǐ	Latin Extended-B	uni01D0	328
+1	U+01D1	Ǒ	Latin Extended-B	uni01D1	329
+1	U+01D2	ǒ	Latin Extended-B	uni01D2	330
+1	U+01D3	Ǔ	Latin Extended-B	uni01D3	331
+1	U+01D4	ǔ	Latin Extended-B	uni01D4	332
+1	U+01D5	Ǖ	Latin Extended-B	uni01D5	333
+1	U+01D6	ǖ	Latin Extended-B	uni01D6	334
+1	U+01D7	Ǘ	Latin Extended-B	uni01D7	335
+1	U+01D8	ǘ	Latin Extended-B	uni01D8	336
+1	U+01D9	Ǚ	Latin Extended-B	uni01D9	337
+1	U+01DA	ǚ	Latin Extended-B	uni01DA	338
+1	U+01DB	Ǜ	Latin Extended-B	uni01DB	339
+1	U+01DC	ǜ	Latin Extended-B	uni01DC	340
+1	U+01F5	ǵ	Latin Extended-B	uni01F5	341
+1	U+01F8	Ǹ	Latin Extended-B	uni01F8.p	16398
+1	U+01F9	ǹ	Latin Extended-B	uni01F9.p	16399
+1	U+01FA	Ǻ	Latin Extended-B	uni01FA.p	16400
+1	U+01FB	ǻ	Latin Extended-B	uni01FB.p	16401
+1	U+01FC	Ǽ	Latin Extended-B	uni01FC.p	16402
+1	U+01FD	ǽ	Latin Extended-B	uni01FD.p	16403
+1	U+01FE	Ǿ	Latin Extended-B	uni01FE.p	16404
+1	U+01FF	ǿ	Latin Extended-B	uni01FF.p	16405
+1	U+0250	ɐ	IPA Extensions	uni0250.p	16406
+1	U+0251	ɑ	IPA Extensions	uni0251.p	16407
+1	U+0252	ɒ	IPA Extensions	uni0252.p	16408
+1	U+0253	ɓ	IPA Extensions	uni0253.p	16409
+1	U+0254	ɔ	IPA Extensions	uni0254.p	16410
+1	U+0255	ɕ	IPA Extensions	uni0255.p	16411
+1	U+0256	ɖ	IPA Extensions	uni0256.p	16412
+1	U+0257	ɗ	IPA Extensions	uni0257.p	16413
+1	U+0258	ɘ	IPA Extensions	uni0258.p	16414
+1	U+0259	ə	IPA Extensions	uni0259.p	16415
+1	U+025A	ɚ	IPA Extensions	uni025A.p	16416
+1	U+025B	ɛ	IPA Extensions	uni025B.p	16417
+1	U+025C	ɜ	IPA Extensions	uni025C.p	16418
+1	U+025D	ɝ	IPA Extensions	uni025D.p	16419
+1	U+025E	ɞ	IPA Extensions	uni025E.p	16420
+1	U+025F	ɟ	IPA Extensions	uni025F.p	16421
+1	U+0260	ɠ	IPA Extensions	uni0260.p	16422
+1	U+0261	ɡ	IPA Extensions	uni0261.p	16423
+1	U+0262	ɢ	IPA Extensions	uni0262.p	16424
+1	U+0263	ɣ	IPA Extensions	uni0263.p	16425
+1	U+0264	ɤ	IPA Extensions	uni0264.p	16426
+1	U+0265	ɥ	IPA Extensions	uni0265.p	16427
+1	U+0266	ɦ	IPA Extensions	uni0266.p	16428
+1	U+0267	ɧ	IPA Extensions	uni0267.p	16429
+1	U+0268	ɨ	IPA Extensions	uni0268.p	16430
+1	U+0269	ɩ	IPA Extensions	uni0269.p	16431
+1	U+026A	ɪ	IPA Extensions	uni026A.p	16432
+1	U+026B	ɫ	IPA Extensions	uni026B.p	16433
+1	U+026C	ɬ	IPA Extensions	uni026C.p	16434
+1	U+026D	ɭ	IPA Extensions	uni026D.p	16435
+1	U+026E	ɮ	IPA Extensions	uni026E.p	16436
+1	U+026F	ɯ	IPA Extensions	uni026F.p	16437
+1	U+0270	ɰ	IPA Extensions	uni0270.p	16438
+1	U+0271	ɱ	IPA Extensions	uni0271.p	16439
+1	U+0272	ɲ	IPA Extensions	uni0272.p	16440
+1	U+0273	ɳ	IPA Extensions	uni0273.p	16441
+1	U+0274	ɴ	IPA Extensions	uni0274.p	16442
+1	U+0275	ɵ	IPA Extensions	uni0275.p	16443
+1	U+0276	ɶ	IPA Extensions	uni0276.p	16444
+1	U+0277	ɷ	IPA Extensions	uni0277.p	16445
+1	U+0278	ɸ	IPA Extensions	uni0278.p	16446
+1	U+0279	ɹ	IPA Extensions	uni0279.p	16447
+1	U+027A	ɺ	IPA Extensions	uni027A.p	16448
+1	U+027B	ɻ	IPA Extensions	uni027B.p	16449
+1	U+027C	ɼ	IPA Extensions	uni027C.p	16450
+1	U+027D	ɽ	IPA Extensions	uni027D.p	16451
+1	U+027E	ɾ	IPA Extensions	uni027E.p	16452
+1	U+027F	ɿ	IPA Extensions	uni027F.p	16453
+1	U+0280	ʀ	IPA Extensions	uni0280.p	16454
+1	U+0281	ʁ	IPA Extensions	uni0281.p	16455
+1	U+0282	ʂ	IPA Extensions	uni0282.p	16456
+1	U+0283	ʃ	IPA Extensions	uni0283.p	16457
+1	U+0284	ʄ	IPA Extensions	uni0284.p	16458
+1	U+0285	ʅ	IPA Extensions	uni0285.p	16459
+1	U+0286	ʆ	IPA Extensions	uni0286.p	16460
+1	U+0287	ʇ	IPA Extensions	uni0287.p	16461
+1	U+0288	ʈ	IPA Extensions	uni0288.p	16462
+1	U+0289	ʉ	IPA Extensions	uni0289.p	16463
+1	U+028A	ʊ	IPA Extensions	uni028A.p	16464
+1	U+028B	ʋ	IPA Extensions	uni028B.p	16465
+1	U+028C	ʌ	IPA Extensions	uni028C.p	16466
+1	U+028D	ʍ	IPA Extensions	uni028D.p	16467
+1	U+028E	ʎ	IPA Extensions	uni028E.p	16468
+1	U+028F	ʏ	IPA Extensions	uni028F.p	16469
+1	U+0290	ʐ	IPA Extensions	uni0290.p	16470
+1	U+0291	ʑ	IPA Extensions	uni0291.p	16471
+1	U+0292	ʒ	IPA Extensions	uni0292.p	16472
+1	U+0293	ʓ	IPA Extensions	uni0293.p	16473
+1	U+0294	ʔ	IPA Extensions	uni0294.p	16474
+1	U+0295	ʕ	IPA Extensions	uni0295.p	16475
+1	U+0296	ʖ	IPA Extensions	uni0296.p	16476
+1	U+0297	ʗ	IPA Extensions	uni0297.p	16477
+1	U+0298	ʘ	IPA Extensions	uni0298.p	16478
+1	U+0299	ʙ	IPA Extensions	uni0299.p	16479
+1	U+029A	ʚ	IPA Extensions	uni029A.p	16480
+1	U+029B	ʛ	IPA Extensions	uni029B.p	16481
+1	U+029C	ʜ	IPA Extensions	uni029C.p	16482
+1	U+029D	ʝ	IPA Extensions	uni029D.p	16483
+1	U+029E	ʞ	IPA Extensions	uni029E.p	16484
+1	U+029F	ʟ	IPA Extensions	uni029F.p	16485
+1	U+02A0	ʠ	IPA Extensions	uni02A0.p	16486
+1	U+02A1	ʡ	IPA Extensions	uni02A1.p	16487
+1	U+02A2	ʢ	IPA Extensions	uni02A2.p	16488
+1	U+02A3	ʣ	IPA Extensions	uni02A3.p	16489
+1	U+02A4	ʤ	IPA Extensions	uni02A4.p	16490
+1	U+02A5	ʥ	IPA Extensions	uni02A5.p	16491
+1	U+02A6	ʦ	IPA Extensions	uni02A6.p	16492
+1	U+02A7	ʧ	IPA Extensions	uni02A7.p	16493
+1	U+02A8	ʨ	IPA Extensions	uni02A8.p	16494
+1	U+02C6	ˆ	Spacing Modifier Letters	uni02C6.p	16495
+1	U+02C7	ˇ	Spacing Modifier Letters	uni02C7.p	16496
+1	U+02C8	ˈ	Spacing Modifier Letters	uni02C8.p	16497
+1	U+02C9	ˉ	Spacing Modifier Letters	uni02C9.p	16498
+1	U+02CC	ˌ	Spacing Modifier Letters	uni02CC.p	16499
+1	U+02D0	ː	Spacing Modifier Letters	uni02D0.p	16500
+1	U+02D1	ˑ	Spacing Modifier Letters	uni02D1.p	16501
+1	U+02D8	˘	Spacing Modifier Letters	uni02D8.p	16502
+1	U+02D9	˙	Spacing Modifier Letters	uni02D9.p	16503
+1	U+02DA	˚	Spacing Modifier Letters	uni02DA.p	16504
+1	U+02DB	˛	Spacing Modifier Letters	uni02DB.p	16505
+1	U+02DC	˜	Spacing Modifier Letters	uni02DC.p	16506
+1	U+02DD	˝	Spacing Modifier Letters	uni02DD.p	16507
+1	U+02DE	˞	Spacing Modifier Letters	uni02DE.p	16508
+1	U+02E5	˥	Spacing Modifier Letters	uni02E5.p	16509
+1	U+02E6	˦	Spacing Modifier Letters	uni02E6.p	16510
+1	U+02E7	˧	Spacing Modifier Letters	uni02E7.p	16511
+1	U+02E8	˨	Spacing Modifier Letters	uni02E8.p	16512
+1	U+02E9	˩	Spacing Modifier Letters	uni02E9.p	16513
+1	U+0300	<COMBINING GRAVE ACCENT>	Combining Diacritical Marks	uni0300.p	16514
+1	U+0301	<COMBINING ACUTE ACCENT>	Combining Diacritical Marks	uni0301.p	16515
+1	U+0302	<COMBINING CIRCUMFLEX ACCENT>	Combining Diacritical Marks	uni0302.p	16516
+1	U+0303	<COMBINING TILDE>	Combining Diacritical Marks	uni0303.p	16517
+1	U+0304	<COMBINING MACRON>	Combining Diacritical Marks	uni0304.p	16518
+1	U+0306	<COMBINING BREVE>	Combining Diacritical Marks	uni0306.p	16519
+1	U+0308	<COMBINING DIAERESIS>	Combining Diacritical Marks	uni0308.p	16520
+1	U+030B	<COMBINING DOUBLE ACUTE ACCENT>	Combining Diacritical Marks	uni030B.p	16521
+1	U+030C	<COMBINING CARON>	Combining Diacritical Marks	uni030C.p	16522
+1	U+030F	<COMBINING DOUBLE GRAVE ACCENT>	Combining Diacritical Marks	uni030F.p	16523
+1	U+0318	<COMBINING LEFT TACK BELOW>	Combining Diacritical Marks	uni0318.p	16524
+1	U+0319	<COMBINING RIGHT TACK BELOW>	Combining Diacritical Marks	uni0319.p	16525
+1	U+031A	<COMBINING LEFT ANGLE ABOVE>	Combining Diacritical Marks	uni031A.p	16526
+1	U+031C	<COMBINING LEFT HALF RING BELOW>	Combining Diacritical Marks	uni031C.p	16527
+1	U+031D	<COMBINING UP TACK BELOW>	Combining Diacritical Marks	uni031D.p	16528
+1	U+031E	<COMBINING DOWN TACK BELOW>	Combining Diacritical Marks	uni031E.p	16529
+1	U+031F	<COMBINING PLUS SIGN BELOW>	Combining Diacritical Marks	uni031F.p	16530
+1	U+0320	<COMBINING MINUS SIGN BELOW>	Combining Diacritical Marks	uni0320.p	16531
+1	U+0324	<COMBINING DIAERESIS BELOW>	Combining Diacritical Marks	uni0324.p	16532
+1	U+0325	<COMBINING RING BELOW>	Combining Diacritical Marks	uni0325.p	16533
+1	U+0329	<COMBINING VERTICAL LINE BELOW>	Combining Diacritical Marks	uni0329.p	16534
+1	U+032A	<COMBINING BRIDGE BELOW>	Combining Diacritical Marks	uni032A.p	16535
+1	U+032C	<COMBINING CARON BELOW>	Combining Diacritical Marks	uni032C.p	16536
+1	U+032F	<COMBINING INVERTED BREVE BELOW>	Combining Diacritical Marks	uni032F.p	16537
+1	U+0330	<COMBINING TILDE BELOW>	Combining Diacritical Marks	uni0330.p	16538
+1	U+0334	<COMBINING TILDE OVERLAY>	Combining Diacritical Marks	uni0334.p	16539
+1	U+0339	<COMBINING RIGHT HALF RING BELOW>	Combining Diacritical Marks	uni0339.p	16540
+1	U+033A	<COMBINING INVERTED BRIDGE BELOW>	Combining Diacritical Marks	uni033A.p	16541
+1	U+033B	<COMBINING SQUARE BELOW>	Combining Diacritical Marks	uni033B.p	16542
+1	U+033C	<COMBINING SEAGULL BELOW>	Combining Diacritical Marks	uni033C.p	16543
+1	U+033D	<COMBINING X ABOVE>	Combining Diacritical Marks	uni033D.p	16544
+1	U+0361	<COMBINING DOUBLE INVERTED BREVE>	Combining Diacritical Marks	uni0361.p	16545
+1	U+0374	ʹ	Greek and Coptic	uni0374.p	16546
+1	U+0375	͵	Greek and Coptic	uni0375.p	16547
+1	U+037A	ͺ	Greek and Coptic	uni037A.p	16548
+1	U+037E	;	Greek and Coptic	uni037E.p	16549
+1	U+0384	΄	Greek and Coptic	uni0384.p	16550
+1	U+0385	΅	Greek and Coptic	uni0385.p	16551
+1	U+0386	Ά	Greek and Coptic	uni0386.p	16552
+1	U+0387	·	Greek and Coptic	uni0387.p	16553
+1	U+0388	Έ	Greek and Coptic	uni0388.p	16554
+1	U+0389	Ή	Greek and Coptic	uni0389.p	16555
+1	U+038A	Ί	Greek and Coptic	uni038A.p	16556
+1	U+038C	Ό	Greek and Coptic	uni038C.p	16557
+1	U+038E	Ύ	Greek and Coptic	uni038E.p	16558
+1	U+038F	Ώ	Greek and Coptic	uni038F.p	16559
+1	U+0390	ΐ	Greek and Coptic	uni0390.p	16560
+1	U+0391	Α	Greek and Coptic	uni0391.p	16561
+1	U+0392	Β	Greek and Coptic	uni0392.p	16562
+1	U+0393	Γ	Greek and Coptic	uni0393.p	16563
+1	U+0394	Δ	Greek and Coptic	uni0394.p	16564
+1	U+0395	Ε	Greek and Coptic	uni0395.p	16565
+1	U+0396	Ζ	Greek and Coptic	uni0396.p	16566
+1	U+0397	Η	Greek and Coptic	uni0397.p	16567
+1	U+0398	Θ	Greek and Coptic	uni0398.p	16568
+1	U+0399	Ι	Greek and Coptic	uni0399.p	16569
+1	U+039A	Κ	Greek and Coptic	uni039A.p	16570
+1	U+039B	Λ	Greek and Coptic	uni039B.p	16571
+1	U+039C	Μ	Greek and Coptic	uni039C.p	16572
+1	U+039D	Ν	Greek and Coptic	uni039D.p	16573
+1	U+039E	Ξ	Greek and Coptic	uni039E.p	16574
+1	U+039F	Ο	Greek and Coptic	uni039F.p	16575
+1	U+03A0	Π	Greek and Coptic	uni03A0.p	16576
+1	U+03A1	Ρ	Greek and Coptic	uni03A1.p	16577
+1	U+03A3	Σ	Greek and Coptic	uni03A3.p	16578
+1	U+03A4	Τ	Greek and Coptic	uni03A4.p	16579
+1	U+03A5	Υ	Greek and Coptic	uni03A5.p	16580
+1	U+03A6	Φ	Greek and Coptic	uni03A6.p	16581
+1	U+03A7	Χ	Greek and Coptic	uni03A7.p	16582
+1	U+03A8	Ψ	Greek and Coptic	uni03A8.p	16583
+1	U+03A9	Ω	Greek and Coptic	uni03A9.p	16584
+1	U+03AA	Ϊ	Greek and Coptic	uni03AA.p	16585
+1	U+03AB	Ϋ	Greek and Coptic	uni03AB.p	16586
+1	U+03AC	ά	Greek and Coptic	uni03AC.p	16587
+1	U+03AD	έ	Greek and Coptic	uni03AD.p	16588
+1	U+03AE	ή	Greek and Coptic	uni03AE.p	16589
+1	U+03AF	ί	Greek and Coptic	uni03AF.p	16590
+1	U+03B0	ΰ	Greek and Coptic	uni03B0.p	16591
+1	U+03B1	α	Greek and Coptic	uni03B1.p	16592
+1	U+03B2	β	Greek and Coptic	uni03B2.p	16593
+1	U+03B3	γ	Greek and Coptic	uni03B3.p	16594
+1	U+03B4	δ	Greek and Coptic	uni03B4.p	16595
+1	U+03B5	ε	Greek and Coptic	uni03B5.p	16596
+1	U+03B6	ζ	Greek and Coptic	uni03B6.p	16597
+1	U+03B7	η	Greek and Coptic	uni03B7.p	16598
+1	U+03B8	θ	Greek and Coptic	uni03B8.p	16599
+1	U+03B9	ι	Greek and Coptic	uni03B9.p	16600
+1	U+03BA	κ	Greek and Coptic	uni03BA.p	16601
+1	U+03BB	λ	Greek and Coptic	uni03BB.p	16602
+1	U+03BC	μ	Greek and Coptic	uni03BC.p	16603
+1	U+03BD	ν	Greek and Coptic	uni03BD.p	16604
+1	U+03BE	ξ	Greek and Coptic	uni03BE.p	16605
+1	U+03BF	ο	Greek and Coptic	uni03BF.p	16606
+1	U+03C0	π	Greek and Coptic	uni03C0.p	16607
+1	U+03C1	ρ	Greek and Coptic	uni03C1.p	16608
+1	U+03C2	ς	Greek and Coptic	uni03C2.p	16609
+1	U+03C3	σ	Greek and Coptic	uni03C3.p	16610
+1	U+03C4	τ	Greek and Coptic	uni03C4.p	16611
+1	U+03C5	υ	Greek and Coptic	uni03C5.p	16612
+1	U+03C6	φ	Greek and Coptic	uni03C6.p	16613
+1	U+03C7	χ	Greek and Coptic	uni03C7.p	16614
+1	U+03C8	ψ	Greek and Coptic	uni03C8.p	16615
+1	U+03C9	ω	Greek and Coptic	uni03C9.p	16616
+1	U+03CA	ϊ	Greek and Coptic	uni03CA.p	16617
+1	U+03CB	ϋ	Greek and Coptic	uni03CB.p	16618
+1	U+03CC	ό	Greek and Coptic	uni03CC.p	16619
+1	U+03CD	ύ	Greek and Coptic	uni03CD.p	16620
+1	U+03CE	ώ	Greek and Coptic	uni03CE.p	16621
+1	U+0401	Ё	Cyrillic	uni0401.p	16622
+1	U+0402	Ђ	Cyrillic	uni0402.p	16623
+1	U+0403	Ѓ	Cyrillic	uni0403.p	16624
+1	U+0404	Є	Cyrillic	uni0404.p	16625
+1	U+0405	Ѕ	Cyrillic	uni0405.p	16626
+1	U+0406	І	Cyrillic	uni0406.p	16627
+1	U+0407	Ї	Cyrillic	uni0407.p	16628
+1	U+0408	Ј	Cyrillic	uni0408.p	16629
+1	U+0409	Љ	Cyrillic	uni0409.p	16630
+1	U+040A	Њ	Cyrillic	uni040A.p	16631
+1	U+040B	Ћ	Cyrillic	uni040B.p	16632
+1	U+040C	Ќ	Cyrillic	uni040C.p	16633
+1	U+040E	Ў	Cyrillic	uni040E.p	16634
+1	U+040F	Џ	Cyrillic	uni040F.p	16635
+1	U+0410	А	Cyrillic	uni0410.p	16636
+1	U+0411	Б	Cyrillic	uni0411.p	16637
+1	U+0412	В	Cyrillic	uni0412.p	16638
+1	U+0413	Г	Cyrillic	uni0413.p	16639
+1	U+0414	Д	Cyrillic	uni0414.p	16640
+1	U+0415	Е	Cyrillic	uni0415.p	16641
+1	U+0416	Ж	Cyrillic	uni0416.p	16642
+1	U+0417	З	Cyrillic	uni0417.p	16643
+1	U+0418	И	Cyrillic	uni0418.p	16644
+1	U+0419	Й	Cyrillic	uni0419.p	16645
+1	U+041A	К	Cyrillic	uni041A.p	16646
+1	U+041B	Л	Cyrillic	uni041B.p	16647
+1	U+041C	М	Cyrillic	uni041C.p	16648
+1	U+041D	Н	Cyrillic	uni041D.p	16649
+1	U+041E	О	Cyrillic	uni041E.p	16650
+1	U+041F	П	Cyrillic	uni041F.p	16651
+1	U+0420	Р	Cyrillic	uni0420.p	16652
+1	U+0421	С	Cyrillic	uni0421.p	16653
+1	U+0422	Т	Cyrillic	uni0422.p	16654
+1	U+0423	У	Cyrillic	uni0423.p	16655
+1	U+0424	Ф	Cyrillic	uni0424.p	16656
+1	U+0425	Х	Cyrillic	uni0425.p	16657
+1	U+0426	Ц	Cyrillic	uni0426.p	16658
+1	U+0427	Ч	Cyrillic	uni0427.p	16659
+1	U+0428	Ш	Cyrillic	uni0428.p	16660
+1	U+0429	Щ	Cyrillic	uni0429.p	16661
+1	U+042A	Ъ	Cyrillic	uni042A.p	16662
+1	U+042B	Ы	Cyrillic	uni042B.p	16663
+1	U+042C	Ь	Cyrillic	uni042C.p	16664
+1	U+042D	Э	Cyrillic	uni042D.p	16665
+1	U+042E	Ю	Cyrillic	uni042E.p	16666
+1	U+042F	Я	Cyrillic	uni042F.p	16667
+1	U+0430	а	Cyrillic	uni0430.p	16668
+1	U+0431	б	Cyrillic	uni0431.p	16669
+1	U+0432	в	Cyrillic	uni0432.p	16670
+1	U+0433	г	Cyrillic	uni0433.p	16671
+1	U+0434	д	Cyrillic	uni0434.p	16672
+1	U+0435	е	Cyrillic	uni0435.p	16673
+1	U+0436	ж	Cyrillic	uni0436.p	16674
+1	U+0437	з	Cyrillic	uni0437.p	16675
+1	U+0438	и	Cyrillic	uni0438.p	16676
+1	U+0439	й	Cyrillic	uni0439.p	16677
+1	U+043A	к	Cyrillic	uni043A.p	16678
+1	U+043B	л	Cyrillic	uni043B.p	16679
+1	U+043C	м	Cyrillic	uni043C.p	16680
+1	U+043D	н	Cyrillic	uni043D.p	16681
+1	U+043E	о	Cyrillic	uni043E.p	16682
+1	U+043F	п	Cyrillic	uni043F.p	16683
+1	U+0440	р	Cyrillic	uni0440.p	16684
+1	U+0441	с	Cyrillic	uni0441.p	16685
+1	U+0442	т	Cyrillic	uni0442.p	16686
+1	U+0443	у	Cyrillic	uni0443.p	16687
+1	U+0444	ф	Cyrillic	uni0444.p	16688
+1	U+0445	х	Cyrillic	uni0445.p	16689
+1	U+0446	ц	Cyrillic	uni0446.p	16690
+1	U+0447	ч	Cyrillic	uni0447.p	16691
+1	U+0448	ш	Cyrillic	uni0448.p	16692
+1	U+0449	щ	Cyrillic	uni0449.p	16693
+1	U+044A	ъ	Cyrillic	uni044A.p	16694
+1	U+044B	ы	Cyrillic	uni044B.p	16695
+1	U+044C	ь	Cyrillic	uni044C.p	16696
+1	U+044D	э	Cyrillic	uni044D.p	16697
+1	U+044E	ю	Cyrillic	uni044E.p	16698
+1	U+044F	я	Cyrillic	uni044F.p	16699
+1	U+0451	ё	Cyrillic	uni0451.p	16700
+1	U+0452	ђ	Cyrillic	uni0452.p	16701
+1	U+0453	ѓ	Cyrillic	uni0453.p	16702
+1	U+0454	є	Cyrillic	uni0454.p	16703
+1	U+0455	ѕ	Cyrillic	uni0455.p	16704
+1	U+0456	і	Cyrillic	uni0456.p	16705
+1	U+0457	ї	Cyrillic	uni0457.p	16706
+1	U+0458	ј	Cyrillic	uni0458.p	16707
+1	U+0459	љ	Cyrillic	uni0459.p	16708
+1	U+045A	њ	Cyrillic	uni045A.p	16709
+1	U+045B	ћ	Cyrillic	uni045B.p	16710
+1	U+045C	ќ	Cyrillic	uni045C.p	16711
+1	U+045E	ў	Cyrillic	uni045E.p	16712
+1	U+045F	џ	Cyrillic	uni045F.p	16713
+1	U+0460	Ѡ	Cyrillic	uni0460.p	16714
+1	U+0461	ѡ	Cyrillic	uni0461.p	16715
+1	U+0462	Ѣ	Cyrillic	uni0462.p	16716
+1	U+0463	ѣ	Cyrillic	uni0463.p	16717
+1	U+0464	Ѥ	Cyrillic	uni0464.p	16718
+1	U+0465	ѥ	Cyrillic	uni0465.p	16719
+1	U+0466	Ѧ	Cyrillic	uni0466.p	16720
+1	U+0467	ѧ	Cyrillic	uni0467.p	16721
+1	U+0468	Ѩ	Cyrillic	uni0468.p	16722
+1	U+0469	ѩ	Cyrillic	uni0469.p	16723
+1	U+046A	Ѫ	Cyrillic	uni046A.p	16724
+1	U+046B	ѫ	Cyrillic	uni046B.p	16725
+1	U+046C	Ѭ	Cyrillic	uni046C.p	16726
+1	U+046D	ѭ	Cyrillic	uni046D.p	16727
+1	U+046E	Ѯ	Cyrillic	uni046E.p	16728
+1	U+046F	ѯ	Cyrillic	uni046F.p	16729
+1	U+0470	Ѱ	Cyrillic	uni0470.p	16730
+1	U+0471	ѱ	Cyrillic	uni0471.p	16731
+1	U+0472	Ѳ	Cyrillic	uni0472.p	16732
+1	U+0473	ѳ	Cyrillic	uni0473.p	16733
+1	U+0474	Ѵ	Cyrillic	uni0474.p	16734
+1	U+0475	ѵ	Cyrillic	uni0475.p	16735
+1	U+0476	Ѷ	Cyrillic	uni0476.p	16736
+1	U+0477	ѷ	Cyrillic	uni0477.p	16737
+1	U+0478	Ѹ	Cyrillic	uni0478.p	16738
+1	U+0479	ѹ	Cyrillic	uni0479.p	16739
+1	U+047A	Ѻ	Cyrillic	uni047A.p	16740
+1	U+047B	ѻ	Cyrillic	uni047B.p	16741
+1	U+047C	Ѽ	Cyrillic	uni047C.p	16742
+1	U+047D	ѽ	Cyrillic	uni047D.p	16743
+1	U+047E	Ѿ	Cyrillic	uni047E.p	16744
+1	U+047F	ѿ	Cyrillic	uni047F.p	16745
+1	U+0480	Ҁ	Cyrillic	uni0480.p	16746
+1	U+0481	ҁ	Cyrillic	uni0481.p	16747
+1	U+0482	҂	Cyrillic	uni0482.p	16748
+1	U+0483	<COMBINING CYRILLIC TITLO>	Cyrillic	uni0483.p	16749
+1	U+0484	<COMBINING CYRILLIC PALATALIZATION>	Cyrillic	uni0484.p	16750
+1	U+0485	<COMBINING CYRILLIC DASIA PNEUMATA>	Cyrillic	uni0485.p	16751
+1	U+0486	<COMBINING CYRILLIC PSILI PNEUMATA>	Cyrillic	uni0486.p	16752
+1	U+0490	Ґ	Cyrillic	uni0490.p	16753
+1	U+0491	ґ	Cyrillic	uni0491.p	16754
+1	U+0492	Ғ	Cyrillic	uni0492.p	16755
+1	U+0493	ғ	Cyrillic	uni0493.p	16756
+1	U+0494	Ҕ	Cyrillic	uni0494.p	16757
+1	U+0495	ҕ	Cyrillic	uni0495.p	16758
+1	U+0496	Җ	Cyrillic	uni0496.p	16759
+1	U+0497	җ	Cyrillic	uni0497.p	16760
+1	U+0498	Ҙ	Cyrillic	uni0498.p	16761
+1	U+0499	ҙ	Cyrillic	uni0499.p	16762
+1	U+049A	Қ	Cyrillic	uni049A.p	16763
+1	U+049B	қ	Cyrillic	uni049B.p	16764
+1	U+049C	Ҝ	Cyrillic	uni049C.p	16765
+1	U+049D	ҝ	Cyrillic	uni049D.p	16766
+1	U+049E	Ҟ	Cyrillic	uni049E.p	16767
+1	U+049F	ҟ	Cyrillic	uni049F.p	16768
+1	U+04A0	Ҡ	Cyrillic	uni04A0.p	16769
+1	U+04A1	ҡ	Cyrillic	uni04A1.p	16770
+1	U+04A2	Ң	Cyrillic	uni04A2.p	16771
+1	U+04A3	ң	Cyrillic	uni04A3.p	16772
+1	U+04A4	Ҥ	Cyrillic	uni04A4.p	16773
+1	U+04A5	ҥ	Cyrillic	uni04A5.p	16774
+1	U+04A6	Ҧ	Cyrillic	uni04A6.p	16775
+1	U+04A7	ҧ	Cyrillic	uni04A7.p	16776
+1	U+04A8	Ҩ	Cyrillic	uni04A8.p	16777
+1	U+04A9	ҩ	Cyrillic	uni04A9.p	16778
+1	U+04AA	Ҫ	Cyrillic	uni04AA.p	16779
+1	U+04AB	ҫ	Cyrillic	uni04AB.p	16780
+1	U+04AC	Ҭ	Cyrillic	uni04AC.p	16781
+1	U+04AD	ҭ	Cyrillic	uni04AD.p	16782
+1	U+04AE	Ү	Cyrillic	uni04AE.p	16783
+1	U+04AF	ү	Cyrillic	uni04AF.p	16784
+1	U+04B0	Ұ	Cyrillic	uni04B0.p	16785
+1	U+04B1	ұ	Cyrillic	uni04B1.p	16786
+1	U+04B2	Ҳ	Cyrillic	uni04B2.p	16787
+1	U+04B3	ҳ	Cyrillic	uni04B3.p	16788
+1	U+04B4	Ҵ	Cyrillic	uni04B4.p	16789
+1	U+04B5	ҵ	Cyrillic	uni04B5.p	16790
+1	U+04B6	Ҷ	Cyrillic	uni04B6.p	16791
+1	U+04B7	ҷ	Cyrillic	uni04B7.p	16792
+1	U+04B8	Ҹ	Cyrillic	uni04B8.p	16793
+1	U+04B9	ҹ	Cyrillic	uni04B9.p	16794
+1	U+04BA	Һ	Cyrillic	uni04BA.p	16795
+1	U+04BB	һ	Cyrillic	uni04BB.p	16796
+1	U+04BC	Ҽ	Cyrillic	uni04BC.p	16797
+1	U+04BD	ҽ	Cyrillic	uni04BD.p	16798
+1	U+04BE	Ҿ	Cyrillic	uni04BE.p	16799
+1	U+04BF	ҿ	Cyrillic	uni04BF.p	16800
+1	U+04C0	Ӏ	Cyrillic	uni04C0.p	16801
+1	U+04C1	Ӂ	Cyrillic	uni04C1.p	16802
+1	U+04C2	ӂ	Cyrillic	uni04C2.p	16803
+1	U+04C3	Ӄ	Cyrillic	uni04C3.p	16804
+1	U+04C4	ӄ	Cyrillic	uni04C4.p	16805
+1	U+04C7	Ӈ	Cyrillic	uni04C7.p	16806
+1	U+04C8	ӈ	Cyrillic	uni04C8.p	16807
+1	U+04CB	Ӌ	Cyrillic	uni04CB.p	16808
+1	U+04CC	ӌ	Cyrillic	uni04CC.p	16809
+1	U+04D0	Ӑ	Cyrillic	uni04D0.p	16810
+1	U+04D1	ӑ	Cyrillic	uni04D1.p	16811
+1	U+04D2	Ӓ	Cyrillic	uni04D2.p	16812
+1	U+04D3	ӓ	Cyrillic	uni04D3.p	16813
+1	U+04D4	Ӕ	Cyrillic	uni04D4.p	16814
+1	U+04D5	ӕ	Cyrillic	uni04D5.p	16815
+1	U+04D6	Ӗ	Cyrillic	uni04D6.p	16816
+1	U+04D7	ӗ	Cyrillic	uni04D7.p	16817
+1	U+04D8	Ә	Cyrillic	uni04D8.p	16818
+1	U+04D9	ә	Cyrillic	uni04D9.p	16819
+1	U+04DA	Ӛ	Cyrillic	uni04DA.p	16820
+1	U+04DB	ӛ	Cyrillic	uni04DB.p	16821
+1	U+04DC	Ӝ	Cyrillic	uni04DC.p	16822
+1	U+04DD	ӝ	Cyrillic	uni04DD.p	16823
+1	U+04DE	Ӟ	Cyrillic	uni04DE.p	16824
+1	U+04DF	ӟ	Cyrillic	uni04DF.p	16825
+1	U+04E0	Ӡ	Cyrillic	uni04E0.p	16826
+1	U+04E1	ӡ	Cyrillic	uni04E1.p	16827
+1	U+04E2	Ӣ	Cyrillic	uni04E2.p	16828
+1	U+04E3	ӣ	Cyrillic	uni04E3.p	16829
+1	U+04E4	Ӥ	Cyrillic	uni04E4.p	16830
+1	U+04E5	ӥ	Cyrillic	uni04E5.p	16831
+1	U+04E6	Ӧ	Cyrillic	uni04E6.p	16832
+1	U+04E7	ӧ	Cyrillic	uni04E7.p	16833
+1	U+04E8	Ө	Cyrillic	uni04E8.p	16834
+1	U+04E9	ө	Cyrillic	uni04E9.p	16835
+1	U+04EA	Ӫ	Cyrillic	uni04EA.p	16836
+1	U+04EB	ӫ	Cyrillic	uni04EB.p	16837
+1	U+04EE	Ӯ	Cyrillic	uni04EE.p	16838
+1	U+04EF	ӯ	Cyrillic	uni04EF.p	16839
+1	U+04F0	Ӱ	Cyrillic	uni04F0.p	16840
+1	U+04F1	ӱ	Cyrillic	uni04F1.p	16841
+1	U+04F2	Ӳ	Cyrillic	uni04F2.p	16842
+1	U+04F3	ӳ	Cyrillic	uni04F3.p	16843
+1	U+04F4	Ӵ	Cyrillic	uni04F4.p	16844
+1	U+04F5	ӵ	Cyrillic	uni04F5.p	16845
+1	U+04F8	Ӹ	Cyrillic	uni04F8.p	16846
+1	U+04F9	ӹ	Cyrillic	uni04F9.p	16847
+1	U+09F2	৲	Bengali	uni09F2.p	16848
+1	U+09F3	৳	Bengali	uni09F3.p	16849
+1	U+0E3F	฿	Thai	uni0E3F.p	16850
+1	U+17DB	៛	Khmer	uni17DB.p	16851
+1	U+1E3E	Ḿ	Latin Extended Additional	uni1E3E.p	16852
+1	U+1E3F	ḿ	Latin Extended Additional	uni1E3F.p	16853
+1	U+1E80	Ẁ	Latin Extended Additional	uni1E80.p	16854
+1	U+1E81	ẁ	Latin Extended Additional	uni1E81.p	16855
+1	U+1E82	Ẃ	Latin Extended Additional	uni1E82.p	16856
+1	U+1E83	ẃ	Latin Extended Additional	uni1E83.p	16857
+1	U+1E84	Ẅ	Latin Extended Additional	uni1E84.p	16858
+1	U+1E85	ẅ	Latin Extended Additional	uni1E85.p	16859
+1	U+1EF2	Ỳ	Latin Extended Additional	uni1EF2.p	16860
+1	U+1EF3	ỳ	Latin Extended Additional	uni1EF3.p	16861
+1	U+1F70	ὰ	Greek Extended	uni1F70.p	16862
+1	U+1F71	ά	Greek Extended	uni1F71.p	16863
+1	U+1F72	ὲ	Greek Extended	uni1F72.p	16864
+1	U+1F73	έ	Greek Extended	uni1F73.p	16865
+1	U+2000	<EN QUAD>	General Punctuation	uni2000.p	16866
+1	U+2001	<EM QUAD>	General Punctuation	uni2001.p	16867
+1	U+2002	<EN SPACE>	General Punctuation	uni2002.p	16868
+1	U+2003	<EM SPACE>	General Punctuation	uni2003.p	16869
+1	U+2004	<THREE-PER-EM SPACE>	General Punctuation	uni2004.p	16870
+1	U+2005	<FOUR-PER-EM SPACE>	General Punctuation	uni2005.p	16871
+1	U+2006	<SIX-PER-EM SPACE>	General Punctuation	uni2006.p	16872
+1	U+2007	<FIGURE SPACE>	General Punctuation	uni2007.p	16873
+1	U+2008	<PUNCTUATION SPACE>	General Punctuation	uni2008.p	16874
+1	U+2009	<THIN SPACE>	General Punctuation	uni2009.p	16875
+1	U+200A	<HAIR SPACE>	General Punctuation	uni200A.p	16876
+1	U+200B	<ZERO WIDTH SPACE>	General Punctuation	uni200B.p	16877
+1	U+200C	<ZERO WIDTH NON-JOINER>	General Punctuation	uni200C.p	16878
+1	U+200D	<ZERO WIDTH JOINER>	General Punctuation	uni200D.p	16879
+1	U+200E	<LEFT-TO-RIGHT MARK>	General Punctuation	uni200E.p	16880
+1	U+200F	<RIGHT-TO-LEFT MARK>	General Punctuation	uni200F.p	16881
+1	U+2010	‐	General Punctuation	uni2010.p	16882
+1	U+2011	‑	General Punctuation	uni2011.p	16883
+1	U+2012	‒	General Punctuation	uni2012.p	16884
+1	U+2013	–	General Punctuation	uni2013.p	16885
+1	U+2014	—	General Punctuation	uni2014.p	16886
+1	U+2015	―	General Punctuation	uni2015.p	16887
+1	U+2016	‖	General Punctuation	uni2016.p	16888
+1	U+2017	‗	General Punctuation	uni2017.p	16889
+1	U+2018	‘	General Punctuation	uni2018.p	16890
+1	U+2019	’	General Punctuation	uni2019.p	16891
+1	U+201A	‚	General Punctuation	uni201A.p	16892
+1	U+201B	‛	General Punctuation	uni201B.p	16893
+1	U+201C	“	General Punctuation	uni201C.p	16894
+1	U+201D	”	General Punctuation	uni201D.p	16895
+1	U+201E	„	General Punctuation	uni201E.p	16896
+1	U+201F	‟	General Punctuation	uni201F.p	16897
+1	U+2020	†	General Punctuation	uni2020.p	16898
+1	U+2021	‡	General Punctuation	uni2021.p	16899
+1	U+2022	•	General Punctuation	uni2022.p	16900
+1	U+2023	‣	General Punctuation	uni2023.p	16901
+1	U+2024	․	General Punctuation	uni2024.p	16902
+1	U+2025	‥	General Punctuation	uni2025.p	16903
+1	U+2026	…	General Punctuation	uni2026.p	16904
+1	U+2027	‧	General Punctuation	uni2027.p	16905
+1	U+2028	<LINE SEPARATOR>	General Punctuation	uni2028.p	16906
+1	U+2029	<PARAGRAPH SEPARATOR>	General Punctuation	uni2029.p	16907
+1	U+202A	<LEFT-TO-RIGHT EMBEDDING>	General Punctuation	uni202A.p	16908
+1	U+202B	<RIGHT-TO-LEFT EMBEDDING>	General Punctuation	uni202B.p	16909
+1	U+202C	<POP DIRECTIONAL FORMATTING>	General Punctuation	uni202C.p	16910
+1	U+202D	<LEFT-TO-RIGHT OVERRIDE>	General Punctuation	uni202D.p	16911
+1	U+202E	<RIGHT-TO-LEFT OVERRIDE>	General Punctuation	uni202E.p	16912
+1	U+2030	‰	General Punctuation	uni2030.p	16913
+1	U+2031	‱	General Punctuation	uni2031.p	16914
+1	U+2032	′	General Punctuation	uni2032.p	16915
+1	U+2033	″	General Punctuation	uni2033.p	16916
+1	U+2034	‴	General Punctuation	uni2034.p	16917
+1	U+2035	‵	General Punctuation	uni2035.p	16918
+1	U+2036	‶	General Punctuation	uni2036.p	16919
+1	U+2037	‷	General Punctuation	uni2037.p	16920
+1	U+2038	‸	General Punctuation	uni2038.p	16921
+1	U+2039	‹	General Punctuation	uni2039.p	16922
+1	U+203A	›	General Punctuation	uni203A.p	16923
+1	U+203B	※	General Punctuation	uni203B.p	16924
+1	U+203C	‼	General Punctuation	uni203C.p	16925
+1	U+203D	‽	General Punctuation	uni203D.p	16926
+1	U+203E	‾	General Punctuation	uni203E.p	16927
+1	U+203F	‿	General Punctuation	uni203F.p	16928
+1	U+2040	⁀	General Punctuation	uni2040.p	16929
+1	U+2041	⁁	General Punctuation	uni2041.p	16930
+1	U+2042	⁂	General Punctuation	uni2042.p	16931
+1	U+2043	⁃	General Punctuation	uni2043.p	16932
+1	U+2044	⁄	General Punctuation	uni2044.p	16933
+1	U+2045	⁅	General Punctuation	uni2045.p	16934
+1	U+2046	⁆	General Punctuation	uni2046.p	16935
+1	U+2047	⁇	General Punctuation	uni2047.p	16936
+1	U+2048	⁈	General Punctuation	uni2048.p	16937
+1	U+2049	⁉	General Punctuation	uni2049.p	16938
+1	U+2051	⁑	General Punctuation	uni2051.p	16939
+1	U+2070	⁰	Superscripts and Subscripts	uni2070.p	16940
+1	U+2074	⁴	Superscripts and Subscripts	uni2074.p	16941
+1	U+2075	⁵	Superscripts and Subscripts	uni2075.p	16942
+1	U+2076	⁶	Superscripts and Subscripts	uni2076.p	16943
+1	U+2077	⁷	Superscripts and Subscripts	uni2077.p	16944
+1	U+2078	⁸	Superscripts and Subscripts	uni2078.p	16945
+1	U+2079	⁹	Superscripts and Subscripts	uni2079.p	16946
+1	U+207A	⁺	Superscripts and Subscripts	uni207A.p	16947
+1	U+207B	⁻	Superscripts and Subscripts	uni207B.p	16948
+1	U+207C	⁼	Superscripts and Subscripts	uni207C.p	16949
+1	U+207D	⁽	Superscripts and Subscripts	uni207D.p	16950
+1	U+207E	⁾	Superscripts and Subscripts	uni207E.p	16951
+1	U+207F	ⁿ	Superscripts and Subscripts	uni207F.p	16952
+1	U+2080	₀	Superscripts and Subscripts	uni2080.p	16953
+1	U+2081	₁	Superscripts and Subscripts	uni2081.p	16954
+1	U+2082	₂	Superscripts and Subscripts	uni2082.p	16955
+1	U+2083	₃	Superscripts and Subscripts	uni2083.p	16956
+1	U+2084	₄	Superscripts and Subscripts	uni2084.p	16957
+1	U+2085	₅	Superscripts and Subscripts	uni2085.p	16958
+1	U+2086	₆	Superscripts and Subscripts	uni2086.p	16959
+1	U+2087	₇	Superscripts and Subscripts	uni2087.p	16960
+1	U+2088	₈	Superscripts and Subscripts	uni2088.p	16961
+1	U+2089	₉	Superscripts and Subscripts	uni2089.p	16962
+1	U+208A	₊	Superscripts and Subscripts	uni208A.p	16963
+1	U+208B	₋	Superscripts and Subscripts	uni208B.p	16964
+1	U+208C	₌	Superscripts and Subscripts	uni208C.p	16965
+1	U+208D	₍	Superscripts and Subscripts	uni208D.p	16966
+1	U+208E	₎	Superscripts and Subscripts	uni208E.p	16967
+1	U+20A0	₠	Currency Symbols	uni20A0.p	16968
+1	U+20A1	₡	Currency Symbols	uni20A1.p	16969
+1	U+20A2	₢	Currency Symbols	uni20A2.p	16970
+1	U+20A3	₣	Currency Symbols	uni20A3.p	16971
+1	U+20A4	₤	Currency Symbols	uni20A4.p	16972
+1	U+20A5	₥	Currency Symbols	uni20A5.p	16973
+1	U+20A6	₦	Currency Symbols	uni20A6.p	16974
+1	U+20A7	₧	Currency Symbols	uni20A7.p	16975
+1	U+20A8	₨	Currency Symbols	uni20A8.p	16976
+1	U+20A9	₩	Currency Symbols	uni20A9.p	16977
+1	U+20AA	₪	Currency Symbols	uni20AA.p	16978
+1	U+20AB	₫	Currency Symbols	uni20AB.p	16979
+1	U+20AC	€	Currency Symbols	uni20AC.p	16980
+1	U+20AD	₭	Currency Symbols	uni20AD.p	16981
+1	U+20AE	₮	Currency Symbols	uni20AE.p	16982
+1	U+20AF	₯	Currency Symbols	uni20AF.p	16983
+1	U+20B0	₰	Currency Symbols	uni20B0.p	16984
+1	U+20B1	₱	Currency Symbols	uni20B1.p	16985
+1	U+20E3	<COMBINING ENCLOSING KEYCAP>	Combining Marks for Symbols	uni20E3	19394
+1	U+2100	℀	Letterlike Symbols	uni2100.p	16986
+1	U+2101	℁	Letterlike Symbols	uni2101.p	16987
+1	U+2102	ℂ	Letterlike Symbols	uni2102.p	16988
+1	U+2103	℃	Letterlike Symbols	uni2103.p	16989
+1	U+2104	℄	Letterlike Symbols	uni2104.p	16990
+1	U+2105	℅	Letterlike Symbols	uni2105.p	16991
+1	U+2106	℆	Letterlike Symbols	uni2106.p	16992
+1	U+2107	ℇ	Letterlike Symbols	uni2107.p	16993
+1	U+2108	℈	Letterlike Symbols	uni2108.p	16994
+1	U+2109	℉	Letterlike Symbols	uni2109.p	16995
+1	U+210A	ℊ	Letterlike Symbols	uni210A.p	16996
+1	U+210B	ℋ	Letterlike Symbols	uni210B.p	16997
+1	U+210C	ℌ	Letterlike Symbols	uni210C.p	16998
+1	U+210D	ℍ	Letterlike Symbols	uni210D.p	16999
+1	U+210E	ℎ	Letterlike Symbols	uni210E.p	17000
+1	U+210F	ℏ	Letterlike Symbols	uni210F.p	17001
+1	U+2110	ℐ	Letterlike Symbols	uni2110.p	17002
+1	U+2111	ℑ	Letterlike Symbols	uni2111.p	17003
+1	U+2112	ℒ	Letterlike Symbols	uni2112.p	17004
+1	U+2113	ℓ	Letterlike Symbols	uni2113.p	17005
+1	U+2114	℔	Letterlike Symbols	uni2114.p	17006
+1	U+2115	ℕ	Letterlike Symbols	uni2115.p	17007
+1	U+2116	№	Letterlike Symbols	uni2116.p	17008
+1	U+2117	℗	Letterlike Symbols	uni2117.p	17009
+1	U+2118	℘	Letterlike Symbols	uni2118.p	17010
+1	U+2119	ℙ	Letterlike Symbols	uni2119.p	17011
+1	U+211A	ℚ	Letterlike Symbols	uni211A.p	17012
+1	U+211B	ℛ	Letterlike Symbols	uni211B.p	17013
+1	U+211C	ℜ	Letterlike Symbols	uni211C.p	17014
+1	U+211D	ℝ	Letterlike Symbols	uni211D.p	17015
+1	U+211E	℞	Letterlike Symbols	uni211E.p	17016
+1	U+211F	℟	Letterlike Symbols	uni211F.p	17017
+1	U+2120	℠	Letterlike Symbols	uni2120.p	17018
+1	U+2121	℡	Letterlike Symbols	uni2121.p	17019
+1	U+2122	™	Letterlike Symbols	uni2122.p	17020
+1	U+2123	℣	Letterlike Symbols	uni2123.p	17021
+1	U+2124	ℤ	Letterlike Symbols	uni2124.p	17022
+1	U+2125	℥	Letterlike Symbols	uni2125.p	17023
+1	U+2126	Ω	Letterlike Symbols	uni2126.p	17024
+1	U+2127	℧	Letterlike Symbols	uni2127.p	17025
+1	U+2128	ℨ	Letterlike Symbols	uni2128.p	17026
+1	U+2129	℩	Letterlike Symbols	uni2129.p	17027
+1	U+212A	K	Letterlike Symbols	uni212A.p	17028
+1	U+212B	Å	Letterlike Symbols	uni212B.p	17029
+1	U+212C	ℬ	Letterlike Symbols	uni212C.p	17030
+1	U+212D	ℭ	Letterlike Symbols	uni212D.p	17031
+1	U+212E	℮	Letterlike Symbols	uni212E.p	17032
+1	U+212F	ℯ	Letterlike Symbols	uni212F.p	17033
+1	U+2130	ℰ	Letterlike Symbols	uni2130.p	17034
+1	U+2131	ℱ	Letterlike Symbols	uni2131.p	17035
+1	U+2132	Ⅎ	Letterlike Symbols	uni2132.p	17036
+1	U+2133	ℳ	Letterlike Symbols	uni2133.p	17037
+1	U+2134	ℴ	Letterlike Symbols	uni2134.p	17038
+1	U+2135	ℵ	Letterlike Symbols	uni2135.p	17039
+1	U+2136	ℶ	Letterlike Symbols	uni2136.p	17040
+1	U+2137	ℷ	Letterlike Symbols	uni2137.p	17041
+1	U+2138	ℸ	Letterlike Symbols	uni2138.p	17042
+1	U+2152	⅒	Number Forms	uni2152	19395
+1	U+2153	⅓	Number Forms	uni2153.p	17043
+1	U+2154	⅔	Number Forms	uni2154.p	17044
+1	U+2155	⅕	Number Forms	uni2155.p	17045
+1	U+2156	⅖	Number Forms	uni2156.p	17046
+1	U+2157	⅗	Number Forms	uni2157.p	17047
+1	U+2158	⅘	Number Forms	uni2158.p	17048
+1	U+2159	⅙	Number Forms	uni2159.p	17049
+1	U+215A	⅚	Number Forms	uni215A.p	17050
+1	U+215B	⅛	Number Forms	uni215B.p	17051
+1	U+215C	⅜	Number Forms	uni215C.p	17052
+1	U+215D	⅝	Number Forms	uni215D.p	17053
+1	U+215E	⅞	Number Forms	uni215E.p	17054
+1	U+215F	⅟	Number Forms	uni215F.p	17055
+1	U+2160	Ⅰ	Number Forms	uni2160.p	17056
+1	U+2161	Ⅱ	Number Forms	uni2161.p	17057
+1	U+2162	Ⅲ	Number Forms	uni2162.p	17058
+1	U+2163	Ⅳ	Number Forms	uni2163.p	17059
+1	U+2164	Ⅴ	Number Forms	uni2164.p	17060
+1	U+2165	Ⅵ	Number Forms	uni2165.p	17061
+1	U+2166	Ⅶ	Number Forms	uni2166.p	17062
+1	U+2167	Ⅷ	Number Forms	uni2167.p	17063
+1	U+2168	Ⅸ	Number Forms	uni2168.p	17064
+1	U+2169	Ⅹ	Number Forms	uni2169.p	17065
+1	U+216A	Ⅺ	Number Forms	uni216A.p	17066
+1	U+216B	Ⅻ	Number Forms	uni216B.p	17067
+1	U+216C	Ⅼ	Number Forms	uni216C.p	17068
+1	U+216D	Ⅽ	Number Forms	uni216D.p	17069
+1	U+216E	Ⅾ	Number Forms	uni216E.p	17070
+1	U+216F	Ⅿ	Number Forms	uni216F.p	17071
+1	U+2170	ⅰ	Number Forms	uni2170	1016
+1	U+2171	ⅱ	Number Forms	uni2171	1017
+1	U+2172	ⅲ	Number Forms	uni2172	1018
+1	U+2173	ⅳ	Number Forms	uni2173	1019
+1	U+2174	ⅴ	Number Forms	uni2174	1020
+1	U+2175	ⅵ	Number Forms	uni2175	1021
+1	U+2176	ⅶ	Number Forms	uni2176	1022
+1	U+2177	ⅷ	Number Forms	uni2177	1023
+1	U+2178	ⅸ	Number Forms	uni2178	1024
+1	U+2179	ⅹ	Number Forms	uni2179	1025
+1	U+217A	ⅺ	Number Forms	uni217A.p	17072
+1	U+217B	ⅻ	Number Forms	uni217B.p	17073
+1	U+217C	ⅼ	Number Forms	uni217C.p	17074
+1	U+217D	ⅽ	Number Forms	uni217D.p	17075
+1	U+217E	ⅾ	Number Forms	uni217E.p	17076
+1	U+217F	ⅿ	Number Forms	uni217F.p	17077
+1	U+2180	ↀ	Number Forms	uni2180.p	17078
+1	U+2181	ↁ	Number Forms	uni2181.p	17079
+1	U+2182	ↂ	Number Forms	uni2182.p	17080
+1	U+2190	←	Arrows	uni2190.p	17081
+1	U+2191	↑	Arrows	uni2191.p	17082
+1	U+2192	→	Arrows	uni2192.p	17083
+1	U+2193	↓	Arrows	uni2193.p	17084
+1	U+2194	↔	Arrows	uni2194.p	17085
+1	U+2195	↕	Arrows	uni2195.p	17086
+1	U+2196	↖	Arrows	uni2196.p	17087
+1	U+2197	↗	Arrows	uni2197.p	17088
+1	U+2198	↘	Arrows	uni2198.p	17089
+1	U+2199	↙	Arrows	uni2199.p	17090
+1	U+219A	↚	Arrows	uni219A.p	17091
+1	U+219B	↛	Arrows	uni219B.p	17092
+1	U+219C	↜	Arrows	uni219C.p	17093
+1	U+219D	↝	Arrows	uni219D.p	17094
+1	U+219E	↞	Arrows	uni219E.p	17095
+1	U+219F	↟	Arrows	uni219F.p	17096
+1	U+21A0	↠	Arrows	uni21A0.p	17097
+1	U+21A1	↡	Arrows	uni21A1.p	17098
+1	U+21A2	↢	Arrows	uni21A2.p	17099
+1	U+21A3	↣	Arrows	uni21A3.p	17100
+1	U+21A4	↤	Arrows	uni21A4.p	17101
+1	U+21A5	↥	Arrows	uni21A5.p	17102
+1	U+21A6	↦	Arrows	uni21A6.p	17103
+1	U+21A7	↧	Arrows	uni21A7.p	17104
+1	U+21A8	↨	Arrows	uni21A8.p	17105
+1	U+21A9	↩	Arrows	uni21A9.p	17106
+1	U+21AA	↪	Arrows	uni21AA.p	17107
+1	U+21AB	↫	Arrows	uni21AB.p	17108
+1	U+21AC	↬	Arrows	uni21AC.p	17109
+1	U+21AD	↭	Arrows	uni21AD.p	17110
+1	U+21AE	↮	Arrows	uni21AE.p	17111
+1	U+21AF	↯	Arrows	uni21AF.p	17112
+1	U+21B0	↰	Arrows	uni21B0.p	17113
+1	U+21B1	↱	Arrows	uni21B1.p	17114
+1	U+21B2	↲	Arrows	uni21B2.p	17115
+1	U+21B3	↳	Arrows	uni21B3.p	17116
+1	U+21B4	↴	Arrows	uni21B4.p	17117
+1	U+21B5	↵	Arrows	uni21B5.p	17118
+1	U+21B6	↶	Arrows	uni21B6.p	17119
+1	U+21B7	↷	Arrows	uni21B7.p	17120
+1	U+21B8	↸	Arrows	uni21B8.p	17121
+1	U+21B9	↹	Arrows	uni21B9.p	17122
+1	U+21BA	↺	Arrows	uni21BA.p	17123
+1	U+21BB	↻	Arrows	uni21BB.p	17124
+1	U+21BC	↼	Arrows	uni21BC.p	17125
+1	U+21BD	↽	Arrows	uni21BD.p	17126
+1	U+21BE	↾	Arrows	uni21BE.p	17127
+1	U+21BF	↿	Arrows	uni21BF.p	17128
+1	U+21C0	⇀	Arrows	uni21C0.p	17129
+1	U+21C1	⇁	Arrows	uni21C1.p	17130
+1	U+21C2	⇂	Arrows	uni21C2.p	17131
+1	U+21C3	⇃	Arrows	uni21C3.p	17132
+1	U+21C4	⇄	Arrows	uni21C4.p	17133
+1	U+21C5	⇅	Arrows	uni21C5.p	17134
+1	U+21C6	⇆	Arrows	uni21C6.p	17135
+1	U+21C7	⇇	Arrows	uni21C7.p	17136
+1	U+21C8	⇈	Arrows	uni21C8.p	17137
+1	U+21C9	⇉	Arrows	uni21C9.p	17138
+1	U+21CA	⇊	Arrows	uni21CA.p	17139
+1	U+21CB	⇋	Arrows	uni21CB.p	17140
+1	U+21CC	⇌	Arrows	uni21CC.p	17141
+1	U+21CD	⇍	Arrows	uni21CD.p	17142
+1	U+21CE	⇎	Arrows	uni21CE.p	17143
+1	U+21CF	⇏	Arrows	uni21CF.p	17144
+1	U+21D0	⇐	Arrows	uni21D0.p	17145
+1	U+21D1	⇑	Arrows	uni21D1.p	17146
+1	U+21D2	⇒	Arrows	uni21D2.p	17147
+1	U+21D3	⇓	Arrows	uni21D3.p	17148
+1	U+21D4	⇔	Arrows	uni21D4.p	17149
+1	U+21D5	⇕	Arrows	uni21D5.p	17150
+1	U+21D6	⇖	Arrows	uni21D6.p	17151
+1	U+21D7	⇗	Arrows	uni21D7.p	17152
+1	U+21D8	⇘	Arrows	uni21D8.p	17153
+1	U+21D9	⇙	Arrows	uni21D9.p	17154
+1	U+21DA	⇚	Arrows	uni21DA.p	17155
+1	U+21DB	⇛	Arrows	uni21DB.p	17156
+1	U+21DC	⇜	Arrows	uni21DC.p	17157
+1	U+21DD	⇝	Arrows	uni21DD.p	17158
+1	U+21DE	⇞	Arrows	uni21DE.p	17159
+1	U+21DF	⇟	Arrows	uni21DF.p	17160
+1	U+21E0	⇠	Arrows	uni21E0.p	17161
+1	U+21E1	⇡	Arrows	uni21E1.p	17162
+1	U+21E2	⇢	Arrows	uni21E2.p	17163
+1	U+21E3	⇣	Arrows	uni21E3.p	17164
+1	U+21E4	⇤	Arrows	uni21E4.p	17165
+1	U+21E5	⇥	Arrows	uni21E5.p	17166
+1	U+21E6	⇦	Arrows	uni21E6.p	17167
+1	U+21E7	⇧	Arrows	uni21E7.p	17168
+1	U+21E8	⇨	Arrows	uni21E8.p	17169
+1	U+21E9	⇩	Arrows	uni21E9.p	17170
+1	U+21EA	⇪	Arrows	uni21EA.p	17171
+1	U+2200	∀	Mathematical Operators	uni2200.p	17172
+1	U+2201	∁	Mathematical Operators	uni2201.p	17173
+1	U+2202	∂	Mathematical Operators	uni2202.p	17174
+1	U+2203	∃	Mathematical Operators	uni2203.p	17175
+1	U+2204	∄	Mathematical Operators	uni2204.p	17176
+1	U+2205	∅	Mathematical Operators	uni2205.p	17177
+1	U+2206	∆	Mathematical Operators	uni2206.p	17178
+1	U+2207	∇	Mathematical Operators	uni2207.p	17179
+1	U+2208	∈	Mathematical Operators	uni2208.p	17180
+1	U+2209	∉	Mathematical Operators	uni2209.p	17181
+1	U+220A	∊	Mathematical Operators	uni220A.p	17182
+1	U+220B	∋	Mathematical Operators	uni220B.p	17183
+1	U+220C	∌	Mathematical Operators	uni220C.p	17184
+1	U+220D	∍	Mathematical Operators	uni220D.p	17185
+1	U+220E	∎	Mathematical Operators	uni220E.p	17186
+1	U+220F	∏	Mathematical Operators	uni220F.p	17187
+1	U+2210	∐	Mathematical Operators	uni2210.p	17188
+1	U+2211	∑	Mathematical Operators	uni2211.p	17189
+1	U+2212	−	Mathematical Operators	uni2212.p	17190
+1	U+2213	∓	Mathematical Operators	uni2213.p	17191
+1	U+2214	∔	Mathematical Operators	uni2214.p	17192
+1	U+2215	∕	Mathematical Operators	uni2215.p	17193
+1	U+2216	∖	Mathematical Operators	uni2216.p	17194
+1	U+2217	∗	Mathematical Operators	uni2217.p	17195
+1	U+2218	∘	Mathematical Operators	uni2218.p	17196
+1	U+2219	∙	Mathematical Operators	uni2219.p	17197
+1	U+221A	√	Mathematical Operators	uni221A.p	17198
+1	U+221B	∛	Mathematical Operators	uni221B.p	17199
+1	U+221C	∜	Mathematical Operators	uni221C.p	17200
+1	U+221D	∝	Mathematical Operators	uni221D.p	17201
+1	U+221E	∞	Mathematical Operators	uni221E.p	17202
+1	U+221F	∟	Mathematical Operators	uni221F.p	17203
+1	U+2220	∠	Mathematical Operators	uni2220.p	17204
+1	U+2221	∡	Mathematical Operators	uni2221.p	17205
+1	U+2222	∢	Mathematical Operators	uni2222.p	17206
+1	U+2223	∣	Mathematical Operators	uni2223.p	17207
+1	U+2224	∤	Mathematical Operators	uni2224.p	17208
+1	U+2225	∥	Mathematical Operators	uni2225.p	17209
+1	U+2226	∦	Mathematical Operators	uni2226.p	17210
+1	U+2227	∧	Mathematical Operators	uni2227.p	17211
+1	U+2228	∨	Mathematical Operators	uni2228.p	17212
+1	U+2229	∩	Mathematical Operators	uni2229.p	17213
+1	U+222A	∪	Mathematical Operators	uni222A.p	17214
+1	U+222B	∫	Mathematical Operators	uni222B.p	17215
+1	U+222C	∬	Mathematical Operators	uni222C.p	17216
+1	U+222D	∭	Mathematical Operators	uni222D.p	17217
+1	U+222E	∮	Mathematical Operators	uni222E.p	17218
+1	U+222F	∯	Mathematical Operators	uni222F.p	17219
+1	U+2230	∰	Mathematical Operators	uni2230.p	17220
+1	U+2231	∱	Mathematical Operators	uni2231.p	17221
+1	U+2232	∲	Mathematical Operators	uni2232.p	17222
+1	U+2233	∳	Mathematical Operators	uni2233.p	17223
+1	U+2234	∴	Mathematical Operators	uni2234.p	17224
+1	U+2235	∵	Mathematical Operators	uni2235.p	17225
+1	U+2236	∶	Mathematical Operators	uni2236.p	17226
+1	U+2237	∷	Mathematical Operators	uni2237.p	17227
+1	U+2238	∸	Mathematical Operators	uni2238.p	17228
+1	U+2239	∹	Mathematical Operators	uni2239.p	17229
+1	U+223A	∺	Mathematical Operators	uni223A.p	17230
+1	U+223B	∻	Mathematical Operators	uni223B.p	17231
+1	U+223C	∼	Mathematical Operators	uni223C.p	17232
+1	U+223D	∽	Mathematical Operators	uni223D.p	17233
+1	U+223E	∾	Mathematical Operators	uni223E.p	17234
+1	U+223F	∿	Mathematical Operators	uni223F.p	17235
+1	U+2240	≀	Mathematical Operators	uni2240.p	17236
+1	U+2241	≁	Mathematical Operators	uni2241.p	17237
+1	U+2242	≂	Mathematical Operators	uni2242.p	17238
+1	U+2243	≃	Mathematical Operators	uni2243.p	17239
+1	U+2244	≄	Mathematical Operators	uni2244.p	17240
+1	U+2245	≅	Mathematical Operators	uni2245.p	17241
+1	U+2246	≆	Mathematical Operators	uni2246.p	17242
+1	U+2247	≇	Mathematical Operators	uni2247.p	17243
+1	U+2248	≈	Mathematical Operators	uni2248.p	17244
+1	U+2249	≉	Mathematical Operators	uni2249.p	17245
+1	U+224A	≊	Mathematical Operators	uni224A.p	17246
+1	U+224B	≋	Mathematical Operators	uni224B.p	17247
+1	U+224C	≌	Mathematical Operators	uni224C.p	17248
+1	U+224D	≍	Mathematical Operators	uni224D.p	17249
+1	U+224E	≎	Mathematical Operators	uni224E.p	17250
+1	U+224F	≏	Mathematical Operators	uni224F.p	17251
+1	U+2250	≐	Mathematical Operators	uni2250.p	17252
+1	U+2251	≑	Mathematical Operators	uni2251.p	17253
+1	U+2252	≒	Mathematical Operators	uni2252.p	17254
+1	U+2253	≓	Mathematical Operators	uni2253.p	17255
+1	U+2254	≔	Mathematical Operators	uni2254.p	17256
+1	U+2255	≕	Mathematical Operators	uni2255.p	17257
+1	U+2256	≖	Mathematical Operators	uni2256.p	17258
+1	U+2257	≗	Mathematical Operators	uni2257.p	17259
+1	U+2258	≘	Mathematical Operators	uni2258.p	17260
+1	U+2259	≙	Mathematical Operators	uni2259.p	17261
+1	U+225A	≚	Mathematical Operators	uni225A.p	17262
+1	U+225B	≛	Mathematical Operators	uni225B.p	17263
+1	U+225C	≜	Mathematical Operators	uni225C.p	17264
+1	U+225D	≝	Mathematical Operators	uni225D.p	17265
+1	U+225E	≞	Mathematical Operators	uni225E.p	17266
+1	U+225F	≟	Mathematical Operators	uni225F.p	17267
+1	U+2260	≠	Mathematical Operators	uni2260.p	17268
+1	U+2261	≡	Mathematical Operators	uni2261.p	17269
+1	U+2262	≢	Mathematical Operators	uni2262.p	17270
+1	U+2263	≣	Mathematical Operators	uni2263.p	17271
+1	U+2264	≤	Mathematical Operators	uni2264.p	17272
+1	U+2265	≥	Mathematical Operators	uni2265.p	17273
+1	U+2266	≦	Mathematical Operators	uni2266.p	17274
+1	U+2267	≧	Mathematical Operators	uni2267.p	17275
+1	U+2268	≨	Mathematical Operators	uni2268.p	17276
+1	U+2269	≩	Mathematical Operators	uni2269.p	17277
+1	U+226A	≪	Mathematical Operators	uni226A.p	17278
+1	U+226B	≫	Mathematical Operators	uni226B.p	17279
+1	U+226C	≬	Mathematical Operators	uni226C.p	17280
+1	U+226D	≭	Mathematical Operators	uni226D.p	17281
+1	U+226E	≮	Mathematical Operators	uni226E.p	17282
+1	U+226F	≯	Mathematical Operators	uni226F.p	17283
+1	U+2270	≰	Mathematical Operators	uni2270.p	17284
+1	U+2271	≱	Mathematical Operators	uni2271.p	17285
+1	U+2272	≲	Mathematical Operators	uni2272.p	17286
+1	U+2273	≳	Mathematical Operators	uni2273.p	17287
+1	U+2274	≴	Mathematical Operators	uni2274.p	17288
+1	U+2275	≵	Mathematical Operators	uni2275.p	17289
+1	U+2276	≶	Mathematical Operators	uni2276.p	17290
+1	U+2277	≷	Mathematical Operators	uni2277.p	17291
+1	U+2278	≸	Mathematical Operators	uni2278.p	17292
+1	U+2279	≹	Mathematical Operators	uni2279.p	17293
+1	U+227A	≺	Mathematical Operators	uni227A.p	17294
+1	U+227B	≻	Mathematical Operators	uni227B.p	17295
+1	U+227C	≼	Mathematical Operators	uni227C.p	17296
+1	U+227D	≽	Mathematical Operators	uni227D.p	17297
+1	U+227E	≾	Mathematical Operators	uni227E.p	17298
+1	U+227F	≿	Mathematical Operators	uni227F.p	17299
+1	U+2280	⊀	Mathematical Operators	uni2280.p	17300
+1	U+2281	⊁	Mathematical Operators	uni2281.p	17301
+1	U+2282	⊂	Mathematical Operators	uni2282.p	17302
+1	U+2283	⊃	Mathematical Operators	uni2283.p	17303
+1	U+2284	⊄	Mathematical Operators	uni2284.p	17304
+1	U+2285	⊅	Mathematical Operators	uni2285.p	17305
+1	U+2286	⊆	Mathematical Operators	uni2286.p	17306
+1	U+2287	⊇	Mathematical Operators	uni2287.p	17307
+1	U+2288	⊈	Mathematical Operators	uni2288.p	17308
+1	U+2289	⊉	Mathematical Operators	uni2289.p	17309
+1	U+228A	⊊	Mathematical Operators	uni228A.p	17310
+1	U+228B	⊋	Mathematical Operators	uni228B.p	17311
+1	U+228C	⊌	Mathematical Operators	uni228C.p	17312
+1	U+228D	⊍	Mathematical Operators	uni228D.p	17313
+1	U+228E	⊎	Mathematical Operators	uni228E.p	17314
+1	U+228F	⊏	Mathematical Operators	uni228F.p	17315
+1	U+2290	⊐	Mathematical Operators	uni2290.p	17316
+1	U+2291	⊑	Mathematical Operators	uni2291.p	17317
+1	U+2292	⊒	Mathematical Operators	uni2292.p	17318
+1	U+2293	⊓	Mathematical Operators	uni2293.p	17319
+1	U+2294	⊔	Mathematical Operators	uni2294.p	17320
+1	U+2295	⊕	Mathematical Operators	uni2295.p	17321
+1	U+2296	⊖	Mathematical Operators	uni2296.p	17322
+1	U+2297	⊗	Mathematical Operators	uni2297.p	17323
+1	U+2298	⊘	Mathematical Operators	uni2298.p	17324
+1	U+2299	⊙	Mathematical Operators	uni2299.p	17325
+1	U+229A	⊚	Mathematical Operators	uni229A.p	17326
+1	U+229B	⊛	Mathematical Operators	uni229B.p	17327
+1	U+229C	⊜	Mathematical Operators	uni229C.p	17328
+1	U+229D	⊝	Mathematical Operators	uni229D.p	17329
+1	U+229E	⊞	Mathematical Operators	uni229E.p	17330
+1	U+229F	⊟	Mathematical Operators	uni229F.p	17331
+1	U+22A0	⊠	Mathematical Operators	uni22A0.p	17332
+1	U+22A1	⊡	Mathematical Operators	uni22A1.p	17333
+1	U+22A2	⊢	Mathematical Operators	uni22A2.p	17334
+1	U+22A3	⊣	Mathematical Operators	uni22A3.p	17335
+1	U+22A4	⊤	Mathematical Operators	uni22A4.p	17336
+1	U+22A5	⊥	Mathematical Operators	uni22A5.p	17337
+1	U+22A6	⊦	Mathematical Operators	uni22A6.p	17338
+1	U+22A7	⊧	Mathematical Operators	uni22A7.p	17339
+1	U+22A8	⊨	Mathematical Operators	uni22A8.p	17340
+1	U+22A9	⊩	Mathematical Operators	uni22A9.p	17341
+1	U+22AA	⊪	Mathematical Operators	uni22AA.p	17342
+1	U+22AB	⊫	Mathematical Operators	uni22AB.p	17343
+1	U+22AC	⊬	Mathematical Operators	uni22AC.p	17344
+1	U+22AD	⊭	Mathematical Operators	uni22AD.p	17345
+1	U+22AE	⊮	Mathematical Operators	uni22AE.p	17346
+1	U+22AF	⊯	Mathematical Operators	uni22AF.p	17347
+1	U+22B0	⊰	Mathematical Operators	uni22B0.p	17348
+1	U+22B1	⊱	Mathematical Operators	uni22B1.p	17349
+1	U+22B2	⊲	Mathematical Operators	uni22B2.p	17350
+1	U+22B3	⊳	Mathematical Operators	uni22B3.p	17351
+1	U+22B4	⊴	Mathematical Operators	uni22B4.p	17352
+1	U+22B5	⊵	Mathematical Operators	uni22B5.p	17353
+1	U+22B6	⊶	Mathematical Operators	uni22B6.p	17354
+1	U+22B7	⊷	Mathematical Operators	uni22B7.p	17355
+1	U+22B8	⊸	Mathematical Operators	uni22B8.p	17356
+1	U+22B9	⊹	Mathematical Operators	uni22B9.p	17357
+1	U+22BA	⊺	Mathematical Operators	uni22BA.p	17358
+1	U+22BB	⊻	Mathematical Operators	uni22BB.p	17359
+1	U+22BC	⊼	Mathematical Operators	uni22BC.p	17360
+1	U+22BD	⊽	Mathematical Operators	uni22BD.p	17361
+1	U+22BE	⊾	Mathematical Operators	uni22BE.p	17362
+1	U+22BF	⊿	Mathematical Operators	uni22BF.p	17363
+1	U+22C0	⋀	Mathematical Operators	uni22C0.p	17364
+1	U+22C1	⋁	Mathematical Operators	uni22C1.p	17365
+1	U+22C2	⋂	Mathematical Operators	uni22C2.p	17366
+1	U+22C3	⋃	Mathematical Operators	uni22C3.p	17367
+1	U+22C4	⋄	Mathematical Operators	uni22C4.p	17368
+1	U+22C5	⋅	Mathematical Operators	uni22C5.p	17369
+1	U+22C6	⋆	Mathematical Operators	uni22C6.p	17370
+1	U+22C7	⋇	Mathematical Operators	uni22C7.p	17371
+1	U+22C8	⋈	Mathematical Operators	uni22C8.p	17372
+1	U+22C9	⋉	Mathematical Operators	uni22C9.p	17373
+1	U+22CA	⋊	Mathematical Operators	uni22CA.p	17374
+1	U+22CB	⋋	Mathematical Operators	uni22CB.p	17375
+1	U+22CC	⋌	Mathematical Operators	uni22CC.p	17376
+1	U+22CD	⋍	Mathematical Operators	uni22CD.p	17377
+1	U+22CE	⋎	Mathematical Operators	uni22CE.p	17378
+1	U+22CF	⋏	Mathematical Operators	uni22CF.p	17379
+1	U+22D0	⋐	Mathematical Operators	uni22D0.p	17380
+1	U+22D1	⋑	Mathematical Operators	uni22D1.p	17381
+1	U+22D2	⋒	Mathematical Operators	uni22D2.p	17382
+1	U+22D3	⋓	Mathematical Operators	uni22D3.p	17383
+1	U+22D4	⋔	Mathematical Operators	uni22D4.p	17384
+1	U+22D5	⋕	Mathematical Operators	uni22D5.p	17385
+1	U+22D6	⋖	Mathematical Operators	uni22D6.p	17386
+1	U+22D7	⋗	Mathematical Operators	uni22D7.p	17387
+1	U+22D8	⋘	Mathematical Operators	uni22D8.p	17388
+1	U+22D9	⋙	Mathematical Operators	uni22D9.p	17389
+1	U+22DA	⋚	Mathematical Operators	uni22DA.p	17390
+1	U+22DB	⋛	Mathematical Operators	uni22DB.p	17391
+1	U+22DC	⋜	Mathematical Operators	uni22DC.p	17392
+1	U+22DD	⋝	Mathematical Operators	uni22DD.p	17393
+1	U+22DE	⋞	Mathematical Operators	uni22DE.p	17394
+1	U+22DF	⋟	Mathematical Operators	uni22DF.p	17395
+1	U+22E0	⋠	Mathematical Operators	uni22E0.p	17396
+1	U+22E1	⋡	Mathematical Operators	uni22E1.p	17397
+1	U+22E2	⋢	Mathematical Operators	uni22E2.p	17398
+1	U+22E3	⋣	Mathematical Operators	uni22E3.p	17399
+1	U+22E4	⋤	Mathematical Operators	uni22E4.p	17400
+1	U+22E5	⋥	Mathematical Operators	uni22E5.p	17401
+1	U+22E6	⋦	Mathematical Operators	uni22E6.p	17402
+1	U+22E7	⋧	Mathematical Operators	uni22E7.p	17403
+1	U+22E8	⋨	Mathematical Operators	uni22E8.p	17404
+1	U+22E9	⋩	Mathematical Operators	uni22E9.p	17405
+1	U+22EA	⋪	Mathematical Operators	uni22EA.p	17406
+1	U+22EB	⋫	Mathematical Operators	uni22EB.p	17407
+1	U+22EC	⋬	Mathematical Operators	uni22EC.p	17408
+1	U+22ED	⋭	Mathematical Operators	uni22ED.p	17409
+1	U+22EE	⋮	Mathematical Operators	uni22EE.p	17410
+1	U+22EF	⋯	Mathematical Operators	uni22EF.p	17411
+1	U+22F0	⋰	Mathematical Operators	uni22F0.p	17412
+1	U+22F1	⋱	Mathematical Operators	uni22F1.p	17413
+1	U+2302	⌂	Miscellaneous Technical	uni2302.p	17414
+1	U+2305	⌅	Miscellaneous Technical	uni2305.p	17415
+1	U+2306	⌆	Miscellaneous Technical	uni2306.p	17416
+1	U+2310	⌐	Miscellaneous Technical	uni2310.p	17417
+1	U+2312	⌒	Miscellaneous Technical	uni2312.p	17418
+1	U+2318	⌘	Miscellaneous Technical	uni2318.p	17419
+1	U+2320	⌠	Miscellaneous Technical	uni2320.p	17420
+1	U+2321	⌡	Miscellaneous Technical	uni2321.p	17421
+1	U+23BE	⎾	Miscellaneous Technical	uni23BE.p	17422
+1	U+23BF	⎿	Miscellaneous Technical	uni23BF.p	17423
+1	U+23C0	⏀	Miscellaneous Technical	uni23C0.p	17424
+1	U+23C1	⏁	Miscellaneous Technical	uni23C1.p	17425
+1	U+23C2	⏂	Miscellaneous Technical	uni23C2.p	17426
+1	U+23C3	⏃	Miscellaneous Technical	uni23C3.p	17427
+1	U+23C4	⏄	Miscellaneous Technical	uni23C4.p	17428
+1	U+23C5	⏅	Miscellaneous Technical	uni23C5.p	17429
+1	U+23C6	⏆	Miscellaneous Technical	uni23C6.p	17430
+1	U+23C7	⏇	Miscellaneous Technical	uni23C7.p	17431
+1	U+23C8	⏈	Miscellaneous Technical	uni23C8.p	17432
+1	U+23C9	⏉	Miscellaneous Technical	uni23C9.p	17433
+1	U+23CA	⏊	Miscellaneous Technical	uni23CA.p	17434
+1	U+23CB	⏋	Miscellaneous Technical	uni23CB.p	17435
+1	U+23CC	⏌	Miscellaneous Technical	uni23CC.p	17436
+1	U+23CE	⏎	Miscellaneous Technical	uni23CE.p	17437
+1	U+2423	␣	Control Pictures	uni2423.p	17438
+1	U+2460	①	Enclosed Alphanumerics	uni2460.p	17439
+1	U+2461	②	Enclosed Alphanumerics	uni2461.p	17440
+1	U+2462	③	Enclosed Alphanumerics	uni2462.p	17441
+1	U+2463	④	Enclosed Alphanumerics	uni2463.p	17442
+1	U+2464	⑤	Enclosed Alphanumerics	uni2464.p	17443
+1	U+2465	⑥	Enclosed Alphanumerics	uni2465.p	17444
+1	U+2466	⑦	Enclosed Alphanumerics	uni2466.p	17445
+1	U+2467	⑧	Enclosed Alphanumerics	uni2467.p	17446
+1	U+2468	⑨	Enclosed Alphanumerics	uni2468.p	17447
+1	U+2469	⑩	Enclosed Alphanumerics	uni2469.p	17448
+1	U+246A	⑪	Enclosed Alphanumerics	uni246A.p	17449
+1	U+246B	⑫	Enclosed Alphanumerics	uni246B.p	17450
+1	U+246C	⑬	Enclosed Alphanumerics	uni246C.p	17451
+1	U+246D	⑭	Enclosed Alphanumerics	uni246D.p	17452
+1	U+246E	⑮	Enclosed Alphanumerics	uni246E.p	17453
+1	U+246F	⑯	Enclosed Alphanumerics	uni246F.p	17454
+1	U+2470	⑰	Enclosed Alphanumerics	uni2470.p	17455
+1	U+2471	⑱	Enclosed Alphanumerics	uni2471.p	17456
+1	U+2472	⑲	Enclosed Alphanumerics	uni2472.p	17457
+1	U+2473	⑳	Enclosed Alphanumerics	uni2473.p	17458
+1	U+2474	⑴	Enclosed Alphanumerics	uni2474.p	17459
+1	U+2475	⑵	Enclosed Alphanumerics	uni2475.p	17460
+1	U+2476	⑶	Enclosed Alphanumerics	uni2476.p	17461
+1	U+2477	⑷	Enclosed Alphanumerics	uni2477.p	17462
+1	U+2478	⑸	Enclosed Alphanumerics	uni2478.p	17463
+1	U+2479	⑹	Enclosed Alphanumerics	uni2479.p	17464
+1	U+247A	⑺	Enclosed Alphanumerics	uni247A.p	17465
+1	U+247B	⑻	Enclosed Alphanumerics	uni247B.p	17466
+1	U+247C	⑼	Enclosed Alphanumerics	uni247C.p	17467
+1	U+247D	⑽	Enclosed Alphanumerics	uni247D.p	17468
+1	U+247E	⑾	Enclosed Alphanumerics	uni247E.p	17469
+1	U+247F	⑿	Enclosed Alphanumerics	uni247F.p	17470
+1	U+2480	⒀	Enclosed Alphanumerics	uni2480.p	17471
+1	U+2481	⒁	Enclosed Alphanumerics	uni2481.p	17472
+1	U+2482	⒂	Enclosed Alphanumerics	uni2482.p	17473
+1	U+2483	⒃	Enclosed Alphanumerics	uni2483.p	17474
+1	U+2484	⒄	Enclosed Alphanumerics	uni2484.p	17475
+1	U+2485	⒅	Enclosed Alphanumerics	uni2485.p	17476
+1	U+2486	⒆	Enclosed Alphanumerics	uni2486.p	17477
+1	U+2487	⒇	Enclosed Alphanumerics	uni2487.p	17478
+1	U+2488	⒈	Enclosed Alphanumerics	uni2488.p	17479
+1	U+2489	⒉	Enclosed Alphanumerics	uni2489.p	17480
+1	U+248A	⒊	Enclosed Alphanumerics	uni248A.p	17481
+1	U+248B	⒋	Enclosed Alphanumerics	uni248B.p	17482
+1	U+248C	⒌	Enclosed Alphanumerics	uni248C.p	17483
+1	U+248D	⒍	Enclosed Alphanumerics	uni248D.p	17484
+1	U+248E	⒎	Enclosed Alphanumerics	uni248E.p	17485
+1	U+248F	⒏	Enclosed Alphanumerics	uni248F.p	17486
+1	U+2490	⒐	Enclosed Alphanumerics	uni2490.p	17487
+1	U+2491	⒑	Enclosed Alphanumerics	uni2491.p	17488
+1	U+2492	⒒	Enclosed Alphanumerics	uni2492.p	17489
+1	U+2493	⒓	Enclosed Alphanumerics	uni2493.p	17490
+1	U+2494	⒔	Enclosed Alphanumerics	uni2494.p	17491
+1	U+2495	⒕	Enclosed Alphanumerics	uni2495.p	17492
+1	U+2496	⒖	Enclosed Alphanumerics	uni2496.p	17493
+1	U+2497	⒗	Enclosed Alphanumerics	uni2497.p	17494
+1	U+2498	⒘	Enclosed Alphanumerics	uni2498.p	17495
+1	U+2499	⒙	Enclosed Alphanumerics	uni2499.p	17496
+1	U+249A	⒚	Enclosed Alphanumerics	uni249A.p	17497
+1	U+249B	⒛	Enclosed Alphanumerics	uni249B.p	17498
+1	U+249C	⒜	Enclosed Alphanumerics	uni249C.p	17499
+1	U+249D	⒝	Enclosed Alphanumerics	uni249D.p	17500
+1	U+249E	⒞	Enclosed Alphanumerics	uni249E.p	17501
+1	U+249F	⒟	Enclosed Alphanumerics	uni249F.p	17502
+1	U+24A0	⒠	Enclosed Alphanumerics	uni24A0.p	17503
+1	U+24A1	⒡	Enclosed Alphanumerics	uni24A1.p	17504
+1	U+24A2	⒢	Enclosed Alphanumerics	uni24A2.p	17505
+1	U+24A3	⒣	Enclosed Alphanumerics	uni24A3.p	17506
+1	U+24A4	⒤	Enclosed Alphanumerics	uni24A4.p	17507
+1	U+24A5	⒥	Enclosed Alphanumerics	uni24A5.p	17508
+1	U+24A6	⒦	Enclosed Alphanumerics	uni24A6.p	17509
+1	U+24A7	⒧	Enclosed Alphanumerics	uni24A7.p	17510
+1	U+24A8	⒨	Enclosed Alphanumerics	uni24A8.p	17511
+1	U+24A9	⒩	Enclosed Alphanumerics	uni24A9.p	17512
+1	U+24AA	⒪	Enclosed Alphanumerics	uni24AA.p	17513
+1	U+24AB	⒫	Enclosed Alphanumerics	uni24AB.p	17514
+1	U+24AC	⒬	Enclosed Alphanumerics	uni24AC.p	17515
+1	U+24AD	⒭	Enclosed Alphanumerics	uni24AD.p	17516
+1	U+24AE	⒮	Enclosed Alphanumerics	uni24AE.p	17517
+1	U+24AF	⒯	Enclosed Alphanumerics	uni24AF.p	17518
+1	U+24B0	⒰	Enclosed Alphanumerics	uni24B0.p	17519
+1	U+24B1	⒱	Enclosed Alphanumerics	uni24B1.p	17520
+1	U+24B2	⒲	Enclosed Alphanumerics	uni24B2.p	17521
+1	U+24B3	⒳	Enclosed Alphanumerics	uni24B3.p	17522
+1	U+24B4	⒴	Enclosed Alphanumerics	uni24B4.p	17523
+1	U+24B5	⒵	Enclosed Alphanumerics	uni24B5.p	17524
+1	U+24B6	Ⓐ	Enclosed Alphanumerics	uni24B6.p	17525
+1	U+24B7	Ⓑ	Enclosed Alphanumerics	uni24B7.p	17526
+1	U+24B8	Ⓒ	Enclosed Alphanumerics	uni24B8.p	17527
+1	U+24B9	Ⓓ	Enclosed Alphanumerics	uni24B9.p	17528
+1	U+24BA	Ⓔ	Enclosed Alphanumerics	uni24BA.p	17529
+1	U+24BB	Ⓕ	Enclosed Alphanumerics	uni24BB.p	17530
+1	U+24BC	Ⓖ	Enclosed Alphanumerics	uni24BC.p	17531
+1	U+24BD	Ⓗ	Enclosed Alphanumerics	uni24BD.p	17532
+1	U+24BE	Ⓘ	Enclosed Alphanumerics	uni24BE.p	17533
+1	U+24BF	Ⓙ	Enclosed Alphanumerics	uni24BF.p	17534
+1	U+24C0	Ⓚ	Enclosed Alphanumerics	uni24C0.p	17535
+1	U+24C1	Ⓛ	Enclosed Alphanumerics	uni24C1.p	17536
+1	U+24C2	Ⓜ	Enclosed Alphanumerics	uni24C2.p	17537
+1	U+24C3	Ⓝ	Enclosed Alphanumerics	uni24C3.p	17538
+1	U+24C4	Ⓞ	Enclosed Alphanumerics	uni24C4.p	17539
+1	U+24C5	Ⓟ	Enclosed Alphanumerics	uni24C5.p	17540
+1	U+24C6	Ⓠ	Enclosed Alphanumerics	uni24C6.p	17541
+1	U+24C7	Ⓡ	Enclosed Alphanumerics	uni24C7.p	17542
+1	U+24C8	Ⓢ	Enclosed Alphanumerics	uni24C8.p	17543
+1	U+24C9	Ⓣ	Enclosed Alphanumerics	uni24C9.p	17544
+1	U+24CA	Ⓤ	Enclosed Alphanumerics	uni24CA.p	17545
+1	U+24CB	Ⓥ	Enclosed Alphanumerics	uni24CB.p	17546
+1	U+24CC	Ⓦ	Enclosed Alphanumerics	uni24CC.p	17547
+1	U+24CD	Ⓧ	Enclosed Alphanumerics	uni24CD.p	17548
+1	U+24CE	Ⓨ	Enclosed Alphanumerics	uni24CE.p	17549
+1	U+24CF	Ⓩ	Enclosed Alphanumerics	uni24CF.p	17550
+1	U+24D0	ⓐ	Enclosed Alphanumerics	uni24D0.p	17551
+1	U+24D1	ⓑ	Enclosed Alphanumerics	uni24D1.p	17552
+1	U+24D2	ⓒ	Enclosed Alphanumerics	uni24D2.p	17553
+1	U+24D3	ⓓ	Enclosed Alphanumerics	uni24D3.p	17554
+1	U+24D4	ⓔ	Enclosed Alphanumerics	uni24D4.p	17555
+1	U+24D5	ⓕ	Enclosed Alphanumerics	uni24D5.p	17556
+1	U+24D6	ⓖ	Enclosed Alphanumerics	uni24D6.p	17557
+1	U+24D7	ⓗ	Enclosed Alphanumerics	uni24D7.p	17558
+1	U+24D8	ⓘ	Enclosed Alphanumerics	uni24D8.p	17559
+1	U+24D9	ⓙ	Enclosed Alphanumerics	uni24D9.p	17560
+1	U+24DA	ⓚ	Enclosed Alphanumerics	uni24DA.p	17561
+1	U+24DB	ⓛ	Enclosed Alphanumerics	uni24DB.p	17562
+1	U+24DC	ⓜ	Enclosed Alphanumerics	uni24DC.p	17563
+1	U+24DD	ⓝ	Enclosed Alphanumerics	uni24DD.p	17564
+1	U+24DE	ⓞ	Enclosed Alphanumerics	uni24DE.p	17565
+1	U+24DF	ⓟ	Enclosed Alphanumerics	uni24DF.p	17566
+1	U+24E0	ⓠ	Enclosed Alphanumerics	uni24E0.p	17567
+1	U+24E1	ⓡ	Enclosed Alphanumerics	uni24E1.p	17568
+1	U+24E2	ⓢ	Enclosed Alphanumerics	uni24E2.p	17569
+1	U+24E3	ⓣ	Enclosed Alphanumerics	uni24E3.p	17570
+1	U+24E4	ⓤ	Enclosed Alphanumerics	uni24E4.p	17571
+1	U+24E5	ⓥ	Enclosed Alphanumerics	uni24E5.p	17572
+1	U+24E6	ⓦ	Enclosed Alphanumerics	uni24E6.p	17573
+1	U+24E7	ⓧ	Enclosed Alphanumerics	uni24E7.p	17574
+1	U+24E8	ⓨ	Enclosed Alphanumerics	uni24E8.p	17575
+1	U+24E9	ⓩ	Enclosed Alphanumerics	uni24E9.p	17576
+1	U+24EA	⓪	Enclosed Alphanumerics	uni24EA.p	17577
+1	U+24EB	⓫	Enclosed Alphanumerics	uni24EB.p	17578
+1	U+24EC	⓬	Enclosed Alphanumerics	uni24EC.p	17579
+1	U+24ED	⓭	Enclosed Alphanumerics	uni24ED.p	17580
+1	U+24EE	⓮	Enclosed Alphanumerics	uni24EE.p	17581
+1	U+24EF	⓯	Enclosed Alphanumerics	uni24EF.p	17582
+1	U+24F0	⓰	Enclosed Alphanumerics	uni24F0.p	17583
+1	U+24F1	⓱	Enclosed Alphanumerics	uni24F1.p	17584
+1	U+24F2	⓲	Enclosed Alphanumerics	uni24F2.p	17585
+1	U+24F3	⓳	Enclosed Alphanumerics	uni24F3.p	17586
+1	U+24F4	⓴	Enclosed Alphanumerics	uni24F4.p	17587
+1	U+24F5	⓵	Enclosed Alphanumerics	uni24F5.p	17588
+1	U+24F6	⓶	Enclosed Alphanumerics	uni24F6.p	17589
+1	U+24F7	⓷	Enclosed Alphanumerics	uni24F7.p	17590
+1	U+24F8	⓸	Enclosed Alphanumerics	uni24F8.p	17591
+1	U+24F9	⓹	Enclosed Alphanumerics	uni24F9.p	17592
+1	U+24FA	⓺	Enclosed Alphanumerics	uni24FA.p	17593
+1	U+24FB	⓻	Enclosed Alphanumerics	uni24FB.p	17594
+1	U+24FC	⓼	Enclosed Alphanumerics	uni24FC.p	17595
+1	U+24FD	⓽	Enclosed Alphanumerics	uni24FD.p	17596
+1	U+24FE	⓾	Enclosed Alphanumerics	uni24FE.p	17597
+1	U+2500	─	Box Drawing	uni2500.p	17598
+1	U+2501	━	Box Drawing	uni2501.p	17599
+1	U+2502	│	Box Drawing	uni2502.p	17600
+1	U+2503	┃	Box Drawing	uni2503.p	17601
+1	U+2504	┄	Box Drawing	uni2504.p	17602
+1	U+2505	┅	Box Drawing	uni2505.p	17603
+1	U+2506	┆	Box Drawing	uni2506.p	17604
+1	U+2507	┇	Box Drawing	uni2507.p	17605
+1	U+2508	┈	Box Drawing	uni2508.p	17606
+1	U+2509	┉	Box Drawing	uni2509.p	17607
+1	U+250A	┊	Box Drawing	uni250A.p	17608
+1	U+250B	┋	Box Drawing	uni250B.p	17609
+1	U+250C	┌	Box Drawing	uni250C.p	17610
+1	U+250D	┍	Box Drawing	uni250D.p	17611
+1	U+250E	┎	Box Drawing	uni250E.p	17612
+1	U+250F	┏	Box Drawing	uni250F.p	17613
+1	U+2510	┐	Box Drawing	uni2510.p	17614
+1	U+2511	┑	Box Drawing	uni2511.p	17615
+1	U+2512	┒	Box Drawing	uni2512.p	17616
+1	U+2513	┓	Box Drawing	uni2513.p	17617
+1	U+2514	└	Box Drawing	uni2514.p	17618
+1	U+2515	┕	Box Drawing	uni2515.p	17619
+1	U+2516	┖	Box Drawing	uni2516.p	17620
+1	U+2517	┗	Box Drawing	uni2517.p	17621
+1	U+2518	┘	Box Drawing	uni2518.p	17622
+1	U+2519	┙	Box Drawing	uni2519.p	17623
+1	U+251A	┚	Box Drawing	uni251A.p	17624
+1	U+251B	┛	Box Drawing	uni251B.p	17625
+1	U+251C	├	Box Drawing	uni251C.p	17626
+1	U+251D	┝	Box Drawing	uni251D.p	17627
+1	U+251E	┞	Box Drawing	uni251E.p	17628
+1	U+251F	┟	Box Drawing	uni251F.p	17629
+1	U+2520	┠	Box Drawing	uni2520.p	17630
+1	U+2521	┡	Box Drawing	uni2521.p	17631
+1	U+2522	┢	Box Drawing	uni2522.p	17632
+1	U+2523	┣	Box Drawing	uni2523.p	17633
+1	U+2524	┤	Box Drawing	uni2524.p	17634
+1	U+2525	┥	Box Drawing	uni2525.p	17635
+1	U+2526	┦	Box Drawing	uni2526.p	17636
+1	U+2527	┧	Box Drawing	uni2527.p	17637
+1	U+2528	┨	Box Drawing	uni2528.p	17638
+1	U+2529	┩	Box Drawing	uni2529.p	17639
+1	U+252A	┪	Box Drawing	uni252A.p	17640
+1	U+252B	┫	Box Drawing	uni252B.p	17641
+1	U+252C	┬	Box Drawing	uni252C.p	17642
+1	U+252D	┭	Box Drawing	uni252D.p	17643
+1	U+252E	┮	Box Drawing	uni252E.p	17644
+1	U+252F	┯	Box Drawing	uni252F.p	17645
+1	U+2530	┰	Box Drawing	uni2530.p	17646
+1	U+2531	┱	Box Drawing	uni2531.p	17647
+1	U+2532	┲	Box Drawing	uni2532.p	17648
+1	U+2533	┳	Box Drawing	uni2533.p	17649
+1	U+2534	┴	Box Drawing	uni2534.p	17650
+1	U+2535	┵	Box Drawing	uni2535.p	17651
+1	U+2536	┶	Box Drawing	uni2536.p	17652
+1	U+2537	┷	Box Drawing	uni2537.p	17653
+1	U+2538	┸	Box Drawing	uni2538.p	17654
+1	U+2539	┹	Box Drawing	uni2539.p	17655
+1	U+253A	┺	Box Drawing	uni253A.p	17656
+1	U+253B	┻	Box Drawing	uni253B.p	17657
+1	U+253C	┼	Box Drawing	uni253C.p	17658
+1	U+253D	┽	Box Drawing	uni253D.p	17659
+1	U+253E	┾	Box Drawing	uni253E.p	17660
+1	U+253F	┿	Box Drawing	uni253F.p	17661
+1	U+2540	╀	Box Drawing	uni2540.p	17662
+1	U+2541	╁	Box Drawing	uni2541.p	17663
+1	U+2542	╂	Box Drawing	uni2542.p	17664
+1	U+2543	╃	Box Drawing	uni2543.p	17665
+1	U+2544	╄	Box Drawing	uni2544.p	17666
+1	U+2545	╅	Box Drawing	uni2545.p	17667
+1	U+2546	╆	Box Drawing	uni2546.p	17668
+1	U+2547	╇	Box Drawing	uni2547.p	17669
+1	U+2548	╈	Box Drawing	uni2548.p	17670
+1	U+2549	╉	Box Drawing	uni2549.p	17671
+1	U+254A	╊	Box Drawing	uni254A.p	17672
+1	U+254B	╋	Box Drawing	uni254B.p	17673
+1	U+254C	╌	Box Drawing	uni254C.p	17674
+1	U+254D	╍	Box Drawing	uni254D.p	17675
+1	U+254E	╎	Box Drawing	uni254E.p	17676
+1	U+254F	╏	Box Drawing	uni254F.p	17677
+1	U+2550	═	Box Drawing	uni2550.p	17678
+1	U+2551	║	Box Drawing	uni2551.p	17679
+1	U+2552	╒	Box Drawing	uni2552.p	17680
+1	U+2553	╓	Box Drawing	uni2553.p	17681
+1	U+2554	╔	Box Drawing	uni2554.p	17682
+1	U+2555	╕	Box Drawing	uni2555.p	17683
+1	U+2556	╖	Box Drawing	uni2556.p	17684
+1	U+2557	╗	Box Drawing	uni2557.p	17685
+1	U+2558	╘	Box Drawing	uni2558.p	17686
+1	U+2559	╙	Box Drawing	uni2559.p	17687
+1	U+255A	╚	Box Drawing	uni255A.p	17688
+1	U+255B	╛	Box Drawing	uni255B.p	17689
+1	U+255C	╜	Box Drawing	uni255C.p	17690
+1	U+255D	╝	Box Drawing	uni255D.p	17691
+1	U+255E	╞	Box Drawing	uni255E.p	17692
+1	U+255F	╟	Box Drawing	uni255F.p	17693
+1	U+2560	╠	Box Drawing	uni2560.p	17694
+1	U+2561	╡	Box Drawing	uni2561.p	17695
+1	U+2562	╢	Box Drawing	uni2562.p	17696
+1	U+2563	╣	Box Drawing	uni2563.p	17697
+1	U+2564	╤	Box Drawing	uni2564.p	17698
+1	U+2565	╥	Box Drawing	uni2565.p	17699
+1	U+2566	╦	Box Drawing	uni2566.p	17700
+1	U+2567	╧	Box Drawing	uni2567.p	17701
+1	U+2568	╨	Box Drawing	uni2568.p	17702
+1	U+2569	╩	Box Drawing	uni2569.p	17703
+1	U+256A	╪	Box Drawing	uni256A.p	17704
+1	U+256B	╫	Box Drawing	uni256B.p	17705
+1	U+256C	╬	Box Drawing	uni256C.p	17706
+1	U+256D	╭	Box Drawing	uni256D.p	17707
+1	U+256E	╮	Box Drawing	uni256E.p	17708
+1	U+256F	╯	Box Drawing	uni256F.p	17709
+1	U+2570	╰	Box Drawing	uni2570.p	17710
+1	U+2571	╱	Box Drawing	uni2571.p	17711
+1	U+2572	╲	Box Drawing	uni2572.p	17712
+1	U+2573	╳	Box Drawing	uni2573.p	17713
+1	U+2574	╴	Box Drawing	uni2574.p	17714
+1	U+2575	╵	Box Drawing	uni2575.p	17715
+1	U+2576	╶	Box Drawing	uni2576.p	17716
+1	U+2577	╷	Box Drawing	uni2577.p	17717
+1	U+2578	╸	Box Drawing	uni2578.p	17718
+1	U+2579	╹	Box Drawing	uni2579.p	17719
+1	U+257A	╺	Box Drawing	uni257A.p	17720
+1	U+257B	╻	Box Drawing	uni257B.p	17721
+1	U+257C	╼	Box Drawing	uni257C.p	17722
+1	U+257D	╽	Box Drawing	uni257D.p	17723
+1	U+257E	╾	Box Drawing	uni257E.p	17724
+1	U+257F	╿	Box Drawing	uni257F.p	17725
+1	U+2580	▀	Block Elements	uni2580.p	17726
+1	U+2581	▁	Block Elements	uni2581.p	17727
+1	U+2582	▂	Block Elements	uni2582.p	17728
+1	U+2583	▃	Block Elements	uni2583.p	17729
+1	U+2584	▄	Block Elements	uni2584.p	17730
+1	U+2585	▅	Block Elements	uni2585.p	17731
+1	U+2586	▆	Block Elements	uni2586.p	17732
+1	U+2587	▇	Block Elements	uni2587.p	17733
+1	U+2588	█	Block Elements	uni2588.p	17734
+1	U+2589	▉	Block Elements	uni2589.p	17735
+1	U+258A	▊	Block Elements	uni258A.p	17736
+1	U+258B	▋	Block Elements	uni258B.p	17737
+1	U+258C	▌	Block Elements	uni258C.p	17738
+1	U+258D	▍	Block Elements	uni258D.p	17739
+1	U+258E	▎	Block Elements	uni258E.p	17740
+1	U+258F	▏	Block Elements	uni258F.p	17741
+1	U+2590	▐	Block Elements	uni2590.p	17742
+1	U+2591	░	Block Elements	uni2591.p	17743
+1	U+2592	▒	Block Elements	uni2592.p	17744
+1	U+2593	▓	Block Elements	uni2593.p	17745
+1	U+2594	▔	Block Elements	uni2594.p	17746
+1	U+2595	▕	Block Elements	uni2595.p	17747
+1	U+25A0	■	Geometric Shapes	uni25A0.p	17748
+1	U+25A1	□	Geometric Shapes	uni25A1.p	17749
+1	U+25A2	▢	Geometric Shapes	uni25A2.p	17750
+1	U+25A3	▣	Geometric Shapes	uni25A3.p	17751
+1	U+25A4	▤	Geometric Shapes	uni25A4.p	17752
+1	U+25A5	▥	Geometric Shapes	uni25A5.p	17753
+1	U+25A6	▦	Geometric Shapes	uni25A6.p	17754
+1	U+25A7	▧	Geometric Shapes	uni25A7.p	17755
+1	U+25A8	▨	Geometric Shapes	uni25A8.p	17756
+1	U+25A9	▩	Geometric Shapes	uni25A9.p	17757
+1	U+25AA	▪	Geometric Shapes	uni25AA.p	17758
+1	U+25AB	▫	Geometric Shapes	uni25AB.p	17759
+1	U+25AC	▬	Geometric Shapes	uni25AC.p	17760
+1	U+25AD	▭	Geometric Shapes	uni25AD.p	17761
+1	U+25AE	▮	Geometric Shapes	uni25AE.p	17762
+1	U+25AF	▯	Geometric Shapes	uni25AF.p	17763
+1	U+25B0	▰	Geometric Shapes	uni25B0.p	17764
+1	U+25B1	▱	Geometric Shapes	uni25B1.p	17765
+1	U+25B2	▲	Geometric Shapes	uni25B2.p	17766
+1	U+25B3	△	Geometric Shapes	uni25B3.p	17767
+1	U+25B4	▴	Geometric Shapes	uni25B4.p	17768
+1	U+25B5	▵	Geometric Shapes	uni25B5.p	17769
+1	U+25B6	▶	Geometric Shapes	uni25B6.p	17770
+1	U+25B7	▷	Geometric Shapes	uni25B7.p	17771
+1	U+25B8	▸	Geometric Shapes	uni25B8.p	17772
+1	U+25B9	▹	Geometric Shapes	uni25B9.p	17773
+1	U+25BA	►	Geometric Shapes	uni25BA.p	17774
+1	U+25BB	▻	Geometric Shapes	uni25BB.p	17775
+1	U+25BC	▼	Geometric Shapes	uni25BC.p	17776
+1	U+25BD	▽	Geometric Shapes	uni25BD.p	17777
+1	U+25BE	▾	Geometric Shapes	uni25BE.p	17778
+1	U+25BF	▿	Geometric Shapes	uni25BF.p	17779
+1	U+25C0	◀	Geometric Shapes	uni25C0.p	17780
+1	U+25C1	◁	Geometric Shapes	uni25C1.p	17781
+1	U+25C2	◂	Geometric Shapes	uni25C2.p	17782
+1	U+25C3	◃	Geometric Shapes	uni25C3.p	17783
+1	U+25C4	◄	Geometric Shapes	uni25C4.p	17784
+1	U+25C5	◅	Geometric Shapes	uni25C5.p	17785
+1	U+25C6	◆	Geometric Shapes	uni25C6.p	17786
+1	U+25C7	◇	Geometric Shapes	uni25C7.p	17787
+1	U+25C8	◈	Geometric Shapes	uni25C8.p	17788
+1	U+25C9	◉	Geometric Shapes	uni25C9.p	17789
+1	U+25CA	◊	Geometric Shapes	uni25CA.p	17790
+1	U+25CB	○	Geometric Shapes	uni25CB.p	17791
+1	U+25CC	◌	Geometric Shapes	uni25CC.p	17792
+1	U+25CD	◍	Geometric Shapes	uni25CD.p	17793
+1	U+25CE	◎	Geometric Shapes	uni25CE.p	17794
+1	U+25CF	●	Geometric Shapes	uni25CF.p	17795
+1	U+25D0	◐	Geometric Shapes	uni25D0.p	17796
+1	U+25D1	◑	Geometric Shapes	uni25D1.p	17797
+1	U+25D2	◒	Geometric Shapes	uni25D2.p	17798
+1	U+25D3	◓	Geometric Shapes	uni25D3.p	17799
+1	U+25D4	◔	Geometric Shapes	uni25D4.p	17800
+1	U+25D5	◕	Geometric Shapes	uni25D5.p	17801
+1	U+25D6	◖	Geometric Shapes	uni25D6.p	17802
+1	U+25D7	◗	Geometric Shapes	uni25D7.p	17803
+1	U+25D8	◘	Geometric Shapes	uni25D8.p	17804
+1	U+25D9	◙	Geometric Shapes	uni25D9.p	17805
+1	U+25DA	◚	Geometric Shapes	uni25DA.p	17806
+1	U+25DB	◛	Geometric Shapes	uni25DB.p	17807
+1	U+25DC	◜	Geometric Shapes	uni25DC.p	17808
+1	U+25DD	◝	Geometric Shapes	uni25DD.p	17809
+1	U+25DE	◞	Geometric Shapes	uni25DE.p	17810
+1	U+25DF	◟	Geometric Shapes	uni25DF.p	17811
+1	U+25E0	◠	Geometric Shapes	uni25E0.p	17812
+1	U+25E1	◡	Geometric Shapes	uni25E1.p	17813
+1	U+25E2	◢	Geometric Shapes	uni25E2.p	17814
+1	U+25E3	◣	Geometric Shapes	uni25E3.p	17815
+1	U+25E4	◤	Geometric Shapes	uni25E4.p	17816
+1	U+25E5	◥	Geometric Shapes	uni25E5.p	17817
+1	U+25E6	◦	Geometric Shapes	uni25E6.p	17818
+1	U+25E7	◧	Geometric Shapes	uni25E7.p	17819
+1	U+25E8	◨	Geometric Shapes	uni25E8.p	17820
+1	U+25E9	◩	Geometric Shapes	uni25E9.p	17821
+1	U+25EA	◪	Geometric Shapes	uni25EA.p	17822
+1	U+25EB	◫	Geometric Shapes	uni25EB.p	17823
+1	U+25EC	◬	Geometric Shapes	uni25EC.p	17824
+1	U+25ED	◭	Geometric Shapes	uni25ED.p	17825
+1	U+25EE	◮	Geometric Shapes	uni25EE.p	17826
+1	U+25EF	◯	Geometric Shapes	uni25EF.p	17827
+1	U+2600	☀	Miscellaneous Symbols	uni2600.p	17828
+1	U+2601	☁	Miscellaneous Symbols	uni2601.p	17829
+1	U+2602	☂	Miscellaneous Symbols	uni2602.p	17830
+1	U+2603	☃	Miscellaneous Symbols	uni2603.p	17831
+1	U+2604	☄	Miscellaneous Symbols	uni2604.p	17832
+1	U+2605	★	Miscellaneous Symbols	uni2605.p	17833
+1	U+2606	☆	Miscellaneous Symbols	uni2606.p	17834
+1	U+2607	☇	Miscellaneous Symbols	uni2607.p	17835
+1	U+2608	☈	Miscellaneous Symbols	uni2608.p	17836
+1	U+2609	☉	Miscellaneous Symbols	uni2609.p	17837
+1	U+260A	☊	Miscellaneous Symbols	uni260A.p	17838
+1	U+260B	☋	Miscellaneous Symbols	uni260B.p	17839
+1	U+260C	☌	Miscellaneous Symbols	uni260C.p	17840
+1	U+260D	☍	Miscellaneous Symbols	uni260D.p	17841
+1	U+260E	☎	Miscellaneous Symbols	uni260E.p	17842
+1	U+260F	☏	Miscellaneous Symbols	uni260F.p	17843
+1	U+2610	☐	Miscellaneous Symbols	uni2610.p	17844
+1	U+2611	☑	Miscellaneous Symbols	uni2611.p	17845
+1	U+2612	☒	Miscellaneous Symbols	uni2612.p	17846
+1	U+2613	☓	Miscellaneous Symbols	uni2613.p	17847
+1	U+2616	☖	Miscellaneous Symbols	uni2616.p	17848
+1	U+2617	☗	Miscellaneous Symbols	uni2617.p	17849
+1	U+261A	☚	Miscellaneous Symbols	uni261A.p	17850
+1	U+261B	☛	Miscellaneous Symbols	uni261B.p	17851
+1	U+261C	☜	Miscellaneous Symbols	uni261C.p	17852
+1	U+261D	☝	Miscellaneous Symbols	uni261D.p	17853
+1	U+261E	☞	Miscellaneous Symbols	uni261E.p	17854
+1	U+261F	☟	Miscellaneous Symbols	uni261F.p	17855
+1	U+2620	☠	Miscellaneous Symbols	uni2620.p	17856
+1	U+2621	☡	Miscellaneous Symbols	uni2621.p	17857
+1	U+2622	☢	Miscellaneous Symbols	uni2622.p	17858
+1	U+2623	☣	Miscellaneous Symbols	uni2623.p	17859
+1	U+2624	☤	Miscellaneous Symbols	uni2624.p	17860
+1	U+2625	☥	Miscellaneous Symbols	uni2625.p	17861
+1	U+2626	☦	Miscellaneous Symbols	uni2626.p	17862
+1	U+2627	☧	Miscellaneous Symbols	uni2627.p	17863
+1	U+2628	☨	Miscellaneous Symbols	uni2628.p	17864
+1	U+2629	☩	Miscellaneous Symbols	uni2629.p	17865
+1	U+262A	☪	Miscellaneous Symbols	uni262A.p	17866
+1	U+262B	☫	Miscellaneous Symbols	uni262B.p	17867
+1	U+262C	☬	Miscellaneous Symbols	uni262C.p	17868
+1	U+262D	☭	Miscellaneous Symbols	uni262D.p	17869
+1	U+262E	☮	Miscellaneous Symbols	uni262E.p	17870
+1	U+262F	☯	Miscellaneous Symbols	uni262F.p	17871
+1	U+2630	☰	Miscellaneous Symbols	uni2630.p	17872
+1	U+2631	☱	Miscellaneous Symbols	uni2631.p	17873
+1	U+2632	☲	Miscellaneous Symbols	uni2632.p	17874
+1	U+2633	☳	Miscellaneous Symbols	uni2633.p	17875
+1	U+2634	☴	Miscellaneous Symbols	uni2634.p	17876
+1	U+2635	☵	Miscellaneous Symbols	uni2635.p	17877
+1	U+2636	☶	Miscellaneous Symbols	uni2636.p	17878
+1	U+2637	☷	Miscellaneous Symbols	uni2637.p	17879
+1	U+2638	☸	Miscellaneous Symbols	uni2638.p	17880
+1	U+2639	☹	Miscellaneous Symbols	uni2639.p	17881
+1	U+263A	☺	Miscellaneous Symbols	uni263A.p	17882
+1	U+263B	☻	Miscellaneous Symbols	uni263B.p	17883
+1	U+263C	☼	Miscellaneous Symbols	uni263C.p	17884
+1	U+263D	☽	Miscellaneous Symbols	uni263D.p	17885
+1	U+263E	☾	Miscellaneous Symbols	uni263E.p	17886
+1	U+263F	☿	Miscellaneous Symbols	uni263F.p	17887
+1	U+2640	♀	Miscellaneous Symbols	uni2640.p	17888
+1	U+2641	♁	Miscellaneous Symbols	uni2641.p	17889
+1	U+2642	♂	Miscellaneous Symbols	uni2642.p	17890
+1	U+2643	♃	Miscellaneous Symbols	uni2643.p	17891
+1	U+2644	♄	Miscellaneous Symbols	uni2644.p	17892
+1	U+2645	♅	Miscellaneous Symbols	uni2645.p	17893
+1	U+2646	♆	Miscellaneous Symbols	uni2646.p	17894
+1	U+2647	♇	Miscellaneous Symbols	uni2647.p	17895
+1	U+2648	♈	Miscellaneous Symbols	uni2648.p	17896
+1	U+2649	♉	Miscellaneous Symbols	uni2649.p	17897
+1	U+264A	♊	Miscellaneous Symbols	uni264A.p	17898
+1	U+264B	♋	Miscellaneous Symbols	uni264B.p	17899
+1	U+264C	♌	Miscellaneous Symbols	uni264C.p	17900
+1	U+264D	♍	Miscellaneous Symbols	uni264D.p	17901
+1	U+264E	♎	Miscellaneous Symbols	uni264E.p	17902
+1	U+264F	♏	Miscellaneous Symbols	uni264F.p	17903
+1	U+2650	♐	Miscellaneous Symbols	uni2650.p	17904
+1	U+2651	♑	Miscellaneous Symbols	uni2651.p	17905
+1	U+2652	♒	Miscellaneous Symbols	uni2652.p	17906
+1	U+2653	♓	Miscellaneous Symbols	uni2653.p	17907
+1	U+2654	♔	Miscellaneous Symbols	uni2654.p	17908
+1	U+2655	♕	Miscellaneous Symbols	uni2655.p	17909
+1	U+2656	♖	Miscellaneous Symbols	uni2656.p	17910
+1	U+2657	♗	Miscellaneous Symbols	uni2657.p	17911
+1	U+2658	♘	Miscellaneous Symbols	uni2658.p	17912
+1	U+2659	♙	Miscellaneous Symbols	uni2659.p	17913
+1	U+265A	♚	Miscellaneous Symbols	uni265A.p	17914
+1	U+265B	♛	Miscellaneous Symbols	uni265B.p	17915
+1	U+265C	♜	Miscellaneous Symbols	uni265C.p	17916
+1	U+265D	♝	Miscellaneous Symbols	uni265D.p	17917
+1	U+265E	♞	Miscellaneous Symbols	uni265E.p	17918
+1	U+265F	♟	Miscellaneous Symbols	uni265F.p	17919
+1	U+2660	♠	Miscellaneous Symbols	uni2660.p	17920
+1	U+2661	♡	Miscellaneous Symbols	uni2661.p	17921
+1	U+2662	♢	Miscellaneous Symbols	uni2662.p	17922
+1	U+2663	♣	Miscellaneous Symbols	uni2663.p	17923
+1	U+2664	♤	Miscellaneous Symbols	uni2664.p	17924
+1	U+2665	♥	Miscellaneous Symbols	uni2665.p	17925
+1	U+2666	♦	Miscellaneous Symbols	uni2666.p	17926
+1	U+2667	♧	Miscellaneous Symbols	uni2667.p	17927
+1	U+2668	♨	Miscellaneous Symbols	uni2668.p	17928
+1	U+2669	♩	Miscellaneous Symbols	uni2669.p	17929
+1	U+266A	♪	Miscellaneous Symbols	uni266A.p	17930
+1	U+266B	♫	Miscellaneous Symbols	uni266B.p	17931
+1	U+266C	♬	Miscellaneous Symbols	uni266C.p	17932
+1	U+266D	♭	Miscellaneous Symbols	uni266D.p	17933
+1	U+266E	♮	Miscellaneous Symbols	uni266E.p	17934
+1	U+266F	♯	Miscellaneous Symbols	uni266F.p	17935
+1	U+2701	✁	Dingbats	uni2701.p	17936
+1	U+2702	✂	Dingbats	uni2702.p	17937
+1	U+2703	✃	Dingbats	uni2703.p	17938
+1	U+2704	✄	Dingbats	uni2704.p	17939
+1	U+2706	✆	Dingbats	uni2706.p	17940
+1	U+2707	✇	Dingbats	uni2707.p	17941
+1	U+2708	✈	Dingbats	uni2708.p	17942
+1	U+2709	✉	Dingbats	uni2709.p	17943
+1	U+270C	✌	Dingbats	uni270C.p	17944
+1	U+270D	✍	Dingbats	uni270D.p	17945
+1	U+270E	✎	Dingbats	uni270E.p	17946
+1	U+270F	✏	Dingbats	uni270F.p	17947
+1	U+2710	✐	Dingbats	uni2710.p	17948
+1	U+2711	✑	Dingbats	uni2711.p	17949
+1	U+2712	✒	Dingbats	uni2712.p	17950
+1	U+2713	✓	Dingbats	uni2713.p	17951
+1	U+2714	✔	Dingbats	uni2714.p	17952
+1	U+2715	✕	Dingbats	uni2715.p	17953
+1	U+2716	✖	Dingbats	uni2716.p	17954
+1	U+2717	✗	Dingbats	uni2717.p	17955
+1	U+2718	✘	Dingbats	uni2718.p	17956
+1	U+2719	✙	Dingbats	uni2719.p	17957
+1	U+271A	✚	Dingbats	uni271A.p	17958
+1	U+271B	✛	Dingbats	uni271B.p	17959
+1	U+271C	✜	Dingbats	uni271C.p	17960
+1	U+271D	✝	Dingbats	uni271D.p	17961
+1	U+271E	✞	Dingbats	uni271E.p	17962
+1	U+271F	✟	Dingbats	uni271F.p	17963
+1	U+2720	✠	Dingbats	uni2720.p	17964
+1	U+2721	✡	Dingbats	uni2721.p	17965
+1	U+2722	✢	Dingbats	uni2722.p	17966
+1	U+2723	✣	Dingbats	uni2723.p	17967
+1	U+2724	✤	Dingbats	uni2724.p	17968
+1	U+2725	✥	Dingbats	uni2725.p	17969
+1	U+2726	✦	Dingbats	uni2726.p	17970
+1	U+2727	✧	Dingbats	uni2727.p	17971
+1	U+2729	✩	Dingbats	uni2729.p	17972
+1	U+272A	✪	Dingbats	uni272A.p	17973
+1	U+272B	✫	Dingbats	uni272B.p	17974
+1	U+272C	✬	Dingbats	uni272C.p	17975
+1	U+272D	✭	Dingbats	uni272D.p	17976
+1	U+272E	✮	Dingbats	uni272E.p	17977
+1	U+272F	✯	Dingbats	uni272F.p	17978
+1	U+2730	✰	Dingbats	uni2730.p	17979
+1	U+2731	✱	Dingbats	uni2731.p	17980
+1	U+2732	✲	Dingbats	uni2732.p	17981
+1	U+2733	✳	Dingbats	uni2733.p	17982
+1	U+2734	✴	Dingbats	uni2734.p	17983
+1	U+2735	✵	Dingbats	uni2735.p	17984
+1	U+2736	✶	Dingbats	uni2736.p	17985
+1	U+2737	✷	Dingbats	uni2737.p	17986
+1	U+2738	✸	Dingbats	uni2738.p	17987
+1	U+2739	✹	Dingbats	uni2739.p	17988
+1	U+273A	✺	Dingbats	uni273A.p	17989
+1	U+273B	✻	Dingbats	uni273B.p	17990
+1	U+273C	✼	Dingbats	uni273C.p	17991
+1	U+273D	✽	Dingbats	uni273D.p	17992
+1	U+273E	✾	Dingbats	uni273E.p	17993
+1	U+273F	✿	Dingbats	uni273F.p	17994
+1	U+2740	❀	Dingbats	uni2740.p	17995
+1	U+2741	❁	Dingbats	uni2741.p	17996
+1	U+2742	❂	Dingbats	uni2742.p	17997
+1	U+2743	❃	Dingbats	uni2743.p	17998
+1	U+2744	❄	Dingbats	uni2744.p	17999
+1	U+2745	❅	Dingbats	uni2745.p	18000
+1	U+2746	❆	Dingbats	uni2746.p	18001
+1	U+2747	❇	Dingbats	uni2747.p	18002
+1	U+2748	❈	Dingbats	uni2748.p	18003
+1	U+2749	❉	Dingbats	uni2749.p	18004
+1	U+274A	❊	Dingbats	uni274A.p	18005
+1	U+274B	❋	Dingbats	uni274B.p	18006
+1	U+274D	❍	Dingbats	uni274D.p	18007
+1	U+274F	❏	Dingbats	uni274F.p	18008
+1	U+2750	❐	Dingbats	uni2750.p	18009
+1	U+2751	❑	Dingbats	uni2751.p	18010
+1	U+2752	❒	Dingbats	uni2752.p	18011
+1	U+2756	❖	Dingbats	uni2756.p	18012
+1	U+2758	❘	Dingbats	uni2758.p	18013
+1	U+2759	❙	Dingbats	uni2759.p	18014
+1	U+275A	❚	Dingbats	uni275A.p	18015
+1	U+275B	❛	Dingbats	uni275B.p	18016
+1	U+275C	❜	Dingbats	uni275C.p	18017
+1	U+275D	❝	Dingbats	uni275D.p	18018
+1	U+275E	❞	Dingbats	uni275E.p	18019
+1	U+2761	❡	Dingbats	uni2761.p	18020
+1	U+2762	❢	Dingbats	uni2762.p	18021
+1	U+2763	❣	Dingbats	uni2763.p	18022
+1	U+2764	❤	Dingbats	uni2764.p	18023
+1	U+2765	❥	Dingbats	uni2765.p	18024
+1	U+2766	❦	Dingbats	uni2766.p	18025
+1	U+2767	❧	Dingbats	uni2767.p	18026
+1	U+2776	❶	Dingbats	uni2776.p	18027
+1	U+2777	❷	Dingbats	uni2777.p	18028
+1	U+2778	❸	Dingbats	uni2778.p	18029
+1	U+2779	❹	Dingbats	uni2779.p	18030
+1	U+277A	❺	Dingbats	uni277A.p	18031
+1	U+277B	❻	Dingbats	uni277B.p	18032
+1	U+277C	❼	Dingbats	uni277C.p	18033
+1	U+277D	❽	Dingbats	uni277D.p	18034
+1	U+277E	❾	Dingbats	uni277E.p	18035
+1	U+277F	❿	Dingbats	uni277F.p	18036
+1	U+2780	➀	Dingbats	uni2780.p	18037
+1	U+2781	➁	Dingbats	uni2781.p	18038
+1	U+2782	➂	Dingbats	uni2782.p	18039
+1	U+2783	➃	Dingbats	uni2783.p	18040
+1	U+2784	➄	Dingbats	uni2784.p	18041
+1	U+2785	➅	Dingbats	uni2785.p	18042
+1	U+2786	➆	Dingbats	uni2786.p	18043
+1	U+2787	➇	Dingbats	uni2787.p	18044
+1	U+2788	➈	Dingbats	uni2788.p	18045
+1	U+2789	➉	Dingbats	uni2789.p	18046
+1	U+278A	➊	Dingbats	uni278A.p	18047
+1	U+278B	➋	Dingbats	uni278B.p	18048
+1	U+278C	➌	Dingbats	uni278C.p	18049
+1	U+278D	➍	Dingbats	uni278D.p	18050
+1	U+278E	➎	Dingbats	uni278E.p	18051
+1	U+278F	➏	Dingbats	uni278F.p	18052
+1	U+2790	➐	Dingbats	uni2790.p	18053
+1	U+2791	➑	Dingbats	uni2791.p	18054
+1	U+2792	➒	Dingbats	uni2792.p	18055
+1	U+2793	➓	Dingbats	uni2793.p	18056
+1	U+2794	➔	Dingbats	uni2794.p	18057
+1	U+2798	➘	Dingbats	uni2798.p	18058
+1	U+2799	➙	Dingbats	uni2799.p	18059
+1	U+279A	➚	Dingbats	uni279A.p	18060
+1	U+279B	➛	Dingbats	uni279B.p	18061
+1	U+279C	➜	Dingbats	uni279C.p	18062
+1	U+279D	➝	Dingbats	uni279D.p	18063
+1	U+279E	➞	Dingbats	uni279E.p	18064
+1	U+279F	➟	Dingbats	uni279F.p	18065
+1	U+27A0	➠	Dingbats	uni27A0.p	18066
+1	U+27A1	➡	Dingbats	uni27A1.p	18067
+1	U+27A2	➢	Dingbats	uni27A2.p	18068
+1	U+27A3	➣	Dingbats	uni27A3.p	18069
+1	U+27A4	➤	Dingbats	uni27A4.p	18070
+1	U+27A5	➥	Dingbats	uni27A5.p	18071
+1	U+27A6	➦	Dingbats	uni27A6.p	18072
+1	U+27A7	➧	Dingbats	uni27A7.p	18073
+1	U+27A8	➨	Dingbats	uni27A8.p	18074
+1	U+27A9	➩	Dingbats	uni27A9.p	18075
+1	U+27AA	➪	Dingbats	uni27AA.p	18076
+1	U+27AB	➫	Dingbats	uni27AB.p	18077
+1	U+27AC	➬	Dingbats	uni27AC.p	18078
+1	U+27AD	➭	Dingbats	uni27AD.p	18079
+1	U+27AE	➮	Dingbats	uni27AE.p	18080
+1	U+27AF	➯	Dingbats	uni27AF.p	18081
+1	U+27B1	➱	Dingbats	uni27B1.p	18082
+1	U+27B2	➲	Dingbats	uni27B2.p	18083
+1	U+27B3	➳	Dingbats	uni27B3.p	18084
+1	U+27B4	➴	Dingbats	uni27B4.p	18085
+1	U+27B5	➵	Dingbats	uni27B5.p	18086
+1	U+27B6	➶	Dingbats	uni27B6.p	18087
+1	U+27B7	➷	Dingbats	uni27B7.p	18088
+1	U+27B8	➸	Dingbats	uni27B8.p	18089
+1	U+27B9	➹	Dingbats	uni27B9.p	18090
+1	U+27BA	➺	Dingbats	uni27BA.p	18091
+1	U+27BB	➻	Dingbats	uni27BB.p	18092
+1	U+27BC	➼	Dingbats	uni27BC.p	18093
+1	U+27BD	➽	Dingbats	uni27BD.p	18094
+1	U+27BE	➾	Dingbats	uni27BE.p	18095
+1	U+2934	⤴	Supplemental Arrows-B	uni2934.p	18096
+1	U+2935	⤵	Supplemental Arrows-B	uni2935.p	18097
+1	U+2985	⦅	Miscellaneous Mathematical Symbols-B	uni2985.p	18098
+1	U+2986	⦆	Miscellaneous Mathematical Symbols-B	uni2986.p	18099
+1	U+29BF	⦿	Miscellaneous Mathematical Symbols-B	uni29BF.p	18100
+1	U+29FA	⧺	Miscellaneous Mathematical Symbols-B	uni29FA.p	18101
+1	U+29FB	⧻	Miscellaneous Mathematical Symbols-B	uni29FB.p	18102
+1	U+3000	<IDEOGRAPHIC SPACE>	CJK Symbols and Punctuation	uni3000.p	18103
+1	U+3001	、	CJK Symbols and Punctuation	uni3001.p	18104
+1	U+3002	。	CJK Symbols and Punctuation	uni3002.p	18105
+1	U+3003	〃	CJK Symbols and Punctuation	uni3003.p	18106
+1	U+3004	〄	CJK Symbols and Punctuation	uni3004	2061
+1	U+3005	々	CJK Symbols and Punctuation	uni3005.p	18107
+1	U+3006	〆	CJK Symbols and Punctuation	uni3006.p	18108
+1	U+3007	〇	CJK Symbols and Punctuation	uni3007.p	18109
+1	U+3008	〈	CJK Symbols and Punctuation	uni3008.p	18110
+1	U+3009	〉	CJK Symbols and Punctuation	uni3009.p	18111
+1	U+300A	《	CJK Symbols and Punctuation	uni300A.p	18112
+1	U+300B	》	CJK Symbols and Punctuation	uni300B.p	18113
+1	U+300C	「	CJK Symbols and Punctuation	uni300C.p	18114
+1	U+300D	」	CJK Symbols and Punctuation	uni300D.p	18115
+1	U+300E	『	CJK Symbols and Punctuation	uni300E.p	18116
+1	U+300F	』	CJK Symbols and Punctuation	uni300F.p	18117
+1	U+3010	【	CJK Symbols and Punctuation	uni3010.p	18118
+1	U+3011	】	CJK Symbols and Punctuation	uni3011.p	18119
+1	U+3012	〒	CJK Symbols and Punctuation	uni3012.p	18120
+1	U+3013	〓	CJK Symbols and Punctuation	uni3013.p	18121
+1	U+3014	〔	CJK Symbols and Punctuation	uni3014.p	18122
+1	U+3015	〕	CJK Symbols and Punctuation	uni3015.p	18123
+1	U+3016	〖	CJK Symbols and Punctuation	uni3016	2079
+1	U+3017	〗	CJK Symbols and Punctuation	uni3017	2080
+1	U+3018	〘	CJK Symbols and Punctuation	uni3018	2081
+1	U+3019	〙	CJK Symbols and Punctuation	uni3019	2082
+1	U+301A	〚	CJK Symbols and Punctuation	uni301A	2083
+1	U+301B	〛	CJK Symbols and Punctuation	uni301B	2084
+1	U+301C	〜	CJK Symbols and Punctuation	uni301C	2085
+1	U+301D	〝	CJK Symbols and Punctuation	uni301D.p	18124
+1	U+301E	〞	CJK Symbols and Punctuation	uni301E	2087
+1	U+301F	〟	CJK Symbols and Punctuation	uni301F.p	18125
+1	U+3020	〠	CJK Symbols and Punctuation	uni3020	2089
+1	U+3030	〰	CJK Symbols and Punctuation	uni3030	2090
+1	U+3031	〱	CJK Symbols and Punctuation	uni3031	2091
+1	U+3032	〲	CJK Symbols and Punctuation	uni3032	2092
+1	U+3033	〳	CJK Symbols and Punctuation	uni3033	2093
+1	U+3034	〴	CJK Symbols and Punctuation	uni3034	2094
+1	U+3035	〵	CJK Symbols and Punctuation	uni3035	2095
+1	U+3036	〶	CJK Symbols and Punctuation	uni3036	2096
+1	U+3037	〷	CJK Symbols and Punctuation	uni3037	2097
+1	U+303B	〻	CJK Symbols and Punctuation	uni303B.p	18126
+1	U+303C	〼	CJK Symbols and Punctuation	uni303C.p	18127
+1	U+303D	〽	CJK Symbols and Punctuation	uni303D.p	18128
+1	U+FB01	ﬁ	Alphabetic Presentation Forms	uniFB01.p	18426
+1	U+FB02	ﬂ	Alphabetic Presentation Forms	uniFB02.p	18427
+1	U+FDFC	﷼	Arabic Presentation Forms-A	uniFDFC.p	18428
+1	U+FE45	﹅	CJK Compatibility Forms	uniFE45.p	18429
+1	U+FE46	﹆	CJK Compatibility Forms	uniFE46.p	18430
+1	U+FF01	！	Halfwidth and Fullwidth Forms	uniFF01.p	18431
+1	U+FF02	＂	Halfwidth and Fullwidth Forms	uniFF02	15904
+1	U+FF03	＃	Halfwidth and Fullwidth Forms	uniFF03.p	18432
+1	U+FF04	＄	Halfwidth and Fullwidth Forms	uniFF04.p	18433
+1	U+FF05	％	Halfwidth and Fullwidth Forms	uniFF05.p	18434
+1	U+FF06	＆	Halfwidth and Fullwidth Forms	uniFF06.p	18435
+1	U+FF07	＇	Halfwidth and Fullwidth Forms	uniFF07	15909
+1	U+FF08	（	Halfwidth and Fullwidth Forms	uniFF08.p	18436
+1	U+FF09	）	Halfwidth and Fullwidth Forms	uniFF09.p	18437
+1	U+FF0A	＊	Halfwidth and Fullwidth Forms	uniFF0A.p	18438
+1	U+FF0B	＋	Halfwidth and Fullwidth Forms	uniFF0B.p	18439
+1	U+FF0C	，	Halfwidth and Fullwidth Forms	uniFF0C.p	18440
+1	U+FF0D	－	Halfwidth and Fullwidth Forms	uniFF0D.p	18441
+1	U+FF0E	．	Halfwidth and Fullwidth Forms	uniFF0E.p	18442
+1	U+FF0F	／	Halfwidth and Fullwidth Forms	uniFF0F.p	18443
+1	U+FF10	０	Halfwidth and Fullwidth Forms	uniFF10.p	18444
+1	U+FF11	１	Halfwidth and Fullwidth Forms	uniFF11.p	18445
+1	U+FF12	２	Halfwidth and Fullwidth Forms	uniFF12.p	18446
+1	U+FF13	３	Halfwidth and Fullwidth Forms	uniFF13.p	18447
+1	U+FF14	４	Halfwidth and Fullwidth Forms	uniFF14.p	18448
+1	U+FF15	５	Halfwidth and Fullwidth Forms	uniFF15.p	18449
+1	U+FF16	６	Halfwidth and Fullwidth Forms	uniFF16.p	18450
+1	U+FF17	７	Halfwidth and Fullwidth Forms	uniFF17.p	18451
+1	U+FF18	８	Halfwidth and Fullwidth Forms	uniFF18.p	18452
+1	U+FF19	９	Halfwidth and Fullwidth Forms	uniFF19.p	18453
+1	U+FF1A	：	Halfwidth and Fullwidth Forms	uniFF1A.p	18454
+1	U+FF1B	；	Halfwidth and Fullwidth Forms	uniFF1B.p	18455
+1	U+FF1C	＜	Halfwidth and Fullwidth Forms	uniFF1C.p	18456
+1	U+FF1D	＝	Halfwidth and Fullwidth Forms	uniFF1D.p	18457
+1	U+FF1E	＞	Halfwidth and Fullwidth Forms	uniFF1E.p	18458
+1	U+FF1F	？	Halfwidth and Fullwidth Forms	uniFF1F.p	18459
+1	U+FF20	＠	Halfwidth and Fullwidth Forms	uniFF20.p	18460
+1	U+FF21	Ａ	Halfwidth and Fullwidth Forms	uniFF21.p	18461
+1	U+FF22	Ｂ	Halfwidth and Fullwidth Forms	uniFF22.p	18462
+1	U+FF23	Ｃ	Halfwidth and Fullwidth Forms	uniFF23.p	18463
+1	U+FF24	Ｄ	Halfwidth and Fullwidth Forms	uniFF24.p	18464
+1	U+FF25	Ｅ	Halfwidth and Fullwidth Forms	uniFF25.p	18465
+1	U+FF26	Ｆ	Halfwidth and Fullwidth Forms	uniFF26.p	18466
+1	U+FF27	Ｇ	Halfwidth and Fullwidth Forms	uniFF27.p	18467
+1	U+FF28	Ｈ	Halfwidth and Fullwidth Forms	uniFF28.p	18468
+1	U+FF29	Ｉ	Halfwidth and Fullwidth Forms	uniFF29.p	18469
+1	U+FF2A	Ｊ	Halfwidth and Fullwidth Forms	uniFF2A.p	18470
+1	U+FF2B	Ｋ	Halfwidth and Fullwidth Forms	uniFF2B.p	18471
+1	U+FF2C	Ｌ	Halfwidth and Fullwidth Forms	uniFF2C.p	18472
+1	U+FF2D	Ｍ	Halfwidth and Fullwidth Forms	uniFF2D.p	18473
+1	U+FF2E	Ｎ	Halfwidth and Fullwidth Forms	uniFF2E.p	18474
+1	U+FF2F	Ｏ	Halfwidth and Fullwidth Forms	uniFF2F.p	18475
+1	U+FF30	Ｐ	Halfwidth and Fullwidth Forms	uniFF30.p	18476
+1	U+FF31	Ｑ	Halfwidth and Fullwidth Forms	uniFF31.p	18477
+1	U+FF32	Ｒ	Halfwidth and Fullwidth Forms	uniFF32.p	18478
+1	U+FF33	Ｓ	Halfwidth and Fullwidth Forms	uniFF33.p	18479
+1	U+FF34	Ｔ	Halfwidth and Fullwidth Forms	uniFF34.p	18480
+1	U+FF35	Ｕ	Halfwidth and Fullwidth Forms	uniFF35.p	18481
+1	U+FF36	Ｖ	Halfwidth and Fullwidth Forms	uniFF36.p	18482
+1	U+FF37	Ｗ	Halfwidth and Fullwidth Forms	uniFF37.p	18483
+1	U+FF38	Ｘ	Halfwidth and Fullwidth Forms	uniFF38.p	18484
+1	U+FF39	Ｙ	Halfwidth and Fullwidth Forms	uniFF39.p	18485
+1	U+FF3A	Ｚ	Halfwidth and Fullwidth Forms	uniFF3A.p	18486
+1	U+FF3B	［	Halfwidth and Fullwidth Forms	uniFF3B.p	18487
+1	U+FF3C	＼	Halfwidth and Fullwidth Forms	uniFF3C.p	18488
+1	U+FF3D	］	Halfwidth and Fullwidth Forms	uniFF3D.p	18489
+1	U+FF3E	＾	Halfwidth and Fullwidth Forms	uniFF3E.p	18490
+1	U+FF3F	＿	Halfwidth and Fullwidth Forms	uniFF3F.p	18491
+1	U+FF40	｀	Halfwidth and Fullwidth Forms	uniFF40.p	18492
+1	U+FF41	ａ	Halfwidth and Fullwidth Forms	uniFF41.p	18493
+1	U+FF42	ｂ	Halfwidth and Fullwidth Forms	uniFF42.p	18494
+1	U+FF43	ｃ	Halfwidth and Fullwidth Forms	uniFF43.p	18495
+1	U+FF44	ｄ	Halfwidth and Fullwidth Forms	uniFF44.p	18496
+1	U+FF45	ｅ	Halfwidth and Fullwidth Forms	uniFF45.p	18497
+1	U+FF46	ｆ	Halfwidth and Fullwidth Forms	uniFF46.p	18498
+1	U+FF47	ｇ	Halfwidth and Fullwidth Forms	uniFF47.p	18499
+1	U+FF48	ｈ	Halfwidth and Fullwidth Forms	uniFF48.p	18500
+1	U+FF49	ｉ	Halfwidth and Fullwidth Forms	uniFF49.p	18501
+1	U+FF4A	ｊ	Halfwidth and Fullwidth Forms	uniFF4A.p	18502
+1	U+FF4B	ｋ	Halfwidth and Fullwidth Forms	uniFF4B.p	18503
+1	U+FF4C	ｌ	Halfwidth and Fullwidth Forms	uniFF4C.p	18504
+1	U+FF4D	ｍ	Halfwidth and Fullwidth Forms	uniFF4D.p	18505
+1	U+FF4E	ｎ	Halfwidth and Fullwidth Forms	uniFF4E.p	18506
+1	U+FF4F	ｏ	Halfwidth and Fullwidth Forms	uniFF4F.p	18507
+1	U+FF50	ｐ	Halfwidth and Fullwidth Forms	uniFF50.p	18508
+1	U+FF51	ｑ	Halfwidth and Fullwidth Forms	uniFF51.p	18509
+1	U+FF52	ｒ	Halfwidth and Fullwidth Forms	uniFF52.p	18510
+1	U+FF53	ｓ	Halfwidth and Fullwidth Forms	uniFF53.p	18511
+1	U+FF54	ｔ	Halfwidth and Fullwidth Forms	uniFF54.p	18512
+1	U+FF55	ｕ	Halfwidth and Fullwidth Forms	uniFF55.p	18513
+1	U+FF56	ｖ	Halfwidth and Fullwidth Forms	uniFF56.p	18514
+1	U+FF57	ｗ	Halfwidth and Fullwidth Forms	uniFF57.p	18515
+1	U+FF58	ｘ	Halfwidth and Fullwidth Forms	uniFF58.p	18516
+1	U+FF59	ｙ	Halfwidth and Fullwidth Forms	uniFF59.p	18517
+1	U+FF5A	ｚ	Halfwidth and Fullwidth Forms	uniFF5A.p	18518
+1	U+FF5B	｛	Halfwidth and Fullwidth Forms	uniFF5B.p	18519
+1	U+FF5C	｜	Halfwidth and Fullwidth Forms	uniFF5C.p	18520
+1	U+FF5D	｝	Halfwidth and Fullwidth Forms	uniFF5D.p	18521
+1	U+FF5E	～	Halfwidth and Fullwidth Forms	uniFF5E.p	18522
+1	U+FF5F	｟	Halfwidth and Fullwidth Forms	uniFF5F.p	18523
+1	U+FF60	｠	Halfwidth and Fullwidth Forms	uniFF60.p	18524
+1	U+FFE0	￠	Halfwidth and Fullwidth Forms	uniFFE0.p	18588
+1	U+FFE1	￡	Halfwidth and Fullwidth Forms	uniFFE1.p	18589
+1	U+FFE2	￢	Halfwidth and Fullwidth Forms	uniFFE2.p	18590
+1	U+FFE3	￣	Halfwidth and Fullwidth Forms	uniFFE3.p	18591
+1	U+FFE4	￤	Halfwidth and Fullwidth Forms	uniFFE4	16066
+1	U+FFE5	￥	Halfwidth and Fullwidth Forms	uniFFE5.p	18592
+1	U+FFE6	￦	Halfwidth and Fullwidth Forms	uniFFE6.p	18593
+1	U+FFE8	￨	Halfwidth and Fullwidth Forms	uniFFE8	16069
+1	U+FFE9	￩	Halfwidth and Fullwidth Forms	uniFFE9	16070
+1	U+FFEA	￪	Halfwidth and Fullwidth Forms	uniFFEA	16071
+1	U+FFEB	￫	Halfwidth and Fullwidth Forms	uniFFEB	16072
+1	U+FFEC	￬	Halfwidth and Fullwidth Forms	uniFFEC	16073
+1	U+FFED	￭	Halfwidth and Fullwidth Forms	uniFFED	16074
+1	U+FFEE	￮	Halfwidth and Fullwidth Forms	uniFFEE	16075

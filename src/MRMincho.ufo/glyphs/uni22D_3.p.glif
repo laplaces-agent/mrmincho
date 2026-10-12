@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22D3.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="6" y="127" type="line"/>
+      <point x="6" y="155" type="line"/>
+      <point x="15" y="155" type="line"/>
+      <point x="15" y="95" type="line"/>
+      <point x="18" y="74"/>
+      <point x="43" y="51"/>
+      <point x="63" y="51" type="qcurve" smooth="yes"/>
+      <point x="68" y="51"/>
+      <point x="74" y="52" type="qcurve" smooth="yes"/>
+      <point x="91" y="54"/>
+      <point x="112" y="79"/>
+      <point x="113" y="98" type="qcurve"/>
+      <point x="113" y="155" type="line"/>
+      <point x="122" y="155" type="line"/>
+      <point x="122" y="95" type="line"/>
+      <point x="119" y="70"/>
+      <point x="88" y="41"/>
+      <point x="64" y="41" type="qcurve" smooth="yes"/>
+      <point x="59" y="41"/>
+      <point x="54" y="42" type="qcurve"/>
+      <point x="33" y="44"/>
+      <point x="7" y="75"/>
+      <point x="6" y="97" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="25" y="127" type="line"/>
+      <point x="25" y="155" type="line"/>
+      <point x="34" y="155" type="line"/>
+      <point x="34" y="99" type="line"/>
+      <point x="35" y="88"/>
+      <point x="48" y="73"/>
+      <point x="57" y="72" type="qcurve"/>
+      <point x="61" y="71"/>
+      <point x="64" y="71" type="qcurve" smooth="yes"/>
+      <point x="76" y="71"/>
+      <point x="92" y="85"/>
+      <point x="94" y="97" type="qcurve"/>
+      <point x="94" y="155" type="line"/>
+      <point x="103" y="155" type="line"/>
+      <point x="103" y="97" type="line"/>
+      <point x="100" y="80"/>
+      <point x="79" y="61"/>
+      <point x="64" y="61" type="qcurve" smooth="yes"/>
+      <point x="61" y="61"/>
+      <point x="58" y="61" type="qcurve"/>
+      <point x="45" y="63"/>
+      <point x="27" y="82"/>
+      <point x="25" y="97" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
